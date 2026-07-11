@@ -10,11 +10,14 @@ permalink: /
   </a>
 </section>
 
+I am the site
+
 <section class="wrap">
   <h2>Recent Posts</h2>
   <div class="post-grid">
     {% for post in collections.posts %}
-      {% if loop.index <= 9 %}{{ card(post) }}{% endif %}
+      {% if loop.index <= 9 %}{{ card(post) }}
+      {% endif %}
     {% endfor %}
   </div>
 </section>

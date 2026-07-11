@@ -29,7 +29,7 @@ Each post is a Markdown file with front matter like this:
 layout: post.njk
 title: "Kiln Firing #4"
 date: 2026-06-01
-category: pottery       # pottery | travel | cooking
+category: pottery # pottery | travel | cooking
 heroImage: /images/uploads/my-photo.jpg
 heroImageAlt: "Pots freshly out of the kiln"
 tags:

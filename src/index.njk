@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Home
+permalink: /
+---
+{% from "post-card.njk" import card %}
+<section class="home-hero wrap">
+  <a href="/pottery/">
+    <img src="/images/uploads/sample-pottery-hero.jpg" alt="Ceramics">
+  </a>
+</section>
+
+<section class="wrap">
+  <h2>Recent Posts</h2>
+  <div class="post-grid">
+    {% for post in collections.posts %}
+      {% if loop.index <= 9 %}{{ card(post) }}{% endif %}
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,12 @@
+{
+  "title": "Ken Chin-Purcell",
+  "description": "Pottery, travel, and cooking.",
+  "url": "https://chin-purcell.org",
+  "nav": [
+    { "text": "Pottery", "url": "/pottery/" },
+    { "text": "Travel", "url": "/travel/" },
+    { "text": "Cooking", "url": "/cooking/" },
+    { "text": "Archive", "url": "/posts/" },
+    { "text": "Contact", "url": "/contact/" }
+  ]
+}

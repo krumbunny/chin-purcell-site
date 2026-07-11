@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+{% from "post-card.njk" import card %}
+<section class="category-page wrap">
+  <header class="category-header">
+    <h1>{{ title }}</h1>
+    {% if heroImage %}
+      <img class="category-hero" src="{{ heroImage }}" alt="{{ heroImageAlt or title }}">
+    {% endif %}
+    <div class="category-intro">
+      {{ content | safe }}
+    </div>
+  </header>
+
+  <h2 class="category-latest-heading">Latest {{ title }}</h2>
+  <div class="post-grid">
+    {% for post in collections[category] %}
+      {{ card(post) }}
+    {% else %}
+      <p>No posts yet — check back soon.</p>
+    {% endfor %}
+  </div>
+</section>

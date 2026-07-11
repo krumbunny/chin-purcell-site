@@ -1,0 +1,20 @@
+{
+  "name": "chin-purcell-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "luxon": "^3.7.2"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
+  }
+}

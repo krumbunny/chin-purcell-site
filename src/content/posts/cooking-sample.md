@@ -1,0 +1,12 @@
+---
+layout: post.njk
+title: "Yasukochi Box Notes (Sample Post)"
+date: 2026-06-10
+category: cooking
+heroImage: /images/uploads/sample-post-cooking.jpg
+heroImageAlt: "A home-cooked dish"
+tags:
+  - vegetables
+description: "A sample cooking post."
+---
+Sample body copy for a cooking post — weights in grams, a short method, maybe a note on a substitution.

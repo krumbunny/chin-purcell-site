@@ -1,0 +1,11 @@
+{% macro card(post) %}
+<article class="post-card">
+  <a class="post-card-link" href="{{ post.url }}">
+    {% if post.data.heroImage %}
+      <img class="post-card-image" src="{{ post.data.heroImage }}" alt="{{ post.data.heroImageAlt or post.data.title }}" loading="lazy">
+    {% endif %}
+    <h3 class="post-card-title">{{ post.data.title }}</h3>
+  </a>
+  <time class="post-card-date" datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+</article>
+{% endmacro %}

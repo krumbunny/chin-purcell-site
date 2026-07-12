@@ -8,6 +8,6 @@ permalink: /contact/
 
 # Contact
 
-You can reach me at ken[@chin-purcell.org](mailto:hello@chin-purcell.org).
+You can reach me at [ken@chin-purcell.org](mailto:ken@chin-purcell.org).
 
 </div>

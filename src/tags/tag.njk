@@ -1,0 +1,21 @@
+---
+layout: base.njk
+pagination:
+  data: collections.tagCloud
+  size: 1
+  alias: tagInfo
+permalink: "/tags/{{ tagInfo.tag | slugify }}/"
+eleventyComputed:
+  title: "{{ tagInfo.tag }}"
+---
+{% from "post-card.njk" import card %}
+<section class="wrap">
+  <h1>Tag: {{ tagInfo.tag }}</h1>
+  <div class="post-grid">
+    {% for post in collections.posts %}
+      {% if tagInfo.tag in post.data.tags %}
+        {{ card(post) }}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

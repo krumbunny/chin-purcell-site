@@ -4,6 +4,17 @@ title: Archive
 permalink: /posts/
 ---
 {% from "post-card.njk" import card %}
+<section class="wrap tag-cloud-section">
+  <h2>Tags</h2>
+  <div class="tag-cloud">
+    {% for tagInfo in collections.tagCloud %}
+      <a class="tag-cloud-item weight-{{ tagInfo.weight }}" href="/tags/{{ tagInfo.tag | slugify }}/">{{ tagInfo.tag }} <span class="tag-cloud-count">({{ tagInfo.count }})</span></a>
+    {% else %}
+      <p>No tags yet.</p>
+    {% endfor %}
+  </div>
+</section>
+
 <section class="wrap">
   <h1>Archive</h1>
   <div class="post-grid">

@@ -129,7 +129,41 @@ h1, h2, h3 {
   padding: 0.2rem 0.6rem;
   border-radius: 3px;
   margin-right: 0.4rem;
+  text-decoration: none;
 }
+.tag:hover { background: #e8e2d9; }
+
+.post-nav {
+  display: flex;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #eee;
+}
+.post-nav-prev { text-align: left; }
+.post-nav-next { margin-left: auto; text-align: right; }
+
+/* Tag cloud */
+.tag-cloud-section { margin-bottom: 3rem; }
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 1rem;
+}
+.tag-cloud-item {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+.tag-cloud-item:hover { text-decoration: underline; }
+.tag-cloud-count {
+  font-size: 0.75em;
+  color: var(--color-muted);
+}
+.tag-cloud-item.weight-1 { font-size: 0.85rem; }
+.tag-cloud-item.weight-2 { font-size: 1.05rem; }
+.tag-cloud-item.weight-3 { font-size: 1.3rem; }
+.tag-cloud-item.weight-4 { font-size: 1.6rem; }
+.tag-cloud-item.weight-5 { font-size: 2rem; }
 
 /* Footer */
 .site-footer {

@@ -1,10 +1,15 @@
 ---
 title: Tanabata
 date: 2026-07-11
-category: travel
+category:
+  - cooking
+  - travel
 heroImage: /images/uploads/Tanabata26 - 16.jpeg
 heroImageAlt: Shishi
-tags: []
+tags:
+  - shishi
+  - taiko
+  - jfg
 description: Tanabata festival
 ---
 

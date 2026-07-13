@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: krumbunny/chin-purcell-site # <-- update after creating the repo
+  repo: krumbunny/chin-purcell-site
   branch: main
   # base_url: https://YOUR-WORKER-SUBDOMAIN.workers.dev # <-- update after Cloudflare Worker OAuth setup
 
@@ -25,7 +25,10 @@ collections:
       - label: "Category"
         name: "category"
         widget: "select"
-        options: ["pottery", "travel", "cooking"]
+        options: ["pottery", "travel", "cooking", "misc"]
+        multiple: true
+        min: 0
+        required: false
       - {
           label: "Hero Image",
           name: "heroImage",

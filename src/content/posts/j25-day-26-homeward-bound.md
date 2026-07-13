@@ -11,7 +11,7 @@ tags:
 description: "We slept really well after two busy days. We both had very tired feet by the end of yesterday. Michele commented that now her last performance was done…"
 ---
 
-We slept *really* well after two busy days. We both had very tired feet by the end of yesterday. Michele commented that now her last performance was done she could relax and enjoy some vacation. Hah! It's time to go home.
+We slept _really_ well after two busy days. We both had very tired feet by the end of yesterday. Michele commented that now her last performance was done she could relax and enjoy some vacation. Hah! It's time to go home.
 
 ![](/images/uploads/j25-day-26-homeward-bound-img_2348.jpg)
 
@@ -25,7 +25,7 @@ Like last time I'm not exchanging my Yen at the airport, I'm sure we'll come bac
 - The west coast and Sado island
 - North of Tokyo and Hokkaido
 
-[Last time](https://chin-purcell.org/2023/06/17/japan-day-19-headed-home/) I wrote some notes for Future Ken, and here are a couple of more.
+[Last time](https://kenchinpurcell.com/2023/06/17/japan-day-19-headed-home/) I wrote some notes for Future Ken, and here are a couple of more.
 
 - When in Tokyo stay in the first ring districts, like Kichijoji, and not in central Tokyo. Much more interesting neighborhoods and worth the extra train trip.
 - Avoid sights or restaurants listed on a "Best Of" list, Instagram, etc. It will be mobbed. Equally good things are not that hard to find.
@@ -34,5 +34,5 @@ Like last time I'm not exchanging my Yen at the airport, I'm sure we'll come bac
 - Renting a car is feasible and opens up possibilities
 - Michele's taiko connections are amazing. Hosting visitors in Carlsbad leads to good things.
 - We should go back to Hachijojima for the 24 hour challenge
-- The wait for a shuttle bus back to the LAX *Budget* lot takes a long time. Maybe look into using the *Economy* lot next time.
+- The wait for a shuttle bus back to the LAX _Budget_ lot takes a long time. Maybe look into using the _Economy_ lot next time.
 - JAL Premium Economy is indeed Premium.

@@ -7,6 +7,13 @@ backend:
 media_folder: "src/images/uploads"
 public_folder: "/images/uploads"
 
+media_libraries:
+  cloudflare_r2:
+    access_key_id: c833555510946f0a5e0d04786fef3336
+    bucket: images-kenchinpurcell-com
+    account_id: 07862289b39575b6bc78d149b6a3f28c
+    public_url: https://images.kenchinpurcell.com
+
 collections:
   - name: "posts"
     label: "Posts"

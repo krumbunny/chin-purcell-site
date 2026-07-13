@@ -12,7 +12,7 @@
   <meta property="og:description" content="{{ description or site.description }}">
   <meta property="og:type" content="{% if category %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  {% if heroImage %}<meta property="og:image" content="{{ site.url }}{{ heroImage }}">{% endif %}
+  {% if heroImage %}<meta property="og:image" content="{% if heroImage.startsWith('http') %}{{ heroImage }}{% else %}{{ site.url }}{{ heroImage }}{% endif %}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
 
   <link rel="stylesheet" href="/css/style.css">

@@ -1,9 +1,10 @@
 ---
-layout: category.njk
 title: Pottery
+heroImage: /images/uploads/Tanabata26 - 18.jpeg
+heroImageAlt: Ceramics on display
+layout: category.njk
 category: pottery
 permalink: /pottery/
-heroImage: /images/uploads/sample-pottery-hero.jpg
-heroImageAlt: Ceramics on display
 ---
+
 Cups and mugs. Tableware. Bowls and platters. Jars.

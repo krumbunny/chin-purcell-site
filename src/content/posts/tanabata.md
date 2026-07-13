@@ -15,6 +15,6 @@ description: Tanabata festival
 
 Shishi danced at Tanabata this year
 
-![](/images/uploads/Tanabata26%20-%2023.jpeg "mekong")
+![](/images/uploads/Tanabata26%20-%2022.jpeg "Sleeping")
 
 It was great

@@ -1,9 +1,7 @@
 ---
 title: Tanabata
 date: 2026-07-11
-category:
-  - cooking
-  - travel
+category: []
 heroImage: /images/uploads/Tanabata26 - 16.jpeg
 heroImageAlt: Shishi
 tags:

@@ -13,7 +13,7 @@ eleventyComputed:
   <h1>Tag: {{ tagInfo.tag }}</h1>
   <div class="post-grid">
     {% for post in collections.posts %}
-      {% if tagInfo.tag in post.data.tags %}
+      {% if tagInfo.tag in (post.data.tags or []) %}
         {{ card(post) }}
       {% endif %}
     {% endfor %}

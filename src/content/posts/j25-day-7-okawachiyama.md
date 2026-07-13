@@ -77,7 +77,7 @@ There were photos of past potters in the shrine, not a bad place to be remembere
 
 Down by the creek in town there was an antique water driven mortar that pounded the kaolin into usable clay.
 
-<video controls src="/images/uploads/j25-day-7-okawachiyama-img_1123.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-7-okawachiyama-img_1123.mp4"></video> -->
 
 <em>Wait for it…</em>
 

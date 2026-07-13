@@ -29,7 +29,7 @@ So much for Plan A
 
 Gates are closed across the road! Flashing red lights! Announcements from outdoor speakers! Your reporter on the spot has the news:
 
-<video controls src="/images/uploads/j25-day-9-aso-san-img_1468.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-9-aso-san-img_1468.mp4"></video> -->
 
 We backtracked from Nakadake and took a hike up the very dormant Mt. Kishima instead.
 
@@ -69,7 +69,7 @@ The volcano museum would have been very exciting for 11 year old Ken, with lots 
 
 I was more than happy to plunk down a 100¥ coin so I could control a camera into the Nakadake crater.
 
-<video controls src="/images/uploads/j25-day-9-aso-san-img_1476.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-9-aso-san-img_1476.mp4"></video> -->
 
 In 2016 there was a very strong earthquake in the region which caused a lot of damage in Aso and Kumamoto. The volcano museum survived, but to give you a sense of the shaking they marked how far this one ton telescope and pedestal moved. The red outline is where it was pre earthquake.
 
@@ -89,4 +89,4 @@ Neither chair fits
 
 Dinner finished with wagyu beef on our own grills.
 
-<video controls src="/images/uploads/j25-day-9-aso-san-img_1312.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-9-aso-san-img_1312.mp4"></video> -->

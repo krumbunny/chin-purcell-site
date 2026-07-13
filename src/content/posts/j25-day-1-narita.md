@@ -31,7 +31,7 @@ Our 787 wing generating its own marine layer
 
 We met our old friend the Tourist Mob at Narita, here from all over the world for Sakura. Immigration and customs took 1.5 hours. I guessed two hours when we finally found the end of the line, so I was actually pleased by the time we got through. As we stood streams of new arrivals wandered by us in disbelief, “this is the line?!?”Japanese passport holders had their own quick line. I would guess the ratio of foreigners to returning Japanese was at about 20:1.
 
-<video controls src="/images/uploads/j25-day-1-narita-img_0780.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-1-narita-img_0780.mp4"></video> -->
 
 <em>Chinese, Brazilians, Americans, Brits…</em>
 

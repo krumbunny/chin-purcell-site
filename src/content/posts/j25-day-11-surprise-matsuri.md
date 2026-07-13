@@ -39,11 +39,11 @@ We still had some time before our Walk Japan group met up, and we found ourselve
 
 Wait, what is going on down at the end there? It’s a portable shrine! It’s taiko and fue playing!
 
-<video controls src="/images/uploads/j25-day-11-surprise-matsuri-img_1429.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-11-surprise-matsuri-img_1429.mp4"></video> -->
 
 It’s a small matsuri! They were having a fun time going back and forth on the streets around the train station. Michele was excited.
 
-<video controls src="/images/uploads/j25-day-11-surprise-matsuri-img_1430.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-11-surprise-matsuri-img_1430.mp4"></video> -->
 
 Thus ended the section of this trip that was just Michele and me, and now begins the social section. We met up with our friends Bill and Pam at the train station, along with the other walking tour people. All told about a dozen of us plus our guide, Jon from Australia. The rest of the group is from Seattle, Sydney, Dublin and England. Ian from Dublin has by far the thickest accent. It brings back the time we used to live there, trying to understand middle aged men talking quickly. I’m trying to retune my ear.
 

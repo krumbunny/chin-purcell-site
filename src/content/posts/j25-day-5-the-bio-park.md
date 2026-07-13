@@ -11,7 +11,7 @@ tags:
 description: "Today we moved on from Nagasaki. My initial plan was to visit the Kyushu Ceramics Museum, but like any good museum it’s Closed Mondays. So we zagged and…"
 ---
 
-Today we moved on from Nagasaki. My initial plan was to visit the Kyushu Ceramics Museum, but like any good museum it’s [Closed Mondays.](https://shop.walkerart.org/museum-shop/products/copy-of-closed-mondays-sweatshirt) So we zagged and went to the Nagasaki Bio Park out on the Nishisonogi Peninsula. This command decision was made on *very thin* information, namely a brief video we saw years ago of [capybaras sitting in their own onsen](https://youtube.com/clip/UgkxgGaA_v_OYvbrGZMcn0XzUIroFnLcfx01?si=HlGAtjUl-VOxLonS). Sometimes you just need to pull on a thread.
+Today we moved on from Nagasaki. My initial plan was to visit the Kyushu Ceramics Museum, but like any good museum it’s [Closed Mondays.](https://shop.walkerart.org/museum-shop/products/copy-of-closed-mondays-sweatshirt) So we zagged and went to the Nagasaki Bio Park out on the Nishisonogi Peninsula. This command decision was made on _very thin_ information, namely a brief video we saw years ago of [capybaras sitting in their own onsen](https://youtube.com/clip/UgkxgGaA_v_OYvbrGZMcn0XzUIroFnLcfx01?si=HlGAtjUl-VOxLonS). Sometimes you just need to pull on a thread.
 
 But first we needed to rent a car. To get to the car rental with our bags we hailed a taxi using the [GO app](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709), which has a user interface like Uber but summons a real taxi. This is perfect for Japan, since the taxis here are great. They are special made vehicles with lots of rear room, they are clean and often decked out in white lace, and the drivers are good.
 
@@ -23,7 +23,7 @@ Ready to launch? Not really…
 
 One of the things that’s flipped control wise is the turn signal and windshield wipers. So several times I went to signal a turn and the wipers would frantically go back and forth. Or I would try to flash my high beams to signal another driver but instead sprayed the windshield.
 
-Michele was a good navigator. I had three women talking to me as I drove; the Google Maps lady with directions, Michele calling out signals and just being another set of eyes, and the car itself, which the moment I was 2 km/hr over the limit would say “Pay *attention* to the *driving* speed”. I had a lot of help.
+Michele was a good navigator. I had three women talking to me as I drove; the Google Maps lady with directions, Michele calling out signals and just being another set of eyes, and the car itself, which the moment I was 2 km/hr over the limit would say “Pay _attention_ to the _driving_ speed”. I had a lot of help.
 
 We got to the Bio Park without incident. Phew.
 
@@ -89,7 +89,7 @@ After the Bio Park I started to feel more comfortable driving. We drove north up
 
 ![](/images/uploads/j25-day-5-the-bio-park-img_0981.jpg)
 
-<video controls src="/images/uploads/j25-day-5-the-bio-park-img_0991.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-5-the-bio-park-img_0991.mp4"></video> -->
 
 We landed for the evening at the Central Imari Hotel, which has a nice onsen attached. The guests are a mix of business travelers and two tour busses, probably for sakura. We might be the only westerners here. The bathroom is juuuuust tall enough.
 

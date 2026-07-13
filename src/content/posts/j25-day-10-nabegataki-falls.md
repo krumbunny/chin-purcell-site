@@ -49,7 +49,7 @@ A short walk down took us to the falls. They were formed when a lava flow from o
 
 ![](/images/uploads/j25-day-10-nabegataki-falls-k1000987-1.jpg)
 
-<video controls src="/images/uploads/j25-day-10-nabegataki-falls-img_1479.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-10-nabegataki-falls-img_1479.mp4"></video> -->
 
 The gift shop featured fresh shiitake mushrooms and Aso Bear.
 
@@ -99,6 +99,6 @@ Back down in the bowl we stopped by the Aso Milk Factory for an ice cream and a 
 
 ![](/images/uploads/j25-day-10-nabegataki-falls-img_1364.jpg)
 
-It was great ice cream, which is understandable because according to [AMF’s website](https://asomilkfactory.com) the milk is *freshly squeezed*.
+It was great ice cream, which is understandable because according to [AMF’s website](https://asomilkfactory.com) the milk is _freshly squeezed_.
 
 ![](/images/uploads/j25-day-10-nabegataki-falls-img_0170-1.jpg)

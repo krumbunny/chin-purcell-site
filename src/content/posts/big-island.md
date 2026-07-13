@@ -22,7 +22,7 @@ A fellow passenger in the shuttle from Old Town station to the airport was much 
 
 We decided to first fly to the Big Island for several days. MS made it just fine to the minimal Kona airport, which in good Hawaiian style feels like an elaborate covered porch from the 1980’s.
 
-For all its size the geography of Hawaii (the island) is pretty simple - it’s a big cone of lava about 80 miles across, sloping up at about 8% grade. Frequent lava flows from several volcanoes form a radiating patchwork. In about half of the patches it’s been long enough that the lava has eroded to support some jungle or coffee/chocolate/macadamia trees clinging to *at most* a foot of top soil. The other patches are a moonscape of black sharp lava stone, sometime in large broken sheets but usually a jumble of large cobbles.
+For all its size the geography of Hawaii (the island) is pretty simple - it’s a big cone of lava about 80 miles across, sloping up at about 8% grade. Frequent lava flows from several volcanoes form a radiating patchwork. In about half of the patches it’s been long enough that the lava has eroded to support some jungle or coffee/chocolate/macadamia trees clinging to _at most_ a foot of top soil. The other patches are a moonscape of black sharp lava stone, sometime in large broken sheets but usually a jumble of large cobbles.
 
 The lava rock is porous, and there are hundreds of miles of vacant lava tubes under the surface. So except for a small glacial lake near the top, left over from the last ice age, there’s no standing fresh water. The abundant rain just soaks in and flows down to the ocean underneath.
 
@@ -76,9 +76,9 @@ The currently active volcano is Kilauea, and we got lucky when we visited. We fi
 
 ![](/images/uploads/big-island-img_1787.jpg)
 
-Eruptions at Kilauea come and go, and one had started this morning. The park was mobbed, but we managed to find a parking spot and stopped by the visitor center. The ranger in there suggested we get over to the caldera rim *now*, because you never know. So we hustled over there, the rain clouds cleared for fifteen minutes and we saw:
+Eruptions at Kilauea come and go, and one had started this morning. The park was mobbed, but we managed to find a parking spot and stopped by the visitor center. The ranger in there suggested we get over to the caldera rim _now_, because you never know. So we hustled over there, the rain clouds cleared for fifteen minutes and we saw:
 
-<video controls src="/images/uploads/big-island-img_2459.mp4"></video>
+<!-- <video controls src="/images/uploads/big-island-img_2459.mp4"></video> -->
 
 <em>High Drama</em>
 

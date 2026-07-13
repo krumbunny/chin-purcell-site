@@ -33,7 +33,7 @@ We walked up river to the temple.
 
 ![](/images/uploads/j25-day-12-one-determined-monk-k1001017-1.jpg)
 
-<video controls src="/images/uploads/j25-day-12-one-determined-monk-img_1458.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-12-one-determined-monk-img_1458.mp4"></video> -->
 
 [Rakan-ji temple](https://en.wikipedia.org/wiki/Rakan-ji?wprov=sfti1#) is absolutely gorgeous and absolutely prohibits any photographs. You climb 308 +/- 5 (N=2) steps to a set of temple buildings built into the cliff face. There are beautiful ponds that shimmer reflections on the cave roof, much like the video above of the river on the highway overpass. There are places to write down things you would like to leave behind, and after a zig-zag maze you arrive at a bell to ring. Cherry blossoms flutter in the air. It’s great. There are some mediocre photos at the Wikipedia link above.
 
@@ -45,7 +45,7 @@ After that was a bento lunch at another spot along the river gorge Sarutobi Keik
 
 ![](/images/uploads/j25-day-12-one-determined-monk-k1001021-1.jpg)
 
-We were headed to Hita for the night, which was the old seat of power for Kyushu. In the Edo period the Tokugawa shogun kept direct control of some key cities across Japan, and centrally located Hita was one of them. It probably didn’t hurt that Hita had a gold mine. Linking Hita to the sea was the Hita Okan, and we walked a long section of the *ishidatami* stone paving that still remains. We traversed down a hill through a bamboo grove until we hit a river. The old stones ended there, and after a walking bit further we got back in the van and followed the old route into Hita.
+We were headed to Hita for the night, which was the old seat of power for Kyushu. In the Edo period the Tokugawa shogun kept direct control of some key cities across Japan, and centrally located Hita was one of them. It probably didn’t hurt that Hita had a gold mine. Linking Hita to the sea was the Hita Okan, and we walked a long section of the _ishidatami_ stone paving that still remains. We traversed down a hill through a bamboo grove until we hit a river. The old stones ended there, and after a walking bit further we got back in the van and followed the old route into Hita.
 
 ![](/images/uploads/j25-day-12-one-determined-monk-k1001046-1.jpg)
 

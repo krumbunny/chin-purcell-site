@@ -15,7 +15,7 @@ Lest you think this trip is all about mythical lions and Taiko drums, with the o
 
 At least our rental car is excited. Look at it perk its ears!
 
-<video controls src="/images/uploads/j25-day-6-arita-ceramics-img_1425.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-6-arita-ceramics-img_1425.mp4"></video> -->
 
 We started at the Kyushu Ceramics Museum in Arita. Arita has been a center of Japanese porcelain production since the 1500’s, first because being near Nagasaki gave it access to Chinese pottery knowledge, then because a large porcelain clay deposit was discovered.
 

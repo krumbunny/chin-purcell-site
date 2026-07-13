@@ -53,7 +53,7 @@ An offering?
 
 Most of our captain’s patter was in Japanese, but he did know how to point out “Big White Building” a couple of times. He did sing for us, kind of in a sea shanty style, which sounded especially great when passing under a bridge.
 
-<video controls src="/images/uploads/j25-day-8-yanagawa-canals-img_1194.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-8-yanagawa-canals-img_1194.mp4"></video> -->
 
 Yanagawa isn’t the most picturesque city but some sections had character, and cherry blossoms can really spruce up a place.
 

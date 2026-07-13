@@ -129,4 +129,4 @@ After dinner it had stopped raining and we took a stroll around our neighborhood
 
 ![](/images/uploads/j25-day-15-harajiri-falls-and-beppu-onsen-img_1643.jpg)
 
-<video controls src="/images/uploads/j25-day-15-harajiri-falls-and-beppu-onsen-img_1652.mp4"></video>
+<!-- <video controls src="/images/uploads/j25-day-15-harajiri-falls-and-beppu-onsen-img_1652.mp4"></video> -->

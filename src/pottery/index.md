@@ -1,6 +1,6 @@
 ---
 title: Pottery
-heroImage: https://chin-purcell.org/wp-content/uploads/2025/02/img_0529.jpeg
+heroImage: /images/uploads/LaMarea26 - 10.jpeg
 heroImageAlt: Ceramics on display
 layout: category.njk
 category: pottery

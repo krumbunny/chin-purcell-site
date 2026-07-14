@@ -13,9 +13,7 @@ description: Switzerland is dotted with many thousands of small dairy herds. Lik
 
 Switzerland is dotted with many thousands of small dairy herds. Like really small herds, a couple of dozen cows on average. The government directly pays each farm 48,000 CHF, or about $60k, just so the Swiss and tourists can hear the clanks of cow bells in the summer and enjoy alpine cheeses. Most cows I see here really do have a cowbell hung around their neck, and they bink-bonk all day long with every bite of grass or flick of the head. Some animal activists think it’s a little torturous for the cows, and point to a study where the cows with bells produced a little less milk. Most farmers are pretty sure their cows don’t mind, and besides how would they find their animals? I think the cows look great here, better than your average American dairy cow, with fuzzy ears and healthy glossy coats.
 
-![](https://images.kenchinpurcell.com/les-desalpe-idg_20251001_110552_101.jpg)
-
-Looking good
+![](https://images.kenchinpurcell.com/les-desalpe-idg_20251001_110552_101.jpg "Looking good")
 
 Swiss cows spend the winter in a barn in a valley, without a cowbell and eating hay. In May the cows are anointed with a bell and walked up to their alpine meadows, the “pre alps” below the rocky peaks. There they dine on lush grass grown in calcium rich limestone soils. By September the season is over and it’s time for the plump cows to descend from the alps to their valley barns.
 
@@ -55,11 +53,11 @@ The three herds came down at different times, so we explored the town in between
 
 But wait, what’s that? More cows! Back to the parade route! At the end of this video a guy catches a ride on a horse cart but drops his phone. Paul picks it up and chases down the cart…
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/80FimCKTs5k?si=mkmoVP-A_bSFXva1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>That was the last herd, so it was on to the next thing. On weekends the train museum wheels out a classic old narrow gauge steam train pulling open air wooden cars. It runs on a level track above Lake Geneva, between Blonay, above Vevey, to the small station of Chamby, above Montreux.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80FimCKTs5k?si=mkmoVP-A_bSFXva1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![](https://images.kenchinpurcell.com/les-desalpe-img_2297.jpg)
+That was the last herd, so it was on to the next thing. On weekends the train museum wheels out a classic old narrow gauge steam train pulling open air wooden cars. It runs on a level track above Lake Geneva, between Blonay, above Vevey, to the small station of Chamby, above Montreux.
 
-Choo choo!
+![](https://images.kenchinpurcell.com/les-desalpe-img_2297.jpg "Choo choo!")
 
 Most people do the return trip, but we got off in Chamby and caught the MOB train up to Les Avants, through a tunnel and into a pretty mountain valley leading to Gstaad and Gruyère.
 

@@ -1,13 +1,13 @@
 ---
-title: "Vevey"
+title: E25 Vevey
 date: 2025-09-30
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/vevey-img_3286.jpg
-heroImageAlt: "Vevey"
+heroImageAlt: Vevey
 tags:
-  - "europe25"
-description: "We traveled along Lake Geneva to Vevey, which is where my stepmother Sylvia lives. We visited with Sylvia and her nephew Marc while we got over our jet…"
+  - europe25
+description: We traveled along Lake Geneva to Vevey, which is where my stepmother Sylvia lives. We visited with Sylvia and her nephew Marc while we got over our jet…
 ---
 
 We traveled along Lake Geneva to Vevey, which is where my stepmother Sylvia lives. We visited with Sylvia and her nephew Marc while we got over our jet lag. It was nice that Marc had the time to have lunch with us all. Marc is the man who brought mass produced sushi to Switzerland. During Covid Switzerland discovered how handy sushi is as a quick supermarket takeout meal, which has made Marc a busy guy.
@@ -42,7 +42,7 @@ On the way down we visited Graham Green’s grave in the small town of Corseaux.
 
 On our way through town we stopped at David Chocolatier. David makes very pretty but small chocolate bonbons. They look like shiny little planets, with swirling colors, but when you pick them up the size is a little disappointing, it’s only a half dome. My semi-hot take is that [Läderach](https://laderach.com/ch-en/) is just as good and a better value.
 
-Sylvia reports that the *best* chocolates are from [Tristan](https://www.chocolatier-tristan.ch/) in [Perroy](https://maps.app.goo.gl/CTni6hE2q4wCKEpY7?g_st=ipc), which is between Lausanne and Geneva. We’re not going to have a chance to stop by on this trip, which means we will just have to come back next year!
+Sylvia reports that the _best_ chocolates are from [Tristan](https://www.chocolatier-tristan.ch/) in [Perroy](https://maps.app.goo.gl/CTni6hE2q4wCKEpY7?g_st=ipc), which is between Lausanne and Geneva. We’re not going to have a chance to stop by on this trip, which means we will just have to come back next year!
 
 The next day it was raining, so it was a good day for Paul and I to cook lunch for Sylvia, her companion Ariel, and Lisa and Michele. Afterwards we walked over to the Charlie Chaplin museum at his old house.
 

@@ -4,4 +4,5 @@
 module.exports = [
   { tag: "japan23", title: "2023 Trip to Japan" },
   { tag: "japan25", title: "2025 Trip to Japan" },
+  { tag: "europe25", title: "2025 Trip to Europe" },
 ];

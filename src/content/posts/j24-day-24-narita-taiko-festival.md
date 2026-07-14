@@ -1,10 +1,10 @@
 ---
-title: "J24 Day 24: Narita Taiko Festival"
-date: 2025-04-22
+title: "J25 Day 24: Narita Taiko Festival"
+date: 2025-04-22T12:00:00Z
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2041.jpeg
-heroImageAlt: "J24 Day 24: Narita Taiko Festival"
+heroImageAlt: "J25 Day 24: Narita Taiko Festival"
 tags:
   - "japan"
   - "japan25"

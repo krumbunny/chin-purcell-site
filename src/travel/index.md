@@ -15,3 +15,6 @@ Notes from the road.
 <p>
 <a class="tag-cloud-item weight-2" href="/tags/japan25/">2025 Trip to Japan</a>
 </p>
+<p>
+<a class="tag-cloud-item weight-2" href="/tags/europe25/">2025 Trip to Europe</a>
+</p>

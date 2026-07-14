@@ -1,10 +1,10 @@
 ---
-layout: category.njk
 title: Travel
+heroImage: https://images.kenchinpurcell.com/IMG_1498.jpeg
+heroImageAlt: Sumo Stable Flags
+layout: category.njk
 category: travel
 permalink: /travel/
-heroImage: https://images.kenchinpurcell.com/sample-travel-hero.jpg
-heroImageAlt: A view from a recent trip
 ---
 
 Notes from the road.

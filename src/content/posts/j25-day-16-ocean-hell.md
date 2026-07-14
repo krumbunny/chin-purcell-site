@@ -3,7 +3,7 @@ title: "J25 Day 16: Ocean Hell"
 date: 2025-04-16
 category:
   - travel
-heroImage: /images/uploads/j25-day-16-ocean-hell-img_1539.jpg
+heroImage: https://images.kenchinpurcell.com/j25-day-16-ocean-hell-img_1539.jpg
 heroImageAlt: "J25 Day 16: Ocean Hell"
 tags:
   - "japan"
@@ -15,23 +15,23 @@ Our walking tour wrapped up this morning. Walk Japan was a good experience, I wo
 
 Our breakfast was again a steamed tray of goodies. Steamed food sounds kind of boring, but our ryokan did a great job of making the meals flavorful. I think the key is some marinating and a dipping sauce. When we get home I think we should steam food more often, especially if we discover a thermal hot spring under our house. Here I am at our hotel’s steam cookers, right outside the lobby. Jon, our guide, is briefly turning on the steam valve.
 
-![](/images/uploads/j25-day-16-ocean-hell-img_1539.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-img_1539.jpg)
 
 Instant steam heat
 
 Around Beppu there are seven “hells”, parks where mud pools blurp away and steam roars out of vents. They are all named and Beppu makes a tourist thing about making the full round (“catch ‘em all!”), getting a stamp in a booklet, etc. I suspect that most bubbling mud pits look and smell about the same. We visited just one, “Ocean Hell”, the nearest to our ryokan.
 
-![](/images/uploads/j25-day-16-ocean-hell-k1001170-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-k1001170-1.jpg)
 
-![](/images/uploads/j25-day-16-ocean-hell-k1001180-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-k1001180-1.jpg)
 
 I liked this demon next to a bed of rocks that were roaring steam. The sign explains that the demon was cold after visiting the crane god (obviously there’s a back story here, but I don’t know it) and came here to wrap himself in a “futon of stones” and warm up in the steam. Ahhh.
 
-![](/images/uploads/j25-day-16-ocean-hell-k1001189-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-k1001189-1.jpg)
 
 A warm comfy bed
 
-![](/images/uploads/j25-day-16-ocean-hell-k1001196-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-k1001196-1.jpg)
 
 The demon abides
 
@@ -39,16 +39,16 @@ You would think that fossil fuel poor Japan would capitalize on being located ab
 
 On the way back from the mud pits we saw these fun characters. The raccoon dog was next to a crocodile park.
 
-![](/images/uploads/j25-day-16-ocean-hell-img_1668.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-img_1668.jpg)
 
 Shishi everywhere
 
-![](/images/uploads/j25-day-16-ocean-hell-img_1669.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-img_1669.jpg)
 
 Rocket Raccoon Dog?
 
 The rest of the day was travel back to Tokyo. We caught a taxi to a bus to an airport. Oita Airport. An official (*the* official?) Hello Kitty airport. America just does not have this level of institutional cuteness.
 
-![](/images/uploads/j25-day-16-ocean-hell-img_1544-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-img_1544-1.jpg)
 
-![](/images/uploads/j25-day-16-ocean-hell-img_1543.jpg)
+![](https://images.kenchinpurcell.com/j25-day-16-ocean-hell-img_1543.jpg)

@@ -3,7 +3,7 @@ title: "Big Island"
 date: 2025-05-17
 category:
   - travel
-heroImage: /images/uploads/big-island-img_2404.jpg
+heroImage: https://images.kenchinpurcell.com/big-island-img_2404.jpg
 heroImageAlt: "Big Island"
 tags:
   - "hawaii"
@@ -16,7 +16,7 @@ Another job title we’ve acquired is “Shishi Broker”. In January we picked 
 
 Maui Shishi (MS) has her own Pelican case, which doesn’t fit in a standard sedan’s trunk. Our Uber driver to the train station was a little nonplussed and laid out a blue towel for MS to rest on, lest MS dirty up his car. I’m sure MS was fuming inside at the insult - Shishi is pristine!
 
-![](/images/uploads/big-island-img_2404.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2404.jpg)
 
 A fellow passenger in the shuttle from Old Town station to the airport was much more respectful and made sure Shishi stayed on the luggage rack. I showed him a photo of what’s inside and he seemed excited.
 
@@ -30,27 +30,27 @@ There’s a ring road around the island. Hilo is on the wet eastern side and Kon
 
 We rented a VRBO house above Kona, up where the coffee trees grow.
 
-![](/images/uploads/big-island-img_2422.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2422.jpg)
 
 It’s a delightful architect’s folly. Huge panel doors slide open on both sides. Above the doors is open to the outside, screened but otherwise at one with the surroundings. No A/C, no heat. As the owner warns, if you are a light sleeper bring ear plugs - the jungle is noisy! We love the sounds of the birds, frogs, chickens and other critters.
 
 The garden has orchids, fruit and coffee trees.
 
-![](/images/uploads/big-island-img_1783.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_1783.jpg)
 
-![](/images/uploads/big-island-img_1775.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_1775.jpg)
 
-![](/images/uploads/big-island-img_2416.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2416.jpg)
 
-![](/images/uploads/big-island-img_2414.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2414.jpg)
 
 The view has been enchanting.
 
-![](/images/uploads/big-island-img_2471.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2471.jpg)
 
 May Sumo Basho is on!
 
-![](/images/uploads/big-island-img_2449.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2449.jpg)
 
 Double Rainbow
 
@@ -58,32 +58,32 @@ Down near the water most buildings look like they are in good shape, but up abov
 
 There’s not much sand yet on the Big Island, but there are lots of sea turtles and the water clarity is good. If you like hiking in the desert you would probably also like hiking in a lava field.
 
-![](/images/uploads/big-island-img_2435.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2435.jpg)
 
-![](/images/uploads/big-island-img_2439.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2439.jpg)
 
-![](/images/uploads/big-island-img_2440.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2440.jpg)
 
-![](/images/uploads/big-island-img_2444.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2444.jpg)
 
-![](/images/uploads/big-island-img_1778.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_1778.jpg)
 
-![](/images/uploads/big-island-img_2443.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_2443.jpg)
 
 We took a snorkeling trip to Captain Cook bay and saw loads of reef fish, dolphins, sharks and a glimpse of a manta ray. No pilot whales though.
 
 The currently active volcano is Kilauea, and we got lucky when we visited. We first spied a plume of gases while driving.
 
-![](/images/uploads/big-island-img_1787.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_1787.jpg)
 
 Eruptions at Kilauea come and go, and one had started this morning. The park was mobbed, but we managed to find a parking spot and stopped by the visitor center. The ranger in there suggested we get over to the caldera rim _now_, because you never know. So we hustled over there, the rain clouds cleared for fifteen minutes and we saw:
 
-<!-- <video controls src="/images/uploads/big-island-img_2459.mp4"></video> -->
+<!-- <video controls src="https://images.kenchinpurcell.com/big-island-img_2459.mp4"></video> -->
 
 <em>High Drama</em>
 
 Then the rain moved back in and the view was gone. By 3pm the eruption was over, but by that time we were in Hilo having lunch and drying out.
 
-![](/images/uploads/big-island-img_1801.jpg)
+![](https://images.kenchinpurcell.com/big-island-img_1801.jpg)
 
 I had no idea 2025 would be the Year of the Volcano for us!

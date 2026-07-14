@@ -3,7 +3,7 @@ title: "Japan day 1: Tokyo"
 date: 2023-06-17
 category:
   - travel
-heroImage: /images/uploads/japan-day-1-tokyo-image.jpeg
+heroImage: https://images.kenchinpurcell.com/japan-day-1-tokyo-image.jpeg
 heroImageAlt: "Japan day 1: Tokyo"
 tags:
   - "japan"
@@ -17,7 +17,7 @@ The Sunday morning drive to LAX was calm. We parked at the airport Hilton parkin
 
 Thumbs up for Japan Airlines Premium Economy. You get access to a peaceful lounge:
 
-![](/images/uploads/japan-day-1-tokyo-image.jpeg)
+![](https://images.kenchinpurcell.com/japan-day-1-tokyo-image.jpeg)
 
 And the seats leave plenty of legroom for me:
 

@@ -3,7 +3,7 @@ title: "J25 Day 7: Ōkawachiyama"
 date: 2025-04-02
 category:
   - travel
-heroImage: /images/uploads/j25-day-7-okawachiyama-img_1058-2-1.jpg
+heroImage: https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1058-2-1.jpg
 heroImageAlt: "J25 Day 7: Ōkawachiyama"
 tags:
   - "japan"
@@ -15,27 +15,27 @@ In the late 1500’s Japan was rampaging over Korea and noticed that the dishes 
 
 So I imagine one day about four hundred years ago the then current Nabeshima daimyō looked up at the mountains from Imari, probably much like our view of the mountains from the hotel. And he thought “That would be a great place to hide my potters.”
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1058-2-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1058-2-1.jpg)
 
 Right back there
 
 Ōkawachiyama has been a pottery town ever since. Still no individual craft potters, as far as I could tell, but dozens of small potteries turning out high quality porcelain. The potteries are often led by a potter who sets the design. The setting in a narrow mountain valley was spectacular and the tree blossoms were at their peak.
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1163.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1163.jpg)
 
 Back in the Edo period the mouth of the valley was guarded. Those Korean potters never got to go back home. There is a large cairn of around 880 head stones marking their grave. Employment seems to be on an at will basis now.
 
 Many things are clad in porcelain in the village.
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1112.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1112.jpg)
 
 Entrance Bridge
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1061.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1061.jpg)
 
 Town Map
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1156.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1156.jpg)
 
 Flood works
 
@@ -43,60 +43,60 @@ Most of the buildings are traditional wooden post and beam construction, with sl
 
 At the top of the town we climbed 400 steps to a shrine to the “throat god”, which was a scenic natural arch in the cliffside.
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1076.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1076.jpg)
 
 The first steps
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1083.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1083.jpg)
 
 231, 232, 233…
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1085.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1085.jpg)
 
 The throat
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1087.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1087.jpg)
 
 Cleansing Water
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1094.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1094.jpg)
 
 Potter’s Shrine
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1080.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1080.jpg)
 
 Y.A.S.
 
 There were photos of past potters in the shrine, not a bad place to be remembered. The view was great and the cherry blossoms were in full form.
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1099.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1099.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1101.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1101.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1104.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1104.jpg)
 
 Down by the creek in town there was an antique water driven mortar that pounded the kaolin into usable clay.
 
-<!-- <video controls src="/images/uploads/j25-day-7-okawachiyama-img_1123.mp4"></video> -->
+<!-- <video controls src="https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1123.mp4"></video> -->
 
 <em>Wait for it…</em>
 
 And yet more picturesque scenes along the creek and in the pottery park where the old climbing kilns were.
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1155.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1155.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1130.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1130.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1144.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1144.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1160.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1160.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1125.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1125.jpg)
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1452.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1452.jpg)
 
 It was a visual feast of a day.
 
 Walking back from dinner at a Korean restaurant we passed by this small shrine with its Imari ware as part of the offering. Ōkawachiyama and Imari (and Korea), I honor you too.
 
-![](/images/uploads/j25-day-7-okawachiyama-img_1165.jpg)
+![](https://images.kenchinpurcell.com/j25-day-7-okawachiyama-img_1165.jpg)

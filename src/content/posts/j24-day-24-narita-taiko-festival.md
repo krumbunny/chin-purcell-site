@@ -3,7 +3,7 @@ title: "J24 Day 24: Narita Taiko Festival"
 date: 2025-04-22
 category:
   - travel
-heroImage: /images/uploads/j24-day-24-narita-taiko-festival-img_2041.jpeg
+heroImage: https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2041.jpeg
 heroImageAlt: "J24 Day 24: Narita Taiko Festival"
 tags:
   - "japan"
@@ -20,13 +20,13 @@ We knew we would be doing a lot of traveling on Tokyo metro trains the next few 
 
 After an hour plus commuter train ride we arrived at Narita a little early for our meetup with Chie. Last year we hosted both Chie and Yuko at our house in Carlsbad, and now Chie was going to help us navigate the weekend. We stopped into charming Hashira coffee, where the barista had some high level foam skills.
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2041.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2041.jpeg)
 
 Behold the Microfoam
 
 We were on our way to see Yuko play with her Miyake taiko group. We grabbed some front row chairs early, which was a good move because the venue quickly filled up. It was a warm day with minimal wind, and Michele and I got a little roasted sitting in the hazy sun. The Tsumura family from Miyake, a father and three sons, are at the core of spreading the Miyake style, and this was one of their taiko groups. Michele pointed out to me father Tsumura and the youngest brother.
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2046.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2046.jpeg)
 
 https://videopress.com/v/5Ybq27ph?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2F5Ybq27ph%2Fimg\_2050\_mov\_std.original.jpg&preloadContent=metadata&useAverageColor=true
 
@@ -38,7 +38,7 @@ Miyake is a bit meditative, and sessions can go on for a while. Yuko did great. 
 
 Despite the sun Yuko and Chie encouraged us to keep our seats, given the crowd. They thought the following three groups were pretty good. Next up was a group that had a shamisen, a saxophone and a very large okedo drum. The drums at this festival sounded great. American taiko drums are usually made out of old wine barrels. Japanese drums are made from a solid wood blank, and they have a wonderful tone.
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2055.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2055.jpeg)
 
 Then there was a group that were very good at twirling their bachi. This move could seem a little hokey in the wrong hands, but they were also good players, so I thought it worked.
 
@@ -50,15 +50,15 @@ https://videopress.com/v/l0LJG3XV?resizeToParent=true&cover=true&posterUrl=https
 
 By this time Michele and I were sun baked and we gave up our seats to find some shade and a cool drink.Next we strolled down the street past several other stages and an old eel restaurant where two guys were filleting eels all day.
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2062.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2062.jpeg)
 
 Our destination was the large Naritasan Shinsho-ji, a dramatic temple and the stage for the big show that evening. The opening act was the winning high school team, then a group called Honoo, lead by Machiko Asano of the Asano taiko family. Michele took a workshop from Machiko last year in Minnesota. The closing act as the sun set was some very energetic Shinto inspired creatures playing taiko.
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2071.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2071.jpeg)
 
 Honoo
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2074.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2074.jpeg)
 
 Demons?
 
@@ -68,10 +68,10 @@ https://videopress.com/v/jf3z2EyB?resizeToParent=true&cover=true&posterUrl=https
 
 Afterwards Michele was encouraged to say hi to her workshop teacher Machiko.
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2078.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2078.jpeg)
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2081.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2081.jpeg)
 
-![](/images/uploads/j24-day-24-narita-taiko-festival-img_2088.jpeg)
+![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2088.jpeg)
 
 Alison, a Brit who has been in working in Japan for a while, joined us for dinner. It would have been great to relax afterwards and enjoy the evening in Narita, but we needed to be sixty miles away in Iruma, across Tokyo, for a festival the next day. Chie accompanied us on the over two hour trip, train to subway to train. We were exhausted by the time we got to our hotel room. Chie was a champ and accompanied us to the hotel, displaying some impressive crowd navigation skills along the way.

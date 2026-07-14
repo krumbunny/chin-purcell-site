@@ -3,7 +3,7 @@ title: "J25 Day 25: Matsuri!"
 date: 2025-04-23
 category:
   - travel
-heroImage: /images/uploads/j25-day-25-matsuri-img_2099.jpeg
+heroImage: https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2099.jpeg
 heroImageAlt: "J25 Day 25: Matsuri!"
 tags:
   - "japan"
@@ -18,11 +18,11 @@ This Miyake taiko club was associated with the elder Tsumura brother, who was th
 
 The floats (yatai), three pairs of them, started parading up and down the street. This one had a shishi!. The drum (taiko), flute (fue) and bell (kane) players and dancers rotated duties over the day. I saw all ages playing, ten year old kids to seniors.
 
-![](/images/uploads/j25-day-25-matsuri-img_2099.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2099.jpeg)
 
 Yatai
 
-![](/images/uploads/j25-day-25-matsuri-img_2121.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2121.jpeg)
 
 Stalls
 
@@ -32,49 +32,49 @@ https://videopress.com/v/2bqp7wzo?resizeToParent=true&cover=true&preloadContent=
 
 No Japanese festival would be complete without Men (mostly) Doing Dangerous Things. At some festivals they hoist the floats on their shoulders and joust with each other, or at one they run tall yatai around a corner fast so they tip over half the time, sending riders flying. Here the feats of bravery happened on a tall hand made ladder.
 
-![](/images/uploads/j25-day-25-matsuri-img_2115.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2115.jpeg)
 
 The Miyake group first played in front of the 7-Eleven and then hoisted the drums on their shoulders and went off down the street. I followed, but I was hungry and got distracted by the food. First I got squid on a stick, but then I also got a griddle bread with meat inside. Oh look, little donuts! Okonomiyake! Not just fish sticks, but BBQ whole fish on a stick! Choco bananas!
 
-![](/images/uploads/j25-day-25-matsuri-img_2138.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2138.jpeg)
 
 Fish (on a) Stick
 
-![](/images/uploads/j25-day-25-matsuri-img_2120.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2120.jpeg)
 
 Squid!
 
-![](/images/uploads/j25-day-25-matsuri-img_1690.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_1690.jpeg)
 
 Choco Banana
 
-![](/images/uploads/j25-day-25-matsuri-img_2123.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2123.jpeg)
 
 Lil 'Donuts
 
-![](/images/uploads/j25-day-25-matsuri-img_2139.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2139.jpeg)
 
 Yakisoba
 
-![](/images/uploads/j25-day-25-matsuri-img_2246.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2246.jpeg)
 
 Okonomiyake
 
 Nom nom nom. Hold it, what's that noise far away? Ack! It's Michele playing and I'm missing it! I hustled through the crowd and caught up with the drummers as they were packing up and heading to their next stop, the shrine.
 
-![](/images/uploads/j25-day-25-matsuri-img_2126.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2126.jpeg)
 
 They played in front of the shrine, and then were invited to go inside for a blessing.
 
-![](/images/uploads/j25-day-25-matsuri-img_2242.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2242.jpeg)
 
 Sakaki branches
 
-![](/images/uploads/j25-day-25-matsuri-img_2141.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2141.jpeg)
 
 Shrine courtyard
 
-![](/images/uploads/j25-day-25-matsuri-img_2142.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2142.jpeg)
 
 Going into the shrine
 
@@ -82,11 +82,11 @@ Those branches on top of the banner poles are from the sakaki tree, which is a s
 
 After that Michele held the lantern for a bit and also sang some. Here's a longish clip from their next session back down in the festival.
 
-![](/images/uploads/j25-day-25-matsuri-img_2151.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2151.jpeg)
 
-![](/images/uploads/j25-day-25-matsuri-img_2163.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2163.jpeg)
 
-![](/images/uploads/j25-day-25-matsuri-img_2192.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2192.jpeg)
 
 The girl has form!
 
@@ -94,27 +94,27 @@ https://videopress.com/v/yDeIwmoH?resizeToParent=true&cover=true&posterUrl=https
 
 We ended up back at the 7-Eleven end. It was a hard four hours of playing for Michele. I kept her supplied with water between sets but she skipped lunch. By the end of the afternoon everyone was ready to grab a bite and watch the yatai floats.
 
-![](/images/uploads/j25-day-25-matsuri-img_2197.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2197.jpeg)
 
-![](/images/uploads/j25-day-25-matsuri-img_2207.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2207.jpeg)
 
 After they changed clothes we all hustled through the crowd, past the floats, to the shrine end of the street. On the way there was an empty lot at about the mid point where a couple of groups of young men were gathered, two groups in matching black shirts, another group in white. I asked Chie what's up, and she just shook her head and said quietly "bad boys". There were at least a dozen police on duty at the festival, mostly making way for the yatai or sitting at a command post during the day. Now at dusk I didn't see them around the floats. Maybe they were keeping an eye on the toughs.
 
-![](/images/uploads/j25-day-25-matsuri-img_2268.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2268.jpeg)
 
-![](/images/uploads/j25-day-25-matsuri-img_2300.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2300.jpeg)
 
-![](/images/uploads/j25-day-25-matsuri-img_2256.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2256.jpeg)
 
 Chie positioned us right in front of the torī gate on the street, which is where the yatai were headed. As evening came on the six floats gathered at the shrine end of the street and turned to face the torī and pay their respects to the Shinto gods.
 
-![](/images/uploads/j25-day-25-matsuri-img_2322.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2322.jpeg)
 
 Three in Position
 
-![](/images/uploads/j25-day-25-matsuri-img_2324.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2324.jpeg)
 
-![](/images/uploads/j25-day-25-matsuri-img_2328.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-25-matsuri-img_2328.jpeg)
 
 All Six Ready
 

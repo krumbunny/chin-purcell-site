@@ -3,7 +3,7 @@ title: "J25 Day 21: Weaving"
 date: 2025-04-19
 category:
   - travel
-heroImage: /images/uploads/j25-day-21-weaving-img_1862.jpg
+heroImage: https://images.kenchinpurcell.com/j25-day-21-weaving-img_1862.jpg
 heroImageAlt: "J25 Day 21: Weaving"
 tags:
   - "japan"
@@ -19,13 +19,13 @@ Yuko had more plans for us. First was a dance and taiko performance by another g
 
 While we waited for the performance Michele and Yuko started playing on a drum off to the side, trying out their Hachijo style. The whole relaxed island scene made this feel like a fine thing to do, just start playing.
 
-![](/images/uploads/j25-day-21-weaving-img_1862.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1862.jpg)
 
 https://videopress.com/v/LRZgzwe5?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
 
 The performers did about a dozen dances for us. They were dressed in the local fabric, dyed a natural yellow from an island plant.
 
-![](/images/uploads/j25-day-21-weaving-img_1868.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1868.jpg)
 
 They then did a little taiko.
 
@@ -35,27 +35,27 @@ The finale involved cajoling the front row of the audience (us!), and definitely
 
 On the way back we stopped off at the tunnel view point for some more photos, since it was so clear. The wind was even stronger than the day before, almost dangerous near the railing. Hold tight to your phone Yuko!
 
-![](/images/uploads/j25-day-21-weaving-img_1879.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1879.jpg)
 
-![](/images/uploads/j25-day-21-weaving-img_1904.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1904.jpg)
 
-![](/images/uploads/j25-day-21-weaving-img_1905.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1905.jpg)
 
-![](/images/uploads/j25-day-21-weaving-img_1912.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1912.jpg)
 
 The flying fish on the railing is part of the island culture. Called tobiuo, we had it as sushi the night before (shimazushi) and they also have an old method of preserving it called kusaya. Kusaya is first salted in a horrendous looking continuously reused brine, then dried. It stinks, and they are proud of it. It’s more or less Japanese lutefisk.
 
 In the afternoon we all took a turn at weaving. A shop had four looms set up for tourists to make a swatch. Each loom had its own warp pattern set up, and it was up to us to complete a pattern with the weft. The yellow and green colors are made using a native dye. Our teacher fussed a lot over my hand position as I shuttled the weft back and forth, used the card and worked the warp with my feet. I wasn’t quite doing it correctly but the language barrier made it difficult to understand just what wasn’t proper. In any case, our little cloth patches will be mailed home to us in a few weeks.
 
-![](/images/uploads/j25-day-21-weaving-img_1913.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1913.jpg)
 
 Traditional colors
 
-![](/images/uploads/j25-day-21-weaving-img_1916.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1916.jpg)
 
 Our sensei
 
-![](/images/uploads/j25-day-21-weaving-img_1923.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1923.jpg)
 
 8 yellow, 2 black, 1 white
 
@@ -63,16 +63,16 @@ If the previous day’s taiko lesson was about how Hachijo style is creative and
 
 After Michele’s and Ryoko’s class at Y-Lulu we had a long goodbye with Yoshio-sensei and then we were back at the airport, all of maybe two blocks away. The winds were a little calmer and the plane was definitely flying. The merch at the airport gift shop was good. We skipped the smelly fish and these enourmous lemons.
 
-![](/images/uploads/j25-day-21-weaving-img_1921.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1921.jpg)
 
 Before we departed through (the one and only) Gate 1 who should show up but Yoshio and Kaori! With gifts! Ryoko and Michele both got 24-hour challenge commemorative T-Shirts. We then had another long and warm goodbye, complete with requests that we come back to help with a future challenge. OK!
 
 At the little security check they had me take off my shoes, and this being Japan they of course have some slippers to wear for the 10 foot walk to the other side of the scanners. They earnestly wanted me to wear them. And this being Japan of course the slippers were all one size - medium. Because what other size is needed? My “friend” Ryoko snapped this photo.
 
-![](/images/uploads/j25-day-21-weaving-img_2525.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_2525.jpg)
 
 Look graceful now
 
 On the flight back to Tokyo we could see the mainland Fuji-san at sunset.
 
-![](/images/uploads/j25-day-21-weaving-img_1926.jpg)
+![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1926.jpg)

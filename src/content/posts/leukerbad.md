@@ -4,7 +4,7 @@ date: 2025-10-12
 category:
   - misc
   - travel
-heroImage: /images/uploads/leukerbad-idg_20250930_120934_815.jpg
+heroImage: https://images.kenchinpurcell.com/leukerbad-idg_20250930_120934_815.jpg
 heroImageAlt: "Leukerbad"
 tags:
   - "europe25"
@@ -17,24 +17,24 @@ Lausanne is at the top of the banana. Vevey is the next city east, and is where 
 
 Leuk is one stop before Brig, and Leukerbad is a dramatic bus ride up the valley from Leuk. Somewhere in the rock, about a mile beneath Leukerbad, is that Lötschberg tunnel. Leukerbad sits in a dramatic bowl of limestone cliffs.
 
-![](/images/uploads/leukerbad-idg_20250930_120934_815.jpg)
+![](https://images.kenchinpurcell.com/leukerbad-idg_20250930_120934_815.jpg)
 
 The 3000 foot wall of rock is intimidating, but over the top of that wall if the easiest way to get to Interlaken and Bern if you had to walk. The trail up the wall to the Gemmi Pass is over 800 years old, and travelers have been coming this way since Roman times. They’ve also enjoyed the hot springs since Roman times.
 
 Leukerbad is an interesting mix of a ski town, spa resort and an old trading route village. There’s several gondolas out of town, one up the Gemmi and a couple on the east side for a skiing.
 
-![](/images/uploads/leukerbad-img_2311.jpg)
+![](https://images.kenchinpurcell.com/leukerbad-img_2311.jpg)
 
-![](/images/uploads/leukerbad-img_2308.jpg)
+![](https://images.kenchinpurcell.com/leukerbad-img_2308.jpg)
 
-![](/images/uploads/leukerbad-idg_20250929_095442_306.jpg)
+![](https://images.kenchinpurcell.com/leukerbad-idg_20250929_095442_306.jpg)
 
-![](/images/uploads/leukerbad-img_3376.jpg)
+![](https://images.kenchinpurcell.com/leukerbad-img_3376.jpg)
 
 Mmmm, warm water
 
 It’s really beautiful, but Paul is never quite satisfied.
 
-![](/images/uploads/leukerbad-img_3370.jpg)
+![](https://images.kenchinpurcell.com/leukerbad-img_3370.jpg)
 
 We will have to step it up tomorrow.

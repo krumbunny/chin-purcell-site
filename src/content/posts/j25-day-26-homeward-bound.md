@@ -3,7 +3,7 @@ title: "J25 Day 26: Homeward Bound"
 date: 2025-04-24
 category:
   - travel
-heroImage: /images/uploads/j25-day-26-homeward-bound-img_2348.jpg
+heroImage: https://images.kenchinpurcell.com/j25-day-26-homeward-bound-img_2348.jpg
 heroImageAlt: "J25 Day 26: Homeward Bound"
 tags:
   - "japan"
@@ -13,11 +13,11 @@ description: "We slept really well after two busy days. We both had very tired f
 
 We slept _really_ well after two busy days. We both had very tired feet by the end of yesterday. Michele commented that now her last performance was done she could relax and enjoy some vacation. Hah! It's time to go home.
 
-![](/images/uploads/j25-day-26-homeward-bound-img_2348.jpg)
+![](https://images.kenchinpurcell.com/j25-day-26-homeward-bound-img_2348.jpg)
 
 It was another great trip to Japan but I don't think I'll miss these low doorways. I think I'm stooping all the time when I'm inside.
 
-![](/images/uploads/j25-day-26-homeward-bound-img_1725.jpeg)
+![](https://images.kenchinpurcell.com/j25-day-26-homeward-bound-img_1725.jpeg)
 
 Like last time I'm not exchanging my Yen at the airport, I'm sure we'll come back. There are so many more regions of Japan to explore:
 

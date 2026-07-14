@@ -3,42 +3,42 @@ title: "Ocean Beach"
 date: 2025-03-04
 category:
   - travel
-heroImage: /images/uploads/ocean-beach-k1000900-1.jpg
+heroImage: https://images.kenchinpurcell.com/ocean-beach-k1000900-1.jpg
 heroImageAlt: "Ocean Beach"
 tags:
   - "california"
 description: "I rode the N Judah Muni tram from downtown out to the end of the line at Ocean Beach."
 ---
 
-![](/images/uploads/ocean-beach-k1000900-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000900-1.jpg)
 
 I rode the N Judah Muni tram from downtown out to the end of the line at Ocean Beach.
 
-![](/images/uploads/ocean-beach-k1000925-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000925-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000920-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000920-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000919-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000919-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000916-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000916-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000902-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000902-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000897-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000897-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000892-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000892-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000882-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000882-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000880-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000880-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000879-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000879-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000877-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000877-1.jpg)
 
-![](/images/uploads/ocean-beach-k1000873-1.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-k1000873-1.jpg)
 
-![](/images/uploads/ocean-beach-img_0579.jpg)
+![](https://images.kenchinpurcell.com/ocean-beach-img_0579.jpg)
 
 I stopped in at the “Java Beach Cafe” for some lunch. They were very friendly and I had high hopes for my veggie wrap, but alas the advertised hummus (I love hummus) was the ever so slightest smears. After my mostly-lettuce-wrap I walked the boardwalk.
 

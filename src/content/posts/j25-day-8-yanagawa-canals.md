@@ -3,7 +3,7 @@ title: "J25 Day 8: Yanagawa Canals"
 date: 2025-04-04
 category:
   - travel
-heroImage: /images/uploads/j25-day-8-yanagawa-canals-img_1167.jpg
+heroImage: https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1167.jpg
 heroImageAlt: "J25 Day 8: Yanagawa Canals"
 tags:
   - "japan"
@@ -15,13 +15,13 @@ Today was a travel day. We needed to get from Imari in the northwest of Kyushu d
 
 Central Hotel Imari has been a fine example of a business hotel, essentially western in style but with Japanese touches, like the eclectic breakfast and a public onsen (bath) next door. Here’s my (big) breakfast this morning, fairly typical. Sure beats the usual “free breakfast” at an American hotel.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1167.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1167.jpg)
 
 Salad, salmon, eggplant stir fry, some kind of seaweed veggie salad, eggs, furikake and pickles on rice. Small cup of coffee.
 
 I’m not sure how much the ceramics industry still drives Imari, but we did enjoy how the town decorated otherwise ordinary streets with some impressive jars. We passed by this one on the way to replenish our supply of kumquats.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1168.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1168.jpg)
 
 If we drove straight to Aso it would take around 3-4 hours, so we broke the trip up into a couple of parts. First stop: pick up a cheap suitcase at Don Quijote (“Donki”) in Saga. My plan is to send the pottery ahead to our last hotel via [Ta-Q-Bin](https://en.wikipedia.org/wiki/Yamato_Transport?wprov=sfti1), and that way I’ll be back down to one piece of luggage.
 
@@ -29,57 +29,57 @@ Donki has the contents of a store like Target but the aural and visual vibe of a
 
 Next we drove across flat farmland from Saga into central Yanagawa, where we went on a kind of Japanese version of a Venetian gondola ride. Yanagawa is criss-crossed with a grid of quiet waterways. They loaded an assortment of us tourists into a narrow boat and our captain punted us through the canals.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1175.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1175.jpg)
 
 Here we go!
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1178.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1178.jpg)
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1180.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1180.jpg)
 
 Sakura
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1182.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1182.jpg)
 
 Duck!
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1190.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1190.jpg)
 
 Keep your hands in!
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1459.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1459.jpg)
 
 An offering?
 
 Most of our captain’s patter was in Japanese, but he did know how to point out “Big White Building” a couple of times. He did sing for us, kind of in a sea shanty style, which sounded especially great when passing under a bridge.
 
-<!-- <video controls src="/images/uploads/j25-day-8-yanagawa-canals-img_1194.mp4"></video> -->
+<!-- <video controls src="https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1194.mp4"></video> -->
 
 Yanagawa isn’t the most picturesque city but some sections had character, and cherry blossoms can really spruce up a place.
 
 When we looked for a lunch spot we noticed there were a lot of unagi (fresh water eel) restaurants. It turns out another name for the city is “Unagi no Yanagawa” due to all those tasty eels in the canals. We were floating over lunch. We chose a place a few blocks from the boat landing. How could we resist this happy eel logo?
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1209.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1209.jpg)
 
 After some grilled eel I picked out a place on Google Maps which said it was an art museum, but in fact turned out to be more of a community art center. We walked in and had an awkward broken Japanese/broken English interaction before the gaijin realized there’s no art on display. Oops.
 
 It was a very modern looking building next to the Shinkansen line and a large park. It all looked recently built. It’s mostly farmland and sparse houses around this station, kind of a strange setting for so much new infrastructure.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1227.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1227.jpg)
 
 The Shinkansen is on an elevated track, even across flat farmland, to the horizon in both directions. I assume it makes sense in a country where land is precious, and it also gets rid of grade crossings.
 
 The park was still “in process” with new plantings. There was a Samurai statue with one hand clenched and one hand open, signifying a balance between strength and control on one side and wisdom and openness on the other.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1214.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1214.jpg)
 
 There was also a field of tea plants, where they hold classes on gathering tea starting next month, and a pottery kiln, studio and stage. Seems like exactly the amenities Michele and I would want in a park: tea, pottery and a place to perform Taiko.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1216.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1216.jpg)
 
 Stage, studio and wood fired kiln
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1219.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1219.jpg)
 
 Green tea
 
@@ -91,16 +91,16 @@ Sozankyo is a more Japanese style hotel. You take off shoes and put on slippers 
 
 Our room looks out onto a garden. The doorways are a little low but my extra tall yukata fits!
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1228.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1228.jpg)
 
 We even have our own little private onsen. The water is slightly milky from the minerals.
 
 I’ll apologize now for the food photos, but we are on the meal plan here and these kaiseki meals are visually something else. Here’s tonight’s appetizers.
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1231.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1231.jpg)
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1232.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1232.jpg)
 
-![](/images/uploads/j25-day-8-yanagawa-canals-img_1235.jpg)
+![](https://images.kenchinpurcell.com/j25-day-8-yanagawa-canals-img_1235.jpg)
 
 Bon appétit!

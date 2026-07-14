@@ -3,7 +3,7 @@ title: "J25 Day 5: The Bio Park"
 date: 2025-03-31
 category:
   - travel
-heroImage: /images/uploads/j25-day-5-the-bio-park-image-3.jpg
+heroImage: https://images.kenchinpurcell.com/j25-day-5-the-bio-park-image-3.jpg
 heroImageAlt: "J25 Day 5: The Bio Park"
 tags:
   - "japan"
@@ -17,7 +17,7 @@ But first we needed to rent a car. To get to the car rental with our bags we hai
 
 My apprehension level was high as I got ready to swing out into downtown traffic. They make foreigners watch a bunch of videos foreshadowing various catastrophes before they give you the keys. Driving on the left side of the road, gear shift and rear view mirror on the left, signs in Japanese, low and frequently changing speed limits, it’s a bit to keep track of. At least the car has head room.
 
-![](/images/uploads/j25-day-5-the-bio-park-image-3.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-image-3.jpg)
 
 Ready to launch? Not really…
 
@@ -29,47 +29,47 @@ We got to the Bio Park without incident. Phew.
 
 So for those alive in the 1980’s, remember the bio-sphere fad? People were building glass domes in a “spaceship earth” frame of mind, with some kind of different environment inside the dome than outside. Well, that’s how the Nagasaki Bio Park started. Now it’s more or less a petting zoo, and the buildings are showing their age. But if you like having monkeys leaping onto your shoulder and grabbing food it’s your place.
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0976.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0976.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0971-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0971-1.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0966.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0966.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0937.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0937.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0949.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0949.jpg)
 
 Pet if you dare
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0942.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0942.jpg)
 
 They really lean into the capybaras, with capybara shaped karaage and plushies. They didn’t have the capy onsen running, I think winter is over and all the giant rodents get to swim in now is a cold pond. Capybaras are about as soft as a pig.
 
-![](/images/uploads/j25-day-5-the-bio-park-img_1402.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_1402.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0962-1.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0962-1.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_1405.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_1405.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0959.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0959.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0978.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0978.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0979.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0979.jpg)
 
 That’s an clementine on the one’s head, and onsen towel on the other
 
 But there’s more! Llamas! My spirit animal.
 
-![](/images/uploads/j25-day-5-the-bio-park-fullsizerender.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-fullsizerender.jpg)
 
 It lulls me into complacency
 
-![](/images/uploads/j25-day-5-the-bio-park-img_1414.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_1414.jpg)
 
 Then it makes it’s move
 
-![](/images/uploads/j25-day-5-the-bio-park-img_1397.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_1397.jpg)
 
 The flag on my lunch
 
@@ -77,22 +77,22 @@ If we had spent two more hours hanging around these slightly neglected animals I
 
 A special shout out here to my friend Darin in Minnesota. You are sitting on a gold mine sir. People will happily pay good money to feed raccoons. At least all the Japanese kids in southern Minnesota would visit.
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0973.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0973.jpg)
 
 They’re so cute! And prolific!
 
 After the Bio Park I started to feel more comfortable driving. We drove north up to the tip of the peninsula where a park overlooks the narrow passage of Ōmura bay to the ocean. The tidal current was impressive, it must be challenging to navigate a boat through. Cherry blossoms were in abundance.
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0985.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0985.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0987.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0987.jpg)
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0981.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0981.jpg)
 
-<!-- <video controls src="/images/uploads/j25-day-5-the-bio-park-img_0991.mp4"></video> -->
+<!-- <video controls src="https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0991.mp4"></video> -->
 
 We landed for the evening at the Central Imari Hotel, which has a nice onsen attached. The guests are a mix of business travelers and two tour busses, probably for sakura. We might be the only westerners here. The bathroom is juuuuust tall enough.
 
-![](/images/uploads/j25-day-5-the-bio-park-img_0993.jpg)
+![](https://images.kenchinpurcell.com/j25-day-5-the-bio-park-img_0993.jpg)
 
 Two meters is plenty?

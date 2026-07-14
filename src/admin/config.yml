@@ -21,7 +21,7 @@ collections:
     create: true
     slug: "{{slug}}"
     identifier_field: title
-    fields:
+    fields: &post_fields
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Date",
@@ -56,6 +56,19 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  # Sveltia's folder collections only list files directly inside `folder` —
+  # they don't recurse into subfolders. Each trip below needs its own
+  # collection pointed at its subfolder so Sveltia can see/edit those posts.
+  # Add a new block here (copy one of these) whenever a new trip subfolder
+  # is created under src/content/posts/travel/.
+  - name: "posts_travel"
+    label: "Travel"
+    folder: "src/content/posts/travel"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields: *post_fields
 
   - name: "pages"
     label: "Fixed Pages"

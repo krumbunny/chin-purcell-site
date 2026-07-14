@@ -40,7 +40,7 @@ module.exports = function (eleventyConfig) {
   // All posts, newest first
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
-      .getFilteredByGlob("src/content/posts/*.md")
+      .getFilteredByGlob("src/content/posts/**/*.md")
       .sort((a, b) => b.date - a.date);
   });
 
@@ -48,7 +48,7 @@ module.exports = function (eleventyConfig) {
   ["pottery", "travel", "cooking", "misc"].forEach((cat) => {
     eleventyConfig.addCollection(cat, (collectionApi) => {
       return collectionApi
-        .getFilteredByGlob("src/content/posts/*.md")
+        .getFilteredByGlob("src/content/posts/**/*.md")
         .filter((post) => {
           const category = post.data.category;
           return Array.isArray(category)
@@ -63,7 +63,7 @@ module.exports = function (eleventyConfig) {
   function buildTagCloud(collectionApi, { exclude } = {}) {
     const excludeSet = new Set(exclude || []);
     const counts = {};
-    collectionApi.getFilteredByGlob("src/content/posts/*.md").forEach((post) => {
+    collectionApi.getFilteredByGlob("src/content/posts/**/*.md").forEach((post) => {
       (post.data.tags || []).forEach((tag) => {
         if (!tag || excludeSet.has(tag)) return;
         counts[tag] = (counts[tag] || 0) + 1;
@@ -98,7 +98,7 @@ module.exports = function (eleventyConfig) {
   // Curated tag pages (see tagCollections.js): each entry's matching posts,
   // pre-sorted by its `sort` comparator (default: date ascending).
   eleventyConfig.addCollection("curatedTagPages", (collectionApi) => {
-    const allPosts = collectionApi.getFilteredByGlob("src/content/posts/*.md");
+    const allPosts = collectionApi.getFilteredByGlob("src/content/posts/**/*.md");
     return tagCollections.map((entry) => ({
       ...entry,
       posts: allPosts

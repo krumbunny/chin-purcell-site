@@ -1,13 +1,13 @@
 ---
-title: "Leaving the Tropics"
+title: E25 Leaving the Tropics
 date: 2025-09-22
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/tropical-img_3254.jpeg
-heroImageAlt: "Leaving the Tropics"
+heroImageAlt: Leaving the Tropics
 tags:
-  - "europe25"
-description: "\"Moist\" is one of America's least liked words, and one of Michele's favorites"
+  - europe25
+description: '"Moist" is one of America''s least liked words, and one of Michele''s favorites'
 ---
 
 ![](https://images.kenchinpurcell.com/tropical-img_3254.jpeg)
@@ -26,7 +26,7 @@ Which is pretty great, right? I mean, actually using a train in the US, outside 
 
 https://youtu.be/bC4w0ExDAN4?si=NTnRLtotT8cPjXwz
 
-They ooze in and out the station every 5-10 minutes. They zip along continuous welded rails, no clickety-clack. They are clean and comfortable. They have their own 16.7Hz electric system, powered with 100% renewable hydroelectric power from eight reservoirs. And they go *everywhere*, including up 25% mountain inclines to scenic trailheads.
+They ooze in and out the station every 5-10 minutes. They zip along continuous welded rails, no clickety-clack. They are clean and comfortable. They have their own 16.7Hz electric system, powered with 100% renewable hydroelectric power from eight reservoirs. And they go _everywhere_, including up 25% mountain inclines to scenic trailheads.
 
 We flew a big hop from San Diego to London Heathrow, then a small hop to Geneva. We got to Geneva late enough that we just stayed there for the night. Michele likes how the Swiss use the full integer set for building floors, not just the positives.
 

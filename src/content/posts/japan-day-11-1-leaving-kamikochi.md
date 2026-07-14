@@ -1,6 +1,6 @@
 ---
 title: "Japan day 11.1: Leaving Kamikochi"
-date: 2023-06-17
+date: 2023-05-25T01:00:00Z
 category:
   - travel
 tags:

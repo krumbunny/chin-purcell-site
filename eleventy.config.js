@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const tagCollections = require("./src/_data/tagCollections.js");
 
 module.exports = function (eleventyConfig) {
   // Static passthroughs
@@ -59,11 +60,12 @@ module.exports = function (eleventyConfig) {
   });
 
   // Unique tags with post counts, weighted 1-5 for cloud font sizing
-  eleventyConfig.addCollection("tagCloud", (collectionApi) => {
+  function buildTagCloud(collectionApi, { exclude } = {}) {
+    const excludeSet = new Set(exclude || []);
     const counts = {};
     collectionApi.getFilteredByGlob("src/content/posts/*.md").forEach((post) => {
       (post.data.tags || []).forEach((tag) => {
-        if (!tag) return;
+        if (!tag || excludeSet.has(tag)) return;
         counts[tag] = (counts[tag] || 0) + 1;
       });
     });
@@ -79,6 +81,30 @@ module.exports = function (eleventyConfig) {
         weight: Math.round(((e.count - minCount) / range) * 4) + 1,
       }))
       .sort((a, b) => a.tag.localeCompare(b.tag));
+  }
+
+  eleventyConfig.addCollection("tagCloud", (collectionApi) =>
+    buildTagCloud(collectionApi),
+  );
+
+  // Same as tagCloud, minus tags that have a curated page (see tagCollections.js),
+  // so the generic tag template doesn't also try to generate those URLs.
+  eleventyConfig.addCollection("tagCloudGeneric", (collectionApi) =>
+    buildTagCloud(collectionApi, {
+      exclude: tagCollections.map((t) => t.tag),
+    }),
+  );
+
+  // Curated tag pages (see tagCollections.js): each entry's matching posts,
+  // pre-sorted by its `sort` comparator (default: date ascending).
+  eleventyConfig.addCollection("curatedTagPages", (collectionApi) => {
+    const allPosts = collectionApi.getFilteredByGlob("src/content/posts/*.md");
+    return tagCollections.map((entry) => ({
+      ...entry,
+      posts: allPosts
+        .filter((post) => (post.data.tags || []).includes(entry.tag))
+        .sort(entry.sort || ((a, b) => a.date - b.date)),
+    }));
   });
 
   return {

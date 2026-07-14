@@ -1,6 +1,6 @@
 ---
 title: "Japan day 11.2: Return to Takayama"
-date: 2023-06-17
+date: 2023-05-25T02:00:00Z
 category:
   - travel
 tags:

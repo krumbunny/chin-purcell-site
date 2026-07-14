@@ -1,6 +1,6 @@
 ---
 title: "Japan day 8.1: Takayama"
-date: 2023-06-17
+date: 2023-05-22T01:00:00Z
 category:
   - travel
 tags:

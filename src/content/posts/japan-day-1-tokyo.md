@@ -1,6 +1,6 @@
 ---
 title: "Japan day 1: Tokyo"
-date: 2023-06-17
+date: 2023-05-15T01:00:00Z
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/japan-day-1-tokyo-image.jpeg

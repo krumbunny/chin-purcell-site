@@ -1,6 +1,6 @@
 ---
 title: "Japan day 7.2: Okochi Sanso Garden"
-date: 2023-06-17
+date: 2023-05-21T02:00:00Z
 category:
   - travel
 tags:

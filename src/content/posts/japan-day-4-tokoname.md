@@ -1,6 +1,6 @@
 ---
 title: "Japan day 4: Tokoname"
-date: 2023-06-17
+date: 2023-05-18T01:00:00Z
 category:
   - travel
 tags:

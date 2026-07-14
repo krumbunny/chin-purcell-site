@@ -1,6 +1,6 @@
 ---
 title: "Japan day 3.1: The Drum Shop"
-date: 2023-06-17
+date: 2023-05-17T01:00:00Z
 category:
   - travel
 tags:

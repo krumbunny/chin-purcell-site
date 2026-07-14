@@ -1,6 +1,6 @@
 ---
 title: "Japan day 18: Shopping"
-date: 2023-06-17
+date: 2023-06-01T01:00:00Z
 category:
   - travel
 tags:

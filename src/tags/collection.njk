@@ -1,21 +1,19 @@
 ---
 layout: base.njk
 pagination:
-  data: collections.tagCloudGeneric
+  data: collections.curatedTagPages
   size: 1
   alias: tagInfo
 permalink: "/tags/{{ tagInfo.tag | slugify }}/"
 eleventyComputed:
-  title: "{{ tagInfo.tag }}"
+  title: "{{ tagInfo.title }}"
 ---
 {% from "post-card.njk" import card %}
 <section class="wrap">
-  <h1>Tag: {{ tagInfo.tag }}</h1>
+  <h1>{{ tagInfo.title }}</h1>
   <div class="post-grid">
-    {% for post in collections.posts %}
-      {% if tagInfo.tag in (post.data.tags or []) %}
-        {{ card(post) }}
-      {% endif %}
+    {% for post in tagInfo.posts %}
+      {{ card(post) }}
     {% endfor %}
   </div>
 </section>

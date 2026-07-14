@@ -1,6 +1,6 @@
 ---
 title: "Japan day 3.2: Kanda Matsuri"
-date: 2023-06-17
+date: 2023-05-17T02:00:00Z
 category:
   - travel
 tags:

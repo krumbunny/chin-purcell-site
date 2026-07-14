@@ -1,6 +1,6 @@
 ---
 title: "Japan day 19: Headed Home"
-date: 2023-06-17
+date: 2023-06-02T01:00:00Z
 category:
   - travel
 tags:

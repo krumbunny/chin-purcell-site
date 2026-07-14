@@ -1,6 +1,6 @@
 ---
 title: "Japan day 14.1: Kamakura"
-date: 2023-06-17
+date: 2023-05-28T01:00:00Z
 category:
   - travel
 tags:

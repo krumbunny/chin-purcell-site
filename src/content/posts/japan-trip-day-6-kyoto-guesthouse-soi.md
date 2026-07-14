@@ -1,6 +1,6 @@
 ---
 title: "Japan day 6.1: Kyoto, Guesthouse Soi"
-date: 2023-06-17
+date: 2023-05-20T01:00:00Z
 category:
   - travel
 tags:

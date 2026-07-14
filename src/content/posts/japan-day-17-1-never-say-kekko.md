@@ -1,6 +1,6 @@
 ---
 title: "Japan day 17.1: Never say Kekko…"
-date: 2023-06-17
+date: 2023-05-31T01:00:00Z
 category:
   - travel
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Japan day 15: Ramen Museum"
-date: 2023-06-17
+date: 2023-05-29T01:00:00Z
 category:
   - travel
 tags:

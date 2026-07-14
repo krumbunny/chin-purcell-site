@@ -1,6 +1,6 @@
 ---
 title: "Japan day 13: Travel Day"
-date: 2023-06-17
+date: 2023-05-27T01:00:00Z
 category:
   - travel
 tags:

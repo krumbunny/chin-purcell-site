@@ -1,6 +1,6 @@
 ---
 title: "Japan day 2: Sumo"
-date: 2023-06-17
+date: 2023-05-16T02:00:00Z
 category:
   - travel
 tags:

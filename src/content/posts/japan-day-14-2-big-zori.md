@@ -1,6 +1,6 @@
 ---
 title: "Japan day 14.2: Big Zori"
-date: 2023-06-17
+date: 2023-05-28T02:00:00Z
 category:
   - travel
 tags:

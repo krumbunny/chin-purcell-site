@@ -1,6 +1,6 @@
 ---
 title: "Japan day 16: Sensei"
-date: 2023-06-17
+date: 2023-05-30T01:00:00Z
 category:
   - travel
 tags:

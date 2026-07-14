@@ -1,6 +1,6 @@
 ---
 title: "Japan day 9.2: Tokusawa-en"
-date: 2023-06-17
+date: 2023-05-23T02:00:00Z
 category:
   - travel
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Japan day 7.1: To-ji Temple Flea Market"
-date: 2023-06-17
+date: 2023-05-21T01:00:00Z
 category:
   - travel
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Japan day 6.3: Sand and Tea"
-date: 2023-06-17
+date: 2023-05-20T03:00:00Z
 category:
   - travel
 tags:

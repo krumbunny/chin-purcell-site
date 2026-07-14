@@ -1,6 +1,6 @@
 ---
 title: "Japan day 10: Yoko-o"
-date: 2023-06-17
+date: 2023-05-24T01:00:00Z
 category:
   - travel
 tags:

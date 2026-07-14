@@ -1,14 +1,14 @@
 ---
-title: "J25 Day 17 &amp; 18: Tokyo Tasks"
+title: 'J25 Day 17 and 18: Tokyo Tasks'
 date: 2025-04-17
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/j25-day-17-18-tokyo-tasks-img_1676.jpg
-heroImageAlt: "J25 Day 17 &amp; 18: Tokyo Tasks"
+heroImageAlt: 'J25 Day 17 and 18: Tokyo Tasks'
 tags:
-  - "japan"
-  - "japan25"
-description: "We spent the weekend with Bill and Pam in Tokyo. Saturday was a fairly straightforward day seeing some Tokyo sights, like the Meiji Shrine and Ueno park.…"
+  - japan
+  - japan25
+description: We spent the weekend with Bill and Pam in Tokyo. Saturday was a fairly straightforward day seeing some Tokyo sights, like the Meiji Shrine and Ueno park.…
 ---
 
 We spent the weekend with Bill and Pam in Tokyo. Saturday was a fairly straightforward day seeing some Tokyo sights, like the Meiji Shrine and Ueno park. But first Bill needed a replacement suitcase, so we dived into a Don Quixote near the hotel. It was first thing in the morning, so not as crazy as my previous experience, but just to give you a taste…

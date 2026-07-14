@@ -1,6 +1,6 @@
 ---
 title: "Japan day 17.2: …until you’ve seen Nikko"
-date: 2023-06-17
+date: 2023-05-31T02:00:00Z
 category:
   - travel
 tags:

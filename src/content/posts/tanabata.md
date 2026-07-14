@@ -1,8 +1,8 @@
 ---
 title: Tanabata
-date: 2026-07-11
+date: 2026-07-07
 category: []
-heroImage: https://images.kenchinpurcell.com/Tanabata26 - 16.jpeg
+heroImage: https://images.kenchinpurcell.com/Tanabata26 - 23.jpeg
 heroImageAlt: Shishi
 tags:
   - shishi
@@ -13,6 +13,6 @@ description: Tanabata festival
 
 Shishi danced at Tanabata this year
 
-![](https://images.kenchinpurcell.com/america-4e5a96809c.jpg "Sleeping")
+![](/images/uploads/E26-1.jpeg "Sleeping")
 
 It was great

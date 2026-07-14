@@ -1,14 +1,14 @@
 ---
-title: "Leukerbad"
+title: E25 Leukerbad
 date: 2025-10-12
 category:
   - misc
   - travel
 heroImage: https://images.kenchinpurcell.com/leukerbad-idg_20250930_120934_815.jpg
-heroImageAlt: "Leukerbad"
+heroImageAlt: Leukerbad
 tags:
-  - "europe25"
-description: "The Rhône river starts in the heart of the Swiss Alps and flows southwest towards French Provence, carving out a deep and beautiful valley called the…"
+  - europe25
+description: The Rhône river starts in the heart of the Swiss Alps and flows southwest towards French Provence, carving out a deep and beautiful valley called the…
 ---
 
 The Rhône river starts in the heart of the Swiss Alps and flows southwest towards French Provence, carving out a deep and beautiful valley called the Valais. The bottom of the Valais is a fairly warm and fertile plain, with various peaks ending in “-horn” on either side: Firehorn, Blinnenhorn, Nesthorn, Matterhorn. Mont Blanc blocks the way though, so at the bottom of the Valais at Martigny the Rhône makes a sharp right turn and widens out into banana shaped Lake Geneva. The city of Geneva is at the outlet of the lake, where the Rhône then tumbles out of the mountains, down to Lyon, where is can finally get back on its provincial track, turn south, and flow through southern France to the sea.

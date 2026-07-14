@@ -1,14 +1,14 @@
 ---
-title: "Les Désalpe"
+title: Les Désalpe
 date: 2025-10-07
 category:
   - misc
   - travel
 heroImage: https://images.kenchinpurcell.com/les-desalpe-idg_20251001_110552_101.jpg
-heroImageAlt: "Les Désalpe"
+heroImageAlt: Les Désalpe
 tags:
-  - "europe25"
-description: "Switzerland is dotted with many thousands of small dairy herds. Like really small herds, a couple of dozen cows on average. The government directly pays…"
+  - europe25
+description: Switzerland is dotted with many thousands of small dairy herds. Like really small herds, a couple of dozen cows on average. The government directly pays…
 ---
 
 Switzerland is dotted with many thousands of small dairy herds. Like really small herds, a couple of dozen cows on average. The government directly pays each farm 48,000 CHF, or about $60k, just so the Swiss and tourists can hear the clanks of cow bells in the summer and enjoy alpine cheeses. Most cows I see here really do have a cowbell hung around their neck, and they bink-bonk all day long with every bite of grass or flick of the head. Some animal activists think it’s a little torturous for the cows, and point to a study where the cows with bells produced a little less milk. Most farmers are pretty sure their cows don’t mind, and besides how would they find their animals? I think the cows look great here, better than your average American dairy cow, with fuzzy ears and healthy glossy coats.
@@ -33,11 +33,11 @@ There was a good build up to the arrival of actual beasts in the streets. First 
 
 These are carried through the streets in a kind of Swiss drum corps.
 
-https://youtu.be/cgL\_L2ghLhw?si=E\_Azdw541Cw5JSHj
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cgL_L2ghLhw?si=rRAKR2faRJNedh6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Next come Swiss horns along with a flag man. While they were playing there were still cars trapped on the parade route looking for a way out.
 
-https://youtu.be/6D37-2lyp9Y?si=TBlF7VEVCz7qrbFl
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6D37-2lyp9Y?si=YgpzsqlPpOXQznkH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 And then the sound of approaching cow bells, and finally the cows! The Queens are all dressed up with flowers and trees.
 
@@ -55,9 +55,7 @@ The three herds came down at different times, so we explored the town in between
 
 But wait, what’s that? More cows! Back to the parade route! At the end of this video a guy catches a ride on a horse cart but drops his phone. Paul picks it up and chases down the cart…
 
-https://youtu.be/80FimCKTs5k?si=pdZri3TZbIGb6UUK
-
-That was the last herd, so it was on to the next thing. On weekends the train museum wheels out a classic old narrow gauge steam train pulling open air wooden cars. It runs on a level track above Lake Geneva, between Blonay, above Vevey, to the small station of Chamby, above Montreux.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80FimCKTs5k?si=mkmoVP-A_bSFXva1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>That was the last herd, so it was on to the next thing. On weekends the train museum wheels out a classic old narrow gauge steam train pulling open air wooden cars. It runs on a level track above Lake Geneva, between Blonay, above Vevey, to the small station of Chamby, above Montreux.
 
 ![](https://images.kenchinpurcell.com/les-desalpe-img_2297.jpg)
 

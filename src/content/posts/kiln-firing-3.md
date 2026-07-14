@@ -1,20 +1,20 @@
 ---
-title: "Kiln Firing #3"
+title: 'Kiln Firing #3'
 date: 2025-03-24
 category:
   - pottery
 heroImage: https://images.kenchinpurcell.com/kiln-firing-3-img_0525.jpeg
-heroImageAlt: "Kiln Firing #3"
-description: "This was mostly a test of adding colorants to a matte glaze."
+heroImageAlt: 'Kiln Firing #3'
+description: This was mostly a test of adding colorants to a matte glaze.
 ---
 
 This was mostly a test of adding colorants to a matte glaze.
 
-![](https://images.kenchinpurcell.com/kiln-firing-3-img_0525.jpeg)
+![Iron Saturate](https://images.kenchinpurcell.com/kiln-firing-3-img_0525.jpeg "Tenmoku")
 
-![](https://images.kenchinpurcell.com/kiln-firing-3-img_0526.jpeg)
+![](https://images.kenchinpurcell.com/kiln-firing-3-img_0526.jpeg "Sandy")
 
-![](https://images.kenchinpurcell.com/kiln-firing-3-img_0519.jpeg)
+![](https://images.kenchinpurcell.com/kiln-firing-3-img_0519.jpeg "Canary")
 
 ![](https://images.kenchinpurcell.com/kiln-firing-3-img_0520.jpeg)
 

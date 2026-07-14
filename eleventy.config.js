@@ -27,6 +27,66 @@ module.exports = function (eleventyConfig) {
   // {% year %} -> current year, for footer copyright
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  // {% figure src, caption %} -> image with caption overlaid in white text at the bottom
+  eleventyConfig.addShortcode("figure", (src, caption, alt) => {
+    return `<figure class="figure-overlay">
+  <img src="${src}" alt="${alt || caption || ""}">
+  <figcaption>${caption}</figcaption>
+</figure>`;
+  });
+
+  // Markdown images with a title (`![alt](url "Caption")`) render as a
+  // figure-overlay instead of a native title tooltip, so authors can add
+  // an overlay caption without reaching for the {% figure %} shortcode.
+  eleventyConfig.amendLibrary("md", (mdLib) => {
+    const defaultRender =
+      mdLib.renderer.rules.image ||
+      function (tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options);
+      };
+
+    mdLib.renderer.rules.image = (tokens, idx, options, env, self) => {
+      const token = tokens[idx];
+      const titleIndex = token.attrIndex("title");
+      const title = titleIndex >= 0 ? token.attrs[titleIndex][1] : "";
+      if (!title) {
+        return defaultRender(tokens, idx, options, env, self);
+      }
+
+      const src = token.attrGet("src");
+      const alt = mdLib.utils.escapeHtml(token.content || title);
+      return `<figure class="figure-overlay">
+  <img src="${src}" alt="${alt}">
+  <figcaption>${mdLib.utils.escapeHtml(title)}</figcaption>
+</figure>`;
+    };
+
+    // A titled image is normally the sole inline child of its own paragraph;
+    // suppress that paragraph's <p> tags so it doesn't wrap the <figure>
+    // block our image rule renders above (same trick markdown-it uses to
+    // drop <p> around tight list items).
+    mdLib.core.ruler.push("figure_unwrap_paragraph", (state) => {
+      const tokens = state.tokens;
+      for (let i = 0; i < tokens.length - 2; i++) {
+        const [open, inline, close] = tokens.slice(i, i + 3);
+        if (
+          open.type !== "paragraph_open" ||
+          inline.type !== "inline" ||
+          close.type !== "paragraph_close" ||
+          inline.children.length !== 1 ||
+          inline.children[0].type !== "image"
+        ) {
+          continue;
+        }
+        const titleIndex = inline.children[0].attrIndex("title");
+        if (titleIndex >= 0 && inline.children[0].attrs[titleIndex][1]) {
+          open.hidden = true;
+          close.hidden = true;
+        }
+      }
+    });
+  });
+
   // Adjacent posts in chronological order (posts collection is sorted newest first)
   eleventyConfig.addFilter("previousPost", (posts, url) => {
     const index = posts.findIndex((post) => post.url === url);

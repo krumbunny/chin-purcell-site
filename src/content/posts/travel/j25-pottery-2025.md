@@ -14,69 +14,37 @@ description: "Here are the pots I purchased in Japan, in roughly the order I bou
 
 Here are the pots I purchased in Japan, in roughly the order I bought them.
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-15.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-15.jpg "Arita")
 
-Arita
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-01.jpg "Arita")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-01.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-06.jpg "Okawachiyama")
 
-Arita
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-13.jpg "Ichikawa Kozan, Okawachiyama")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-06.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-12.jpg "Ichikawa Kozan, Okawachiyama")
 
-Okawachiyama
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-10.jpg "Nabeshima, Okawachiyama")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-13.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-11.jpg "Nabeshima, Okawachiyama")
 
-Ichikawa Kozan, Okawachiyama
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-02.jpg "Nabeshima, Okawachiyama")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-12.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-04.jpg "Hita")
 
-Ichikawa Kozan, Okawachiyama
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-09.jpg "Ontayaki, Hita")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-10.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-05.jpg "Rojin Kiln, Nagayu Onsen")
 
-Nabeshima, Okawachiyama
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-08.jpg "Utsuwa Marukaku")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-11.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-03.jpg "Utsuwa Marukaku")
 
-Nabeshima, Okawachiyama
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-07.jpg "Utsuwa Hanada")
 
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-02.jpg)
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-16.jpg "Utsuwa Hanada")
 
-Nabeshima, Okawachiyama
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-04.jpg)
-
-Hita
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-09.jpg)
-
-Ontayaki, Hita
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-05.jpg)
-
-Rojin Kiln, Nagayu Onsen
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-08.jpg)
-
-Utsuwa Marukaku
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-03.jpg)
-
-Utsuwa Marukaku
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-07.jpg)
-
-Utsuwa Hanada
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-16.jpg)
-
-Utsuwa Hanada
-
-![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-14.jpg)
-
-You Luck Gallery
+![](https://images.kenchinpurcell.com/japan-pottery-2025-japan25-14.jpg "You Luck Gallery")
 
 Websites:
 

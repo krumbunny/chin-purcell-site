@@ -17,25 +17,23 @@ The Sunday morning drive to LAX was calm. We parked at the airport Hilton parkin
 
 Thumbs up for Japan Airlines Premium Economy. You get access to a peaceful lounge:
 
-![](https://images.kenchinpurcell.com/japan-day-1-tokyo-image.jpeg)
-
 And the seats leave plenty of legroom for me:
 
-![26B9C4CD-37D0-444B-9DD8-9834D07CB0D9.jpg](MISSING-IMAGE:26B9C4CD-37D0-444B-9DD8-9834D07CB0D9.jpg)
+![26B9C4CD-37D0-444B-9DD8-9834D07CB0D9.jpg](https://images.kenchinpurcell.com/26B9C4CD-37D0-444B-9DD8-9834D07CB0D9.jpg)
 
 Nice bundle of goodies with the seat, including slippers which of course don’t fit. The flight itself was uneventful.
 
-![IMG_1451.jpg](MISSING-IMAGE:IMG_1451.jpg)
+![IMG_1451.jpg](https://images.kenchinpurcell.com/IMG_1451.jpeg)
 
 The immigration line at Haneda airport was at least a thousand people and took a good hour to get through. There were signs up blaming the queue on the G-7 meeting next week. I had screen captured QR codes for immigration and customs forms, and that did work. No Covid screening or requirements.
 
 Bill and Pam were waiting for us, which was really nice of them. They had landed at 5AM and were a bit tired, even after a few hours sleep at a love hotel. Bill and I spotted each other across the crowded hall right away - we have a height advantage (disadvantage). There were a few bobbles figuring out the train lines (I think we were tired), but a train agent at Shinagawa helped us out. We went out for ramen after the trip to Gotanda and checking in to the Mitsui Garden hotel. Warm soup and cold beer hit the spot.
 
-![IMG_1453.jpg](MISSING-IMAGE:IMG_1453.jpg)
+![IMG_1453.jpg](https://images.kenchinpurcell.com/IMG_1453.jpeg)
 
 The M-G is good. The bed and shower aren’t too small and the view is great:
 
-![IMG_1467.jpg](MISSING-IMAGE:IMG_1467.jpg)
+![IMG_1467.jpg](https://images.kenchinpurcell.com/IMG_1467.jpeg)
 
 The M-G also had guest slippers, standard tiny size. I anticipate this won’t be the end of complimentary too small slippers on this trip.
 

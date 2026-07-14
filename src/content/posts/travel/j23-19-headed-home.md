@@ -1,6 +1,7 @@
 ---
 title: "Japan day 19: Headed Home"
 date: 2023-06-02T01:00:00Z
+heroImage: https://images.kenchinpurcell.com/IMG_2456.jpeg
 category:
   - travel
 tags:
@@ -11,7 +12,7 @@ description: "Well, that’s the trip. We’re at Haneda airport early. It’s r
 
 Well, that’s the trip. We’re at Haneda airport early. It’s raining 3-4 inches today so we figured we might as well head out. We had one last okanomiyake at the airport, this time Hiroshima style with noodles and an omelet wrap.
 
-![IMG_2456.jpg](MISSING-IMAGE:IMG_2456.jpg)
+![IMG_2456.jpg](https://images.kenchinpurcell.com/IMG_2456.jpeg)
 
 It was a great trip, I’m glad I wrote this travel diary to look back on. I have Yen in my wallet that I’m not exchanging - we plan to return!
 
@@ -69,4 +70,4 @@ Here are some notes for Future Ken on what worked well and what didn’t on this
 
 Shishi is everywhere!
 
-![11902338-ca88-4f49-9d71-d820b96b5f7e.jpeg](MISSING-IMAGE:11902338-ca88-4f49-9d71-d820b96b5f7e.jpeg)
+![11902338-ca88-4f49-9d71-d820b96b5f7e.jpeg](https://images.kenchinpurcell.com/11902338-ca88-4f49-9d71-d820b96b5f7e.jpeg)

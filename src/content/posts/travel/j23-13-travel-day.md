@@ -1,6 +1,7 @@
 ---
 title: "Japan day 13: Travel Day"
 date: 2023-05-27T01:00:00Z
+heroImage: https://images.kenchinpurcell.com/IMG_1478.jpeg
 category:
   - travel
 tags:

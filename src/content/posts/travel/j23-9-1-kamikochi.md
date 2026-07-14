@@ -1,6 +1,7 @@
 ---
 title: "Japan day 9.1: Kamikochi"
 date: 2023-05-23T01:00:00Z
+heroImage: https://images.kenchinpurcell.com/IMG_1940.jpeg
 category:
   - travel
 tags:
@@ -17,30 +18,30 @@ We hopped on an hour long bus into the mountains to Hirayu Onsen, then another h
 
 Here we are at the start:
 
-![IMG_1916.jpg](MISSING-IMAGE:IMG_1916.jpg)
+![IMG_1916.jpg](https://images.kenchinpurcell.com/IMG_1916.jpeg)
 
 We had a 5 mile walk into our lodge. There wasn’t much to see looking up except clouds, but the valley floor was scenic.
 
-![IMG_1940.jpg](MISSING-IMAGE:IMG_1940.jpg)
+![IMG_1940.jpg](https://images.kenchinpurcell.com/IMG_1940.jpeg)
 
 Branches of the river meandered through the valley floor.
 
-![IMG_1933.jpg](MISSING-IMAGE:IMG_1933.jpg)
+![IMG_1933.jpg](https://images.kenchinpurcell.com/IMG_1933.jpeg)
 
 The trail is very established, and they make a big point of staying on trail. It wasn’t too crowded this week but you can tell that the facilities are built for heavier use. Everything is in the rustic style.
 
-![IMG_1949.jpg](MISSING-IMAGE:IMG_1949.jpg)
+![IMG_1949.jpg](https://images.kenchinpurcell.com/IMG_1949.jpeg)
 
 There were warning signs not to feed the monkeys, and to watch out for Crescent Moon Bear, back away slowly if you encounter a CMB, etc. Many fellow walkers had bear bells on their packs.
 
 The main river was in a wide wash, and there were several swing bridges connecting the two sides.
 
-![IMG_1947.jpg](MISSING-IMAGE:IMG_1947.jpg)
+![IMG_1947.jpg](https://images.kenchinpurcell.com/IMG_1947.jpeg)
 
 The weather was threatening but fortunately it never really rained on us, just a grey drizzly day.
 
-![IMG_1958.jpg](MISSING-IMAGE:IMG_1958.jpg)
+![IMG_1958.jpg](https://images.kenchinpurcell.com/IMG_1958.jpeg)
 
 Kamikochi valley floor is about 1500m / 5000 feet elevation, and the peaks around it are 3100m / 10,000 feet. It was considerably cooler than down in Takayama, and trees were still blooming.
 
-![IMG_1950.jpg](MISSING-IMAGE:IMG_1950.jpg)
+![IMG_1950.jpg](https://images.kenchinpurcell.com/IMG_1950.jpeg)

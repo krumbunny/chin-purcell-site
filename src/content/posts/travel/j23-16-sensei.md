@@ -1,6 +1,7 @@
 ---
 title: "Japan day 16: Sensei"
 date: 2023-05-30T01:00:00Z
+heroImage: https://images.kenchinpurcell.com/IMG_2334.jpeg
 category:
   - travel
 tags:
@@ -13,7 +14,7 @@ For Michele (and Ryoko) this was the big day, a four hour afternoon lesson with 
 
 We travelled out from the center of Tokyo for about a half hour to Kichijoji. It was still a dense neighborhood - this city goes on and on. We met up with Ryoko for a snack before the lesson.
 
-![IMG_2325.jpg](MISSING-IMAGE:IMG_2325.jpg)
+![IMG_2325.jpg](https://images.kenchinpurcell.com/IMG_2325.jpeg)
 
 Note how they aren’t shy about sending a bus up a narrow pedestrian street here.
 
@@ -23,27 +24,27 @@ To show the rule, at the current hotel Michele and I were waiting for the elevat
 
 Anyway, I dropped Michele off at Sensei’s practice space. Here are Michele and Ryoko after four hours of Sensei working them.
 
-![c2e49dcb-50c6-480c-b7b2-6eaead6f9eb9.jpeg](MISSING-IMAGE:c2e49dcb-50c6-480c-b7b2-6eaead6f9eb9.jpeg)
+![c2e49dcb-50c6-480c-b7b2-6eaead6f9eb9.jpeg](https://images.kenchinpurcell.com/c2e49dcb-50c6-480c-b7b2-6eaead6f9eb9.jpeg)
 
 Sensei himself was impressively spry, he has a dancer’s quickness and energy. They had a good lesson, Michele will be processing all the things Sensei had to say for a while.
 
 Meanwhile I went off and looked at craft shops. First stop was Takumi on the edge of the Ginza district. My walk from the subway to the shop went by many luxury brands. Louis Vuitton’s building was particularly interesting, it was clad in wavy mirror like metal (glass?) that reflected different hues.
 
-![IMG_2331.jpg](MISSING-IMAGE:IMG_2331.jpg)
+![IMG_2331.jpg](https://images.kenchinpurcell.com/IMG_2331.jpeg)
 
 Takumi itself had a great selection of pots and other craft, at a good range of price points.
 
-![IMG_2334.jpg](MISSING-IMAGE:IMG_2334.jpg)
+![IMG_2334.jpg](https://images.kenchinpurcell.com/IMG_2334.jpeg)
 
 Upstairs there were some Hamada Shōji, who was a very influential post war potter. Through Hamada’s friendship with Warren Mackenzie he had a big influence on Minnesota pottery.
 
-![IMG_2332.jpg](MISSING-IMAGE:IMG_2332.jpg)
+![IMG_2332.jpg](https://images.kenchinpurcell.com/IMG_2332.jpeg)
 
 No, I didn’t spend 600,000¥ on a Hamada, more like 3000¥ on an interesting no name pot.
 
 Next I walked a few blocks back into Ginza to a proper gallery. On the way I stopped for a quick bowl of soba. I pointed my translate app at the ticket board, here are my choices (for some reason the app added 1000¥ to the prices)
 
-![IMG_2354.JPG](MISSING-IMAGE:IMG_2354.JPG)
+![IMG_2354.JPG](https://images.kenchinpurcell.com/IMG_2354.JPG)
 
 Hmmm, “Raccoon Dog”? “I’m Sorry”? So many options.  I felt like Japanese curry.
 
@@ -59,4 +60,4 @@ My last shop was Japan Traditional Crafts Aoyama Square, which along with Takumi
 
 I met up with Ryoko and Michele after their lesson. They were bushed, and we headed to Yona Yona brewery to relax. Good beer and food! See you back in San Diego Ryoko!
 
-![IMG_2341.jpg](MISSING-IMAGE:IMG_2341.jpg)
+![IMG_2341.jpg](https://images.kenchinpurcell.com/IMG_2341.jpeg)

@@ -13,6 +13,6 @@ description: Tanabata festival
 
 Shishi danced at Tanabata this year
 
-![](/images/uploads/Tanabata26%20-%2022.jpeg "Sleeping")
+![](https://images.kenchinpurcell.com/america-4e5a96809c.jpg "Sleeping")
 
 It was great

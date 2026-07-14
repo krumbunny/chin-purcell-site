@@ -45,7 +45,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // Posts filtered by category, newest first
-  ["pottery", "travel", "cooking", "misc"].forEach((cat) => {
+  ["pottery", "travel", "cooking", "journal"].forEach((cat) => {
     eleventyConfig.addCollection(cat, (collectionApi) => {
       return collectionApi
         .getFilteredByGlob("src/content/posts/**/*.md")
@@ -63,14 +63,19 @@ module.exports = function (eleventyConfig) {
   function buildTagCloud(collectionApi, { exclude } = {}) {
     const excludeSet = new Set(exclude || []);
     const counts = {};
-    collectionApi.getFilteredByGlob("src/content/posts/**/*.md").forEach((post) => {
-      (post.data.tags || []).forEach((tag) => {
-        if (!tag || excludeSet.has(tag)) return;
-        counts[tag] = (counts[tag] || 0) + 1;
+    collectionApi
+      .getFilteredByGlob("src/content/posts/**/*.md")
+      .forEach((post) => {
+        (post.data.tags || []).forEach((tag) => {
+          if (!tag || excludeSet.has(tag)) return;
+          counts[tag] = (counts[tag] || 0) + 1;
+        });
       });
-    });
 
-    const entries = Object.entries(counts).map(([tag, count]) => ({ tag, count }));
+    const entries = Object.entries(counts).map(([tag, count]) => ({
+      tag,
+      count,
+    }));
     const maxCount = Math.max(...entries.map((e) => e.count), 1);
     const minCount = Math.min(...entries.map((e) => e.count), maxCount);
     const range = maxCount - minCount || 1;
@@ -98,7 +103,9 @@ module.exports = function (eleventyConfig) {
   // Curated tag pages (see tagCollections.js): each entry's matching posts,
   // pre-sorted by its `sort` comparator (default: date ascending).
   eleventyConfig.addCollection("curatedTagPages", (collectionApi) => {
-    const allPosts = collectionApi.getFilteredByGlob("src/content/posts/**/*.md");
+    const allPosts = collectionApi.getFilteredByGlob(
+      "src/content/posts/**/*.md",
+    );
     return tagCollections.map((entry) => ({
       ...entry,
       posts: allPosts

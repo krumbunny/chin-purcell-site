@@ -2,7 +2,7 @@
 title: "Potting Bench Rehab"
 date: 2023-06-18
 category:
-  - misc
+  - journal
 heroImage: https://images.kenchinpurcell.com/potting-bench-rehab-70830462847__6cfaba7b-2911-4307-a213-1bfbce0bc1f8.jpeg
 heroImageAlt: "Potting Bench Rehab"
 tags:

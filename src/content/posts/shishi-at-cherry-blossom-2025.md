@@ -2,7 +2,7 @@
 title: "Shishi at Cherry Blossom 2025"
 date: 2025-03-24
 category:
-  - misc
+  - journal
 heroImage: https://images.kenchinpurcell.com/shishi-at-cherry-blossom-2025-kcp00803.jpeg
 heroImageAlt: "Shishi at Cherry Blossom 2025"
 tags:

@@ -2,7 +2,7 @@
 title: E25 Leukerbad
 date: 2025-10-12
 category:
-  - misc
+  - journal
   - travel
 heroImage: https://images.kenchinpurcell.com/leukerbad-idg_20250930_120934_815.jpg
 heroImageAlt: Leukerbad

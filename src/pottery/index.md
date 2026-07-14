@@ -1,6 +1,6 @@
 ---
 title: Pottery
-heroImage: https://images.kenchinpurcell.com/Tanabata26 - 17.jpeg
+heroImage: https://images.kenchinpurcell.com/HeroJar.jpeg
 heroImageAlt: But not pottery
 layout: category.njk
 category: pottery

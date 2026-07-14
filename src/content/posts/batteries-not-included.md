@@ -2,7 +2,7 @@
 title: "Batteries Not Included"
 date: 2025-12-05
 category:
-  - misc
+  - journal
 heroImage: https://images.kenchinpurcell.com/batteries-not-included-img_3874.jpeg
 heroImageAlt: "Batteries Not Included"
 tags:
@@ -22,7 +22,7 @@ So if you’re going to have a spiffy battery system optimizing things, with the
 
 Other companies have scrambled to implement their own collars (“coming soon!”), but the Tesla is the only one currently approved by SDG&E. There’s other less elegant solutions, but this is what I mean about Tesla targeting the California market.
 
-It’s an interesting optimization problem. We will probably switch our service supply plan to “TOU-ELEC” (TOU = Time of Use), which is aimed at customers like us with solar and a battery. TOU-ELEC has the highest difference between on and off peak rates. In the winter this is about $0.30/$0.45 per kWh, but in summer that on peak number goes *way* up (evening air conditioning). I think we use about 18 kWh per day right now (4-5 kWh is probably the hot tub), and that will probably go up to maybe 25 kWh per day in the winter with the heat pump. The battery allows us to time shift 13.5 kWh. Here is our yearly net usage from the utility (from last June’s annual true-up bill):
+It’s an interesting optimization problem. We will probably switch our service supply plan to “TOU-ELEC” (TOU = Time of Use), which is aimed at customers like us with solar and a battery. TOU-ELEC has the highest difference between on and off peak rates. In the winter this is about $0.30/$0.45 per kWh, but in summer that on peak number goes _way_ up (evening air conditioning). I think we use about 18 kWh per day right now (4-5 kWh is probably the hot tub), and that will probably go up to maybe 25 kWh per day in the winter with the heat pump. The battery allows us to time shift 13.5 kWh. Here is our yearly net usage from the utility (from last June’s annual true-up bill):
 
 ![PastedGraphic 1.](https://images.kenchinpurcell.com/batteries-not-included-pastedgraphic-1.png "PastedGraphic-1.png")
 

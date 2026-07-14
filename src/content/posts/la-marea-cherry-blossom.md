@@ -2,7 +2,7 @@
 title: "La Marea Cherry Blossom"
 date: 2025-03-24
 category:
-  - misc
+  - journal
 heroImage: https://images.kenchinpurcell.com/la-marea-cherry-blossom-kcp01140.jpg
 heroImageAlt: "La Marea Cherry Blossom"
 tags:

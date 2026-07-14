@@ -2,7 +2,7 @@
 title: "America"
 date: 2022-08-23
 category:
-  - misc
+  - journal
 heroImage: https://images.kenchinpurcell.com/america-4e5a96809c.jpg
 heroImageAlt: "America"
 tags:

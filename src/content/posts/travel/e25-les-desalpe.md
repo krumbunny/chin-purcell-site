@@ -2,7 +2,7 @@
 title: E25 Les Désalpe
 date: 2025-10-07
 category:
-  - misc
+  - journal
   - travel
 heroImage: https://images.kenchinpurcell.com/les-desalpe-idg_20251001_110552_101.jpg
 heroImageAlt: Les Désalpe

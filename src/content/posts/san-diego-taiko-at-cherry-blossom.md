@@ -2,7 +2,7 @@
 title: "San Diego Taiko at Cherry Blossom"
 date: 2025-03-24
 category:
-  - misc
+  - journal
 heroImage: https://images.kenchinpurcell.com/san-diego-taiko-at-cherry-blossom-kcp00609.jpg
 heroImageAlt: "San Diego Taiko at Cherry Blossom"
 tags:

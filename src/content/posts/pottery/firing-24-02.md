@@ -1,6 +1,11 @@
 ---
-title: "Kiln Firing February 2024"
+title: Kiln Firing February 2024
 date: 2024-02-19
+category:
+  - pottery
+heroImage: https://images.kenchinpurcell.com/kiln-firing-feb-2024-pottery-2024-02-19-3.jpeg
+heroImageAlt: Mugs
+description: ''
 ---
 
 ![](https://images.kenchinpurcell.com/kiln-firing-feb-2024-pottery-2024-02-19-11.jpeg)

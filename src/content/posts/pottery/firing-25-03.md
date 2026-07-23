@@ -1,8 +1,6 @@
 ---
-title: "Kiln Firing #3"
+title: "Kiln Firing March 2025"
 date: 2025-03-24
-heroImage: https://images.kenchinpurcell.com/kiln-firing-3-img_0525.jpeg
-heroImageAlt: "Kiln Firing #3"
 description: This was mostly a test of adding colorants to a matte glaze.
 ---
 

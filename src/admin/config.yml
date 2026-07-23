@@ -70,6 +70,14 @@ collections:
     identifier_field: title
     fields: *post_fields
 
+  - name: "posts_pottery"
+    label: "Pottery"
+    folder: "src/content/posts/pottery"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields: *post_fields
+
   - name: "pages"
     label: "Fixed Pages"
     files:

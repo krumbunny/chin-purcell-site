@@ -7,17 +7,15 @@ layout: base.njk
     <time datetime="{{ date | isoDate }}">{{ date | readableDate }}</time>
   </header>
 
-  {% if heroImage %}
-    <img class="post-hero" src="{{ heroImage }}" alt="{{ heroImageAlt or title }}">
-  {% endif %}
-
   <div class="post-body">
     {{ content | safe }}
   </div>
 
   {% if tags %}
     <div class="post-tags">
-      {% for tag in tags %}<a class="tag" href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% endfor %}
+      {% for tag in tags %}
+        <a class="tag" href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
+      {% endfor %}
     </div>
   {% endif %}
 
@@ -25,8 +23,12 @@ layout: base.njk
   {% set nextPost = collections.posts | nextPost(page.url) %}
   {% if prevPost or nextPost %}
     <nav class="post-nav">
-      {% if prevPost %}<a class="post-nav-prev" href="{{ prevPost.url }}">Prev: {{ prevPost.data.title }}</a>{% endif %}
-      {% if nextPost %}<a class="post-nav-next" href="{{ nextPost.url }}">Next: {{ nextPost.data.title }}</a>{% endif %}
+      {% if prevPost %}
+        <a class="post-nav-prev" href="{{ prevPost.url }}">Prev: {{ prevPost.data.title }}</a>
+      {% endif %}
+      {% if nextPost %}
+        <a class="post-nav-next" href="{{ nextPost.url }}">Next: {{ nextPost.data.title }}</a>
+      {% endif %}
     </nav>
   {% endif %}
 </article>

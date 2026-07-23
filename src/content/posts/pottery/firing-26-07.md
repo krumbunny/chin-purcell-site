@@ -1,6 +1,13 @@
 ---
-title: "Kiln Firing July 2026"
+title: Kiln Firing July 2026
 date: 2026-07-20
+category:
+  - pottery
+heroImage: https://images.kenchinpurcell.com/Fire26Jul - 15.jpeg
+heroImageAlt: ''
+tags:
+  - firing
+description: ''
 ---
 
 After a major house renovation the pottery is back together. I'm exploring tans, browns and blues.

@@ -119,6 +119,27 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  // Category names with post counts and page links, for the archive page's
+  // category list. "journal" is a valid category but has no dedicated page,
+  // so it's omitted here.
+  const categoryPages = [
+    { category: "pottery", title: "Pottery", url: "/pottery/" },
+    { category: "travel", title: "Travel", url: "/travel/" },
+    { category: "cooking", title: "Cooking", url: "/cooking/" },
+  ];
+
+  eleventyConfig.addCollection("categoryCloud", (collectionApi) => {
+    const posts = collectionApi.getFilteredByGlob("src/content/posts/**/*.md");
+    return categoryPages.map(({ category, title, url }) => ({
+      title,
+      url,
+      count: posts.filter((post) => {
+        const cats = post.data.category;
+        return Array.isArray(cats) ? cats.includes(category) : cats === category;
+      }).length,
+    }));
+  });
+
   // Unique tags with post counts, weighted 1-5 for cloud font sizing
   function buildTagCloud(collectionApi, { exclude } = {}) {
     const excludeSet = new Set(exclude || []);

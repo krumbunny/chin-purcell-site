@@ -7,8 +7,6 @@ layout: category.njk
 permalink: /travel/
 ---
 
-Notes from the road.
-
 ### [2023 Japan](/tags/japan23)
 
 ### [2025 Japan](/tags/japan25)

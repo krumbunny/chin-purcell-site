@@ -1,0 +1,24 @@
+---
+layout: base.njk
+title: Archive
+permalink: /tags/
+---
+{% from "post-card.njk" import card %}
+
+<section class="wrap tag-cloud-section">
+  <h1>Tags</h1>
+  <div class="tag-cloud category-cloud">
+    {% for cat in collections.categoryCloud %}
+      <a class="tag-cloud-item" href="{{ cat.url }}">{{ cat.title }}
+        <span class="tag-cloud-count">({{ cat.count }})</span></a>
+    {% endfor %}
+  </div>
+  <div class="tag-cloud">
+    {% for tagInfo in collections.tagCloud %}
+      <a class="tag-cloud-item weight-{{ tagInfo.weight }}" href="/tags/{{ tagInfo.tag | slugify }}/">{{ tagInfo.tag }}
+        <span class="tag-cloud-count">({{ tagInfo.count }})</span></a>
+    {% else %}
+      <p>No tags yet.</p>
+    {% endfor %}
+  </div>
+</section>

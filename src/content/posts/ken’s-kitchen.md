@@ -7,8 +7,6 @@ heroImage: https://images.kenchinpurcell.com/IMG_5251.jpeg
 heroImageAlt: Maekake
 tags:
   - cooking
-  - maekake
-  - japan
 description: ''
 ---
 

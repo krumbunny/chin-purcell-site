@@ -17,5 +17,3 @@ A maekake is a traditional Japanese apron, I think mostly worn by men. It wraps 
 The traditional color is indigo blue, and the cloth is cotton canvas.
 
 I really wanted to find out how she was able to print just one custom apron, but I can’t find a source in the US. Hmmm. I suspect it was printed in Japan.
-
-![](https://images.kenchinpurcell.com/IDG_20260906_133153_962.jpeg)

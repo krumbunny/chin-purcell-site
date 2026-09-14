@@ -179,6 +179,18 @@ h1, h2, h3 {
 .post-nav-prev { text-align: left; }
 .post-nav-next { margin-left: auto; text-align: right; }
 
+/* Search (Pagefind) */
+.search-section {
+  margin-bottom: 2rem;
+  --pagefind-ui-primary: var(--color-accent);
+  --pagefind-ui-text: var(--color-text);
+  --pagefind-ui-background: var(--color-bg);
+  --pagefind-ui-border: #ddd;
+  --pagefind-ui-tag: var(--color-muted);
+  --pagefind-ui-font: var(--font-body);
+  --pagefind-ui-border-radius: 4px;
+}
+
 /* Tag cloud */
 .tag-cloud-section { margin-bottom: 3rem; }
 .tag-cloud {

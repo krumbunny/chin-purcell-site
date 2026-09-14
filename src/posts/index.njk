@@ -5,6 +5,18 @@ permalink: /posts/
 ---
 {% from "post-card.njk" import card %}
 
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" defer></script>
+
+<section class="wrap search-section">
+  <div id="search"></div>
+</section>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
+</script>
+
 <section class="wrap tag-cloud-section">
   <h1>Archive</h1>
   <div class="tag-cloud category-cloud">

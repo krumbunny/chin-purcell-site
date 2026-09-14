@@ -9,6 +9,6 @@ tags: []
 description: ''
 ---
 
-Do the dogs enjoy this?
+A couple out for a paddle near Safe Harbor Cabrillo Isle. Do the dogs enjoy this?
 
 ![](https://images.kenchinpurcell.com/Dogs.jpeg)

@@ -19,4 +19,14 @@ For a potter this is irresistible. The way you can tell a potter in a ceramics s
 
 I decided I wanted to see some old pots with dark iron saturate glazes. I found two Song Dynasty (about 1000 years old) pots, a Japanese “oil spot” pot from about 120 years ago, and a more contemporary Bernard Leach pot for comparison. I had one object to go, thought about what Michele might be interested in, and had a brainwave. It turns out they have a 200 year old Shishi gashira (Japanese lion dance costume), in the same tradition as Michele’s Shishi Mai group.
 
-The V&A Storehouse is on the other side of London from Hyde Park,
+The V&A Storehouse is on the east side of London in the Queen Elisabeth Olympic Park, which was the center of the 2012 Olympic Games. The walk Storehouse from Stratford Station goes by the Olympic Stadium (now home to West Ham United). 
+
+![](https://images.kenchinpurcell.com/E26-1-3.jpeg)
+
+![](https://images.kenchinpurcell.com/E26-1-5.jpeg)
+
+The area used to be the “Lower Lea Valley” and was the heart of Londons dirtiest industries before devolving into polluted wasteland. It was a massive cleanup. 
+
+The Storehouse itself is on the edge of the old Olympic Village.
+
+![](https://images.kenchinpurcell.com/E26-1-21.jpeg)

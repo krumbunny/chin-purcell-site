@@ -1,5 +1,5 @@
 ---
-title: E26-1 A Pillow Mystery
+title: E26-1 Pillow Mystery
 date: 2026-09-16
 category:
   - travel

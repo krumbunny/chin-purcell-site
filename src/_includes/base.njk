@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if title %}{{ title }} – {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ description or site.description }}">
+  {% if noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 
   {# Open Graph / Twitter card #}
   <meta property="og:site_name" content="{{ site.title }}">

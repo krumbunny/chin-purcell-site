@@ -1,5 +1,11 @@
 const fs = require("fs");
 
+function isDraft(category) {
+  return Array.isArray(category)
+    ? category.includes("draft")
+    : category === "draft";
+}
+
 // Grabs the first markdown image (`![alt](src "title")`) out of a post's
 // body, so posts without a `heroImage` in frontmatter still get one for
 // the post header, card thumbnails, and og:image.
@@ -22,5 +28,7 @@ module.exports = {
     heroImage: (data) => data.heroImage || firstImage(data.page.inputPath)?.src,
     heroImageAlt: (data) =>
       data.heroImageAlt || firstImage(data.page.inputPath)?.alt,
+    noindex: (data) => data.noindex || isDraft(data.category),
+    draft: (data) => isDraft(data.category),
   },
 };

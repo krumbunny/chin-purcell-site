@@ -87,6 +87,16 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  // A post is a draft if "draft" is among its categories. Draft posts are
+  // excluded from every public-facing collection (home, archive, category
+  // pages, tag pages) and only appear on the unlisted /drafts/ page.
+  function isDraft(post) {
+    const category = post.data.category;
+    return Array.isArray(category)
+      ? category.includes("draft")
+      : category === "draft";
+  }
+
   // Adjacent posts in chronological order (posts collection is sorted newest first)
   eleventyConfig.addFilter("previousPost", (posts, url) => {
     const index = posts.findIndex((post) => post.url === url);
@@ -97,10 +107,19 @@ module.exports = function (eleventyConfig) {
     return index === -1 ? null : posts[index - 1] || null;
   });
 
-  // All posts, newest first
+  // All published posts, newest first
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
       .getFilteredByGlob("src/content/posts/**/*.md")
+      .filter((post) => !isDraft(post))
+      .sort((a, b) => b.date - a.date);
+  });
+
+  // Draft posts, newest first — only shown on the unlisted /drafts/ page
+  eleventyConfig.addCollection("drafts", (collectionApi) => {
+    return collectionApi
+      .getFilteredByGlob("src/content/posts/**/*.md")
+      .filter((post) => isDraft(post))
       .sort((a, b) => b.date - a.date);
   });
 
@@ -110,6 +129,7 @@ module.exports = function (eleventyConfig) {
       return collectionApi
         .getFilteredByGlob("src/content/posts/**/*.md")
         .filter((post) => {
+          if (isDraft(post)) return false;
           const category = post.data.category;
           return Array.isArray(category)
             ? category.includes(cat)
@@ -129,7 +149,9 @@ module.exports = function (eleventyConfig) {
   ];
 
   eleventyConfig.addCollection("categoryCloud", (collectionApi) => {
-    const posts = collectionApi.getFilteredByGlob("src/content/posts/**/*.md");
+    const posts = collectionApi
+      .getFilteredByGlob("src/content/posts/**/*.md")
+      .filter((post) => !isDraft(post));
     return categoryPages.map(({ category, title, url }) => ({
       title,
       url,
@@ -146,6 +168,7 @@ module.exports = function (eleventyConfig) {
     const counts = {};
     collectionApi
       .getFilteredByGlob("src/content/posts/**/*.md")
+      .filter((post) => !isDraft(post))
       .forEach((post) => {
         (post.data.tags || []).forEach((tag) => {
           if (!tag || excludeSet.has(tag)) return;
@@ -184,9 +207,9 @@ module.exports = function (eleventyConfig) {
   // Curated tag pages (see tagCollections.js): each entry's matching posts,
   // pre-sorted by its `sort` comparator (default: date ascending).
   eleventyConfig.addCollection("curatedTagPages", (collectionApi) => {
-    const allPosts = collectionApi.getFilteredByGlob(
-      "src/content/posts/**/*.md",
-    );
+    const allPosts = collectionApi
+      .getFilteredByGlob("src/content/posts/**/*.md")
+      .filter((post) => !isDraft(post));
     return tagCollections.map((entry) => ({
       ...entry,
       posts: allPosts

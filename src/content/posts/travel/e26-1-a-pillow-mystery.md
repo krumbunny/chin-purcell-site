@@ -6,8 +6,9 @@ category:
 heroImage: https://images.kenchinpurcell.com/E26-1-2.jpeg
 heroImageAlt: Waterloo Bridge
 tags:
-  - travel
+  - europe
   - london
+  - europe26
 description: ''
 ---
 

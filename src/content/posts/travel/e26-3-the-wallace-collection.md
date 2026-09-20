@@ -50,4 +50,4 @@ I think this might be my last set English Tea. It’s pretty much all carbs and 
 
 On the way back to the hotel we passed by a [shop](https://www.moley.com/) with a kitchen robot in the window and the signage “New AI Robotic Chef”. We went in to find out more, but nobody was there! It was just us and the robot, biding its time until the robot uprising. 
 
-Who would buy such a thing? It still needs mise en place in those containers on the side, it doesn’t chop or prep. I think we humans still have some a few years.
+Who would buy such a thing? It still needs mise en place in those containers on the side, it doesn’t chop or prep. I think we humans still have a few years left.

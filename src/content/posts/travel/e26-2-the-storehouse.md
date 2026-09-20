@@ -25,7 +25,7 @@ The V&A Storehouse is on the east side of London in the Queen Elisabeth Olympic 
 
 ![](https://images.kenchinpurcell.com/E26-1-5.jpeg)
 
-The area used to be the “Lower Lea Valley” and was the heart of Londons dirtiest industries before devolving into polluted wasteland. It was a massive cleanup. 
+The area used to be the “Lower Lea Valley” and was the heart of London’s dirtiest industries before devolving into polluted wasteland. It was a massive cleanup. 
 
 The Storehouse itself is on the edge of the old Olympic Village.
 

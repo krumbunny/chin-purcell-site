@@ -8,6 +8,8 @@ heroImage: https://images.kenchinpurcell.com/E26-2-11.jpeg
 heroImageAlt: ''
 tags:
   - london
+  - europe
+  - europe26
 description: ''
 ---
 
@@ -23,7 +25,7 @@ When we were walking around the West End we noticed Six was playing, which seeme
 
 ![](https://images.kenchinpurcell.com/E26-1-26.jpeg)
 
-Before Six I could name three of the wives, but now I know all of them. So I guess I learned *something*.
+Before Six I could name three of the wives, but now I know all of them. So I guess I learned _something_.
 
 Walking back to the hotel I thought about the beautiful lighting of old cities at night.
 

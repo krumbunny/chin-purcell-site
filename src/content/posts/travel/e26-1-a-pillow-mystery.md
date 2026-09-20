@@ -23,7 +23,7 @@ You can now bring out a very tiny violin, because I just want to say that that I
 
 As I returned to my seat I surveyed my fellow passengers with a new suspicion. My pillow was nearby, inside this plane… did anyone look like they had extra cushioning 👀? I couldn’t see anything obvious. Someone here 🧐 _was a thief_. I didn’t press it though. I made do with a folded blanket, which honestly was fine.
 
-We took the the Heathrow Express to Paddington, although what we should have done is take the relatively new Elisabeth Line straight to our hotel in Holborn. I have bad memories from a taking the Piccadilly subway from Heathrow decades ago, so I had ”avoid the Underground” in my head. The Elisabeth Line is pretty impressive though. It carries 250 _million_ passengers a year. That’s a public transport triumph.
+We took the the Heathrow Express to Paddington, although what we should have done is take the relatively new Elisabeth Line straight to our hotel in Holborn. I have bad memories from a taking the Piccadilly subway from Heathrow decades ago, so I had ”avoid the Underground” in my head. The Elisabeth Line is pretty impressive though. It carries 250 _million_ passengers a year, around a million people a day. It’s the Yamamote Line of London, and a public transport triumph.
 
 We went for a walk after an early dinner. The air was clear, smelled clean, and London looked pretty good. Here’s the view from Waterloo Bridge.
 

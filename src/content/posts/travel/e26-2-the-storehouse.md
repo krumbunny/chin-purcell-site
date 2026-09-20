@@ -6,8 +6,9 @@ category:
 heroImage: https://images.kenchinpurcell.com/E26-1-22.jpeg
 heroImageAlt: The Victoria and Albert Museum
 tags:
-  - travel
+  - europe
   - london
+  - europe26
 description: ''
 ---
 

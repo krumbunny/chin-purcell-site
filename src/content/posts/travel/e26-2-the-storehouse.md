@@ -18,16 +18,26 @@ Like any big museum the V&A has far more objects than it can exhibit, so when I 
 
 For a potter this is irresistible. The way you can tell a potter in a ceramics shop is that they’re the one picking up the pots, turning them over and running their hands along the sides. 
 
-I decided I wanted to see some old pots with dark iron saturate glazes. I found two Song Dynasty (about 1000 years old) pots, a Japanese “oil spot” pot from about 120 years ago, and a more contemporary Bernard Leach pot for comparison. I had one object to go, thought about what Michele might be interested in, and had a brainwave. It turns out they have a 200 year old Shishi gashira (Japanese lion dance costume), in the same tradition as Michele’s Shishi Mai group.
+I decided I wanted to see some old pots with dark iron saturate glazes. I found two Song Dynasty (about 1000 years old) pots, a Japanese “oil spot” pot from about 120 years ago, and a more contemporary Bernard Leach pot for comparison. That’s four items, I had one more to go. I thought about what Michele might be interested in, and had a brainwave. It turns out they have a 200 year old Shishi gashira (“lion head”, the Japanese lion dance costume), in the same tradition as Michele’s Shishi Mai group’s gashira.
 
-The V&A Storehouse is on the east side of London in the Queen Elisabeth Olympic Park, which was the center of the 2012 Olympic Games. The walk Storehouse from Stratford Station goes by the Olympic Stadium (now home to West Ham United). 
+The V&A Storehouse is on the east side of London in the Queen Elisabeth Olympic Park, which was the center of the 2012 Olympic Games. The walk to the Storehouse from Stratford Station goes by the Olympic Stadium (now home to West Ham United). 
 
 ![](https://images.kenchinpurcell.com/E26-1-3.jpeg)
 
 ![](https://images.kenchinpurcell.com/E26-1-5.jpeg)
 
-The area used to be the “Lower Lea Valley” and was the heart of London’s dirtiest industries before devolving into polluted wasteland. It was a massive cleanup. 
+The area used to be the “Lower Lea Valley” and was the heart of London’s dirtiest industries before devolving into polluted wasteland. It was a massive cleanup to turn it into the pleasant park setting it is today.
 
-The Storehouse itself is on the edge of the old Olympic Village.
+The Storehouse itself is on the edge of what was the Olympic Village.
 
 ![](https://images.kenchinpurcell.com/E26-1-21.jpeg)
+
+The Storehouse is mostly a working facility, but on the south end there is a public entrance that leads directly to a central courtyard, where the public can peer into the stacks and work spaces.
+
+![](https://images.kenchinpurcell.com/E26-1-14.jpeg)
+
+That’s a glass floor in the center there, where you can look down into a work area, where conservators conserve.
+
+![](https://images.kenchinpurcell.com/E26-1-7.jpeg)
+
+There’s also views into the stacks and other work spaces.

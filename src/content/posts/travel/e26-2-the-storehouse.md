@@ -59,11 +59,11 @@ And tantalizingly a view into the room where we would get see our special object
 
 The Storehouse is the home of David Bowie’s collection of outfits and memorabilia. It looks like someone requested a Bowie outfit, platform shoes and some guitars to look at.
 
-Getting to see my old pots up close was great. I didn’t realize that the Leach pot was so big, although I didn’t realize suspect that the old Song pots would be on the small side. As long as we kept the objects over the foam and close to the table they were fine with us handling them.
+Getting to see my old pots up close was great. I didn’t realize that the Leach pot was so big, although I did suspect that the old Song pots would be on the small side. As long as we kept the objects over the foam and close to the table they were fine with us handling them.
 
 ![](https://images.kenchinpurcell.com/E26-1-20.jpeg)
 
-Michele’s Shishi stole the show though. The curators were excited that Michele was a performer of the Shishimai and were asking her questions. Although the surface of this Shishi had more red paint and less gold gilt than San Diego’s, it was striking how similar the carvings are. London Shishi is actually much lighter, although that might be because there is no aori (the fabric drape) or mane attached.
+Michele’s Shishi stole the show. The curators were excited that Michele was a performer of the Shishimai and were asking her questions. Although the surface of this Shishi had more red paint and less gold gilt than San Diego’s, it was striking how similar the carvings are. London Shishi is actually much lighter, although that might be because there is no aori (the fabric drape) or mane attached.
 
 ![](https://images.kenchinpurcell.com/E26-1-15.jpeg)
 

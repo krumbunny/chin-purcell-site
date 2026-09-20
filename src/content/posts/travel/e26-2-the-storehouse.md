@@ -40,4 +40,6 @@ That’s a glass floor in the center there, where you can look down into a work 
 
 ![](https://images.kenchinpurcell.com/E26-1-7.jpeg)
 
-There’s also views into the stacks and other work spaces.
+There’s also views into the stacks and other work spaces. The objects are almost all unlabeled and mostly arranged by size as far, as I could figure out. There might be a mid century modern chair next to a marble bust of a Roman.
+
+![](https://images.kenchinpurcell.com/E26-1-8.jpeg)

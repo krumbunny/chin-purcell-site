@@ -43,3 +43,29 @@ That’s a glass floor in the center there, where you can look down into a work 
 There’s also views into the stacks and other work spaces. The objects are almost all unlabeled and mostly arranged by size as far, as I could figure out. There might be a mid century modern chair next to a marble bust of a Roman.
 
 ![](https://images.kenchinpurcell.com/E26-1-8.jpeg)
+
+There were views down into various storage and work areas.
+
+![](https://images.kenchinpurcell.com/E26-1-10.jpeg)
+
+![](https://images.kenchinpurcell.com/E26-1-13.jpeg)
+
+Including this securely caged collection of swords, probably no blunt tips on these weapons.
+
+![](https://images.kenchinpurcell.com/E26-1-11.jpeg)
+
+And tantalizingly a view into the room where we would get see our special objects.
+
+![](https://images.kenchinpurcell.com/E26-1-12.jpeg)
+
+Getting to see my old pots up close was great. I didn’t realize that the Leach pot was so big, although I didn’t realize suspect that the old Song pots would be on the small side. As long as we kept the objects over the foam and close to the table they were fine with us handling them.
+
+![](https://images.kenchinpurcell.com/E26-1-20.jpeg)
+
+Michele’s Shishi stole the show though. The curators were excited that Michele was a performer of the Shishimai and were asking her questions. Although the surface of this Shishi had more red paint and less gold gilt than San Diego’s, it was striking how similar the carvings are. London Shishi is actually much lighter, although that might be because there is no auri or mane attached.
+
+![](https://images.kenchinpurcell.com/E26-1-15.jpeg)
+
+It was a memorable afternoon.
+
+![](https://images.kenchinpurcell.com/E26-1-21.jpeg)

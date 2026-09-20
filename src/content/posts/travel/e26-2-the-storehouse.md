@@ -3,7 +3,6 @@ title: E26-2 The Storehouse
 date: 2026-09-17
 category:
   - travel
-  - draft
 heroImage: https://images.kenchinpurcell.com/E26-1-22.jpeg
 heroImageAlt: The Victoria and Albert Museum
 tags:

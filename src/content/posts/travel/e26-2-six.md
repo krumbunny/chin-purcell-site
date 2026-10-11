@@ -2,7 +2,6 @@
 title: E26-2 Six
 date: 2026-09-17
 category:
-  - draft
   - travel
 heroImage: https://images.kenchinpurcell.com/E26-2-11.jpeg
 heroImageAlt: ''
@@ -21,7 +20,7 @@ Colonel Saab was good food. Big props for Saab just serving dishes at a set heat
 
 ![](https://images.kenchinpurcell.com/E26-2-11.jpeg)
 
-When we were walking around the West End we noticed Six was playing, which seemed up Michele’s alley. So I found some last minute tickets, which seemed pretty easy to do for all the West End shows mid week. Michele likes to read historical fiction about this era. There was a moment in the show where they rhetorically ask “Do you remember who Henry the 7th’s wife was?” and Michele was about to raise her hand. It was pretty light fare, but it certainly kept two jet lagged Americans awake.
+When we were walking around the West End we noticed Six was playing, which seemed up Michele’s alley. So I found some last minute tickets, which was pretty easy to do for all the West End shows mid week. Michele likes to read historical fiction about English history. There was a moment in the show where the wives are wondering why they are famous at all, and they rhetorically ask “Do you remember who Henry the 7th’s wife was?” Michele was about to raise her hand. It was pretty light fare, but it kept two jet lagged Americans awake with some good singing.
 
 ![](https://images.kenchinpurcell.com/E26-1-26.jpeg)
 

@@ -12,3 +12,5 @@ permalink: /travel/
 ### [2025 Japan](/tags/japan25)
 
 ### [2025 Europe](/tags/europe25)
+
+### [2026 Europe](/tags/europe26)

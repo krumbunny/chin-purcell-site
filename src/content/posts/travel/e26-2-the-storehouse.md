@@ -12,7 +12,7 @@ tags:
 description: ''
 ---
 
-The [V&A](https://www.vam.ac.uk/), Britain’s museum of decorative arts, is one of my favorite places. The main museum is near Hyde park, and the main floor has loads of popular exhibits, like the armor collection. My usual route though is straight upstairs to the quiet 4th floor, down the corridors of furniture and into the studio pottery area. They have a treasure trove of English and Japanese pots, plus fascinating exhibits like a reconstruction of Lucy Rie’s postwar London studio. 
+The [V&A](https://www.vam.ac.uk/), Britain’s museum of decorative arts, is one of my favorite places. The main museum is near Kensington Gardens, and the main floor has loads of popular exhibits, like the armor collection. My usual route though is straight upstairs to the quiet 4th floor, down the corridors of furniture and into the studio pottery area. They have a treasure trove of English and Japanese pots, plus fascinating exhibits like a reconstruction of Lucy Rie’s postwar London studio. 
 
 Like any big museum the V&A has far more objects than it can exhibit, so when I read last year they had built a new storehouse that was open to the public I knew I wanted to go. Even better though, I saw on their website that the Storehouse has a program called [Order an Object](https://www.vam.ac.uk/info/order-an-object), where visitors can request five objects from the online catalog and make an appointment to see and handle them up close. It’s free and available to everyone, no UK citizenship needed.
 

@@ -152,6 +152,21 @@ h1, h2, h3 {
 }
 .post-body img { border-radius: 4px; margin: 1.25rem 0; }
 
+/* YouTube embeds — from the {% youtube %} shortcode, or a pasted iframe */
+.post-body iframe[src*="youtube"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 4px;
+  margin: 1.25rem 0;
+}
+.post-body iframe.video-embed--vertical {
+  max-width: 360px;
+  aspect-ratio: 9 / 16;
+}
+
 .figure-overlay {
   position: relative;
   margin: 1.25rem 0;

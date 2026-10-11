@@ -35,6 +35,19 @@ module.exports = function (eleventyConfig) {
 </figure>`;
   });
 
+  // {% youtube "BZfyEG0sJK4", "Title" %} -> responsive YouTube embed. Takes a
+  // video ID or any YouTube link; Shorts links get a vertical player.
+  eleventyConfig.addShortcode("youtube", (idOrUrl, title) => {
+    const input = String(idOrUrl).trim();
+    const match = input.match(
+      /(?:youtu\.be\/|[?&]v=|\/(?:embed|shorts|live)\/)([\w-]{11})/,
+    );
+    const id = match ? match[1] : input;
+    const vertical = /\/shorts\//.test(input);
+    const label = String(title || "YouTube video").replace(/"/g, "&quot;");
+    return `<iframe class="video-embed${vertical ? " video-embed--vertical" : ""}" src="https://www.youtube-nocookie.com/embed/${id}" title="${label}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+  });
+
   // Markdown images with a title (`![alt](url "Caption")`) render as a
   // figure-overlay instead of a native title tooltip, so authors can add
   // an overlay caption without reaching for the {% figure %} shortcode.

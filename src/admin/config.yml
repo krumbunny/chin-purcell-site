@@ -78,6 +78,18 @@ collections:
     identifier_field: title
     fields: *post_fields
 
+  # Every draft (category includes "draft"), from all the post folders above.
+  # `nested` makes Sveltia look in subfolders too. New posts are still
+  # created in the collections above.
+  - name: "drafts"
+    label: "Drafts"
+    folder: "src/content/posts"
+    create: false
+    nested: { depth: 3, subfolders: false }
+    filter: { field: "category", value: "draft" }
+    identifier_field: title
+    fields: *post_fields
+
   - name: "pages"
     label: "Fixed Pages"
     files:

@@ -3,7 +3,6 @@ title: E26-5 Lund
 date: 2026-10-11
 category:
   - travel
-  - draft
 heroImage: ''
 heroImageAlt: ''
 tags: []

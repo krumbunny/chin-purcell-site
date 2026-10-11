@@ -5,7 +5,10 @@ category:
   - travel
 heroImage: https://images.kenchinpurcell.com/E26-2-12.jpeg
 heroImageAlt: ''
-tags: []
+tags:
+  - europe
+  - london
+  - europe26
 description: ''
 ---
 

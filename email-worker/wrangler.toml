@@ -1,0 +1,22 @@
+name = "email-to-draft"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Cloudflare Images binding — used to convert/resize photos to JPEG
+[images]
+binding = "IMAGES"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "images-kenchinpurcell-com"
+
+[vars]
+ALLOWED_SENDERS = "ken@chin-purcell.org,kencp@fastmail.com"
+GITHUB_REPO = "krumbunny/chin-purcell-site"
+GITHUB_BRANCH = "main"
+PUBLIC_IMAGE_URL = "https://images.kenchinpurcell.com"
+SITE_URL = "https://kenchinpurcell.com"
+# Used to pick the post date from the email's send time
+TIMEZONE = "America/Los_Angeles"
+
+# Secret (not in this file): GITHUB_TOKEN — set with `npx wrangler secret put GITHUB_TOKEN`

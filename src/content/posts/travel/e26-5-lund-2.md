@@ -1,9 +1,9 @@
 ---
-title: E26-5 Lund 2
+title: E26-5 Lund
 date: 2026-10-11
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/e26-5-lund-2-01.jpg
 heroImageAlt: ''
 tags: []
 description: ''

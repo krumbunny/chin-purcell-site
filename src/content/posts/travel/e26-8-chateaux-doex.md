@@ -3,7 +3,6 @@ title: E26-8 Châteaux d’Oex
 date: 2026-10-13
 category:
   - travel
-  - draft
 heroImage: https://images.kenchinpurcell.com/IDG_20260923_111309_340.jpg
 heroImageAlt: ''
 tags: []

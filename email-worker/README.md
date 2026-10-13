@@ -5,7 +5,7 @@ A Cloudflare Email Worker that turns an email into a draft post.
 - **Allowed senders:** `ken@chin-purcell.org`, `kencp@fastmail.com`. The envelope sender and the From: header must both match, and DKIM must pass for that domain. Anything else is bounced.
 - **Subject** becomes the title and slug. Start it with `[travel]` or `[pottery]` to file the post in that folder and add that category.
 - **Body** (plain text, signature after `-- ` removed) becomes the post body.
-- **Photo attachments** are converted to JPEG (quality 70, long side ≤ 2048px), saved to R2 as `<slug>-01.jpg`, `<slug>-02.jpg`, … and added to the end of the post in order. The first one becomes the hero image.
+- **Photo attachments** (JPEG, PNG, GIF, WebP, HEIC) are saved to R2 full size, exactly as sent, as `<slug>-01.jpg`, `<slug>-02.jpg`, … (extension matches the type) and added to the end of the post in order. The site resizes them on request with Cloudflare Image Transformations, the same as photos synced with `sync-r2.sh`. The first one becomes the hero image.
 - The post is committed with `category: [draft]`, so it appears only on `/drafts/`. Publish it in the CMS by removing `draft`.
 - **Reply:** you get a "Draft created" reply in the same thread, with the file path, photo count and commit link. If something fails after your address is verified, the reply contains the error instead.
 

@@ -151,6 +151,7 @@ h1, h2, h3 {
   margin-bottom: 1.5rem;
 }
 .post-body img { border-radius: 4px; margin: 1.25rem 0; }
+.post-body a.glightbox { display: block; cursor: zoom-in; }
 
 /* YouTube embeds — from the {% youtube %} shortcode, or a pasted iframe */
 .post-body iframe[src*="youtube"] {

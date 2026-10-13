@@ -6,7 +6,7 @@ layout: base.njk
   <header class="category-header">
     <h1>{{ title }}</h1>
     {% if heroImage %}
-      <img class="category-hero" src="{{ heroImage }}" alt="{{ heroImageAlt or title }}">
+      <img class="category-hero" src="{{ heroImage | imageUrl(1640) }}" alt="{{ heroImageAlt or title }}">
     {% endif %}
     <div class="category-intro">
       {{ content | safe }}

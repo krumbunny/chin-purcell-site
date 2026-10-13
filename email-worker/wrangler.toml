@@ -2,10 +2,6 @@ name = "email-to-draft"
 main = "src/index.js"
 compatibility_date = "2026-10-01"
 
-# Cloudflare Images binding — used to convert/resize photos to JPEG
-[images]
-binding = "IMAGES"
-
 [[r2_buckets]]
 binding = "BUCKET"
 bucket_name = "images-kenchinpurcell-com"

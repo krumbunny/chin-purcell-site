@@ -1,8 +1,8 @@
 // Email → draft post.
 //
 // Cloudflare Email Routing hands each incoming message to this Worker. If it
-// comes from an allowed sender, photo attachments are converted to JPEG
-// (quality 70, long side ≤ 2048px) and saved to R2, and a markdown post with
+// comes from an allowed sender, photo attachments are saved to R2 full size,
+// as sent (the site resizes them on request), and a markdown post with
 // `category: [draft]` is committed to the site repo. The post then shows up
 // on /drafts/ after the next build.
 //
@@ -14,8 +14,16 @@ import PostalMime from "postal-mime";
 import { EmailMessage } from "cloudflare:email";
 
 const SECTIONS = ["travel", "pottery"];
-const MAX_SIDE = 2048;
-const JPEG_QUALITY = 70;
+
+// File extension for each photo type, used in the R2 key
+const IMAGE_EXTENSIONS = {
+  "image/jpeg": "jpg",
+  "image/png": "png",
+  "image/gif": "gif",
+  "image/webp": "webp",
+  "image/heic": "heic",
+  "image/heif": "heif",
+};
 
 export default {
   async email(message, env, ctx) {
@@ -73,9 +81,11 @@ async function createDraft(email, env) {
   const images = [];
   let n = 1;
   for (const att of email.attachments) {
-    if (!att.mimeType?.startsWith("image/")) continue;
-    const key = await uniqueImageKey(env, `${slug}-${String(n).padStart(2, "0")}`);
-    await saveImage(env, att.content, key);
+    const mimeType = att.mimeType?.toLowerCase();
+    const ext = IMAGE_EXTENSIONS[mimeType];
+    if (!ext) continue;
+    const key = await uniqueImageKey(env, `${slug}-${String(n).padStart(2, "0")}`, ext);
+    await env.BUCKET.put(key, att.content, { httpMetadata: { contentType: mimeType } });
     images.push(`${env.PUBLIC_IMAGE_URL}/${key}`);
     n++;
   }
@@ -200,17 +210,9 @@ function buildPost({ title, date, section, body, images }) {
   return lines.join("\n");
 }
 
-async function saveImage(env, bytes, key) {
-  const result = await env.IMAGES.input(new Blob([bytes]).stream())
-    .transform({ width: MAX_SIDE, height: MAX_SIDE, fit: "scale-down" })
-    .output({ format: "image/jpeg", quality: JPEG_QUALITY });
-  const jpeg = await result.response().arrayBuffer();
-  await env.BUCKET.put(key, jpeg, { httpMetadata: { contentType: "image/jpeg" } });
-}
-
-async function uniqueImageKey(env, base) {
-  let key = `${base}.jpg`;
-  for (let i = 2; await env.BUCKET.head(key); i++) key = `${base}-${i}.jpg`;
+async function uniqueImageKey(env, base, ext) {
+  let key = `${base}.${ext}`;
+  for (let i = 2; await env.BUCKET.head(key); i++) key = `${base}-${i}.${ext}`;
   return key;
 }
 

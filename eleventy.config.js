@@ -1,11 +1,54 @@
 const { DateTime } = require("luxon");
 const tagCollections = require("./src/_data/tagCollections.js");
 
+// Photos in R2 are full-size originals. Cloudflare Image Transformations
+// resizes them on request (and caches the result): pages get a web-sized
+// copy, the lightbox a larger one. Images hosted elsewhere pass through as-is.
+const IMAGE_HOST = "https://images.kenchinpurcell.com";
+const PAGE_QUALITY = 75;
+const LIGHTBOX_WIDTH = 2400;
+const LIGHTBOX_QUALITY = 85;
+
+function imageUrl(src, width, quality = PAGE_QUALITY) {
+  if (!src || !src.startsWith(`${IMAGE_HOST}/`)) return src;
+  const options = `width=${width},quality=${quality},format=auto,fit=scale-down`;
+  return `${IMAGE_HOST}/cdn-cgi/image/${options}/${src.slice(IMAGE_HOST.length + 1)}`;
+}
+
+function escapeAttr(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+// A post photo: a page-sized image (1x and 2x for the 820px content column)
+// linking to a 2400px version that GLightbox opens. Optional caption is
+// overlaid on the image and shown in the lightbox.
+function photo(src, alt, caption) {
+  const srcset = [820, 1640]
+    .map((w) => `${escapeAttr(imageUrl(src, w))} ${w}w`)
+    .join(", ");
+  const img = `<img src="${escapeAttr(imageUrl(src, 820))}" srcset="${srcset}" sizes="(max-width: 860px) calc(100vw - 2.5rem), 820px" alt="${escapeAttr(alt)}" loading="lazy">`;
+  const description = caption ? ` data-description="${escapeAttr(caption)}"` : "";
+  const link = `<a class="glightbox" href="${escapeAttr(imageUrl(src, LIGHTBOX_WIDTH, LIGHTBOX_QUALITY))}" data-gallery="post"${description}>${img}</a>`;
+  if (!caption) return link;
+  return `<figure class="figure-overlay">
+  ${link}
+  <figcaption>${escapeAttr(caption)}</figcaption>
+</figure>`;
+}
+
 module.exports = function (eleventyConfig) {
   // Static passthroughs
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.addPassthroughCopy({ "node_modules/glightbox/dist": "vendor/glightbox" });
+
+  // {{ heroImage | imageUrl(600) }} -> resized copy of an R2 photo
+  eleventyConfig.addFilter("imageUrl", (src, width) => imageUrl(src, width));
 
   // Human-friendly date filter, e.g. "April 25, 2025"
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -28,12 +71,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
   // {% figure src, caption %} -> image with caption overlaid in white text at the bottom
-  eleventyConfig.addShortcode("figure", (src, caption, alt) => {
-    return `<figure class="figure-overlay">
-  <img src="${src}" alt="${alt || caption || ""}">
-  <figcaption>${caption}</figcaption>
-</figure>`;
-  });
+  eleventyConfig.addShortcode("figure", (src, caption, alt) =>
+    photo(src, alt || caption || "", caption),
+  );
 
   // {% youtube "BZfyEG0sJK4", "Title" %} -> responsive YouTube embed. Takes a
   // video ID or any YouTube link; Shorts links get a vertical player.
@@ -48,30 +88,15 @@ module.exports = function (eleventyConfig) {
     return `<iframe class="video-embed${vertical ? " video-embed--vertical" : ""}" src="https://www.youtube-nocookie.com/embed/${id}" title="${label}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   });
 
-  // Markdown images with a title (`![alt](url "Caption")`) render as a
-  // figure-overlay instead of a native title tooltip, so authors can add
-  // an overlay caption without reaching for the {% figure %} shortcode.
+  // Markdown images render as lightbox photos (see photo() above). A title
+  // (`![alt](url "Caption")`) becomes a figure-overlay caption instead of a
+  // native title tooltip, so authors can add an overlay caption without
+  // reaching for the {% figure %} shortcode.
   eleventyConfig.amendLibrary("md", (mdLib) => {
-    const defaultRender =
-      mdLib.renderer.rules.image ||
-      function (tokens, idx, options, env, self) {
-        return self.renderToken(tokens, idx, options);
-      };
-
-    mdLib.renderer.rules.image = (tokens, idx, options, env, self) => {
+    mdLib.renderer.rules.image = (tokens, idx) => {
       const token = tokens[idx];
-      const titleIndex = token.attrIndex("title");
-      const title = titleIndex >= 0 ? token.attrs[titleIndex][1] : "";
-      if (!title) {
-        return defaultRender(tokens, idx, options, env, self);
-      }
-
-      const src = token.attrGet("src");
-      const alt = mdLib.utils.escapeHtml(token.content || title);
-      return `<figure class="figure-overlay">
-  <img src="${src}" alt="${alt}">
-  <figcaption>${mdLib.utils.escapeHtml(title)}</figcaption>
-</figure>`;
+      const title = token.attrGet("title") || "";
+      return photo(token.attrGet("src"), token.content || title, title);
     };
 
     // A titled image is normally the sole inline child of its own paragraph;

@@ -1,6 +1,6 @@
 ---
 title: E26-8 Châteaux d’Oex
-date: 2026-10-13
+date: 2026-09-23
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20260923_111309_340.jpg

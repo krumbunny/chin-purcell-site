@@ -26,9 +26,11 @@ The most obvious landmark isn’t the dumpling shop, it’s the central cathedra
 
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-02.jpg)
 
-{% youtube ChNg73MxMAM %}
-
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-03.jpg)
+
+If you arrive at the right time you can see the procession of wise men paying homage to baby Jesus.
+
+{% youtube ChNg73MxMAM %}
 
 There was a children’s choir practicing on the Saturday afternoon we arrived, and the was an adult singing group with an accompanying accordion on the outside plaza. Swedes like to sing! We headed for “Fisk and Kök” for a delicious bowl of fish soup. On the way were more Swedes dancing around.
 
@@ -39,6 +41,7 @@ Lund isn’t large but being an old university town has endowed it with many int
 ￼![](https://images.kenchinpurcell.com/e26-5-lund-2-04.jpg)
 
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-05.jpg)
+
 ￼
 The main library had an exhibit displaying a copy of Copernicus’s De revolutionibus orbium coelestium that was discovered in the library’s holdings. Copernicus’s book was bound together with another old book, and the only card catalog entry was hand written. A recent scanning and transcribing of the card catalog, including the old hand written cards, using AI turned up the copy.
 

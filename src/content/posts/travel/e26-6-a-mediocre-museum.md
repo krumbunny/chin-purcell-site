@@ -19,7 +19,7 @@ In the morning we visited Lund’s oldest store with Evalena, then collected our
 I’m a sucker for museums and am usually easy to please. The National Museum had good stuff but was confusingly laid out. It’s not at all clear how to access many of the exhibits. The entrance area was a three-floor atrium lined with mostly blank doors.
 ￼![](https://images.kenchinpurcell.com/e26-6-a-mediocre-museum-02.jpg)
 
-Most doors were closed. I went back to the ticket counter and they advised to go up a floor, pick a door, turn the handle and push hard. Which is not something that I would do at your average museum, or anywhere not my house, but it worked! I would like to reiterate that these doors are unlabeled, with very stiff door closers. Maybe the Danes just know what to do.
+Most doors were closed. I went back to the ticket counter and they advised to go up a floor, pick a door, turn the handle and _push hard_. Which is not something that I would do at your average museum, or anywhere not my house, but it worked! I would like to reiterate that these doors are unlabeled, with very stiff door closers. Maybe the Danes are taught what to do.
 
 I learned that there’s a lot of gold and silver out there in the Danish bogs.
 

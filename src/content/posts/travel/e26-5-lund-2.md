@@ -5,7 +5,10 @@ category:
   - travel
 heroImage: https://images.kenchinpurcell.com/e26-5-lund-2-01.jpg
 heroImageAlt: ''
-tags: []
+tags:
+  - europe
+  - lund
+  - europe26
 description: ''
 ---
 

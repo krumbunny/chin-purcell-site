@@ -17,11 +17,9 @@ About an even 1000 years ago, in 1020, King Sweyn Forkbeard of Denmark looked ar
 We were in Lund to visit our niece Evalena, but first we had a morning to walk around on our own.
 
 Lund is a compact town with a slightly confusing center. Sometimes a landmark jumps out in these old tangle town situations, it might be a particular building or shop. In Lund’s case it kept being this particular Chinese dumpling shop, which I recognized from the last time we were in Lund. It’s in a basement space with essentially no room to eat downstairs. There’s a counter to order dumplings and a couple of spots with high shelves to stand and eat your dumplings. There’s also a bunch of outdoor tables and chairs, usually tied up with security cables. This dumpling shop was a half block away from our hotel, and it seemed like no mater which direction we set off or returned from I would recognize the basement doors leading to the dumpling cave and my brain would say “aha! We are home!”
-
 ￼![](https://images.kenchinpurcell.com/e26-5-lund-2-01.jpg)
 
 The most obvious landmark isn’t the dumpling shop, it’s the central cathedral. Probably the most memorable thing abound Lund cathedral is their awesome astrological clock, which I think I wrote about last time but I’m going to post a video again. Time of day, day of the year, moon phase, sunrise and sunset, moonrise and moon set. Probably more.
-
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-02.jpg)
 
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-03.jpg)
@@ -35,7 +33,6 @@ There was a children’s choir practicing on the Saturday afternoon we arrived, 
 {% youtube "[https://youtu.be/BZfyEG0sJK4](https://youtu.be/BZfyEG0sJK4)" %}
 
 Lund isn’t large but being an old university town has endowed it with many interesting buildings, museums, gardens, sculpture and so on.
-
 ￼![](https://images.kenchinpurcell.com/e26-5-lund-2-04.jpg)
 
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-05.jpg)

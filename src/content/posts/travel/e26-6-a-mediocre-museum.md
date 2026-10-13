@@ -3,7 +3,6 @@ title: E26-6 A Mediocre Museum
 date: 2026-10-13
 category:
   - travel
-  - draft
 heroImage: https://images.kenchinpurcell.com/e26-6-a-mediocre-museum-02.jpg
 heroImageAlt: ''
 tags:

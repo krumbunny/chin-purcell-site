@@ -3,7 +3,6 @@ title: E26-5 Shoes
 date: 2026-10-12
 category:
   - travel
-  - draft
 heroImage: https://images.kenchinpurcell.com/e26-5-shoes-2-01.jpg
 heroImageAlt: ''
 tags:

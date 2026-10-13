@@ -152,6 +152,10 @@ h1, h2, h3 {
 }
 .post-body img { border-radius: 4px; margin: 1.25rem 0; }
 .post-body a.glightbox { display: block; cursor: zoom-in; }
+/* Fill the column even when the original is smaller than the srcset width
+   the browser picked (Cloudflare won't upscale it, so the browser would
+   otherwise show it at a fraction of its size). */
+.post-body a.glightbox img { width: 100%; }
 
 /* YouTube embeds — from the {% youtube %} shortcode, or a pasted iframe */
 .post-body iframe[src*="youtube"] {

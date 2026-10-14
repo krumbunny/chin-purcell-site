@@ -1,5 +1,5 @@
 ---
-title: E26-2 Six
+title: E26-2.1 Six
 date: 2026-09-17
 category:
   - travel

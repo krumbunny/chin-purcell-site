@@ -12,15 +12,15 @@ tags:
 description: ''
 ---
 
-In the morning we visited Lund’s oldest store with Evalena, then collected our bags and headed out. We had the afternoon to spend in Copenhagen, because our plane to Geneva wasn’t until the evening. It was a Monday, so many things were closed, but we decided to try the Nationalmuseet, since it was close to the train station and, well, was open.
+In the morning we visited Lund’s oldest store with Evalena, then collected our bags and headed out. We had the afternoon to spend in Copenhagen, because our plane to Geneva wasn’t until the evening. It was a Monday, so many things were closed, but we decided to try the Nationalmuseet, since it was close to the train station and, well, it was open.
 ![](https://images.kenchinpurcell.com/e26-6-a-mediocre-museum-01.jpg)
 
 I’m a sucker for museums and am usually easy to please. The National Museum had good stuff but was confusingly laid out. It’s not at all clear how to access many of the exhibits. The entrance area was a three-floor atrium lined with mostly blank doors.
 ￼![](https://images.kenchinpurcell.com/e26-6-a-mediocre-museum-02.jpg)
 
-Most doors were closed. I went back to the ticket counter and they advised to go up a floor, pick a door, turn the handle and _push hard_. Which is not something that I would do at your average museum, or anywhere not my house, but it worked! I would like to reiterate that these doors are unlabeled, with very stiff door closers. Maybe the Danes are taught what to do.
+Almost all the doors were closed. I tried the handle on a few but they didn't swing open. I went back to the ticket counter and they advised me to go up a floor, pick a door, turn the handle and _push hard_. Which is not something that I would do at your average museum, or really anywhere not my house, but it worked! I would like to reiterate that these doors are unlabeled, with very stiff door closers. Maybe the Danes are taught what to do at an early age. Maybe they like the clean lines, no signage to clutter things up.
 
-I learned that there’s a lot of gold and silver out there in the Danish bogs.
+I learned that there’s a lot of old gold and silver out there in the Danish bogs.
 
 That evening we were herded onto our EasyJet flight to Geneva. Moo.
 ![](https://images.kenchinpurcell.com/e26-6-a-mediocre-museum-03.jpg)

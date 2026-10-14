@@ -1,5 +1,5 @@
 ---
-title: E26-2 The Storehouse
+title: E26-2a The Storehouse
 date: 2026-09-17
 category:
   - travel

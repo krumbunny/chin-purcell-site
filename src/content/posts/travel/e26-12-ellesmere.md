@@ -3,7 +3,7 @@ title: E26-12 Ellesmere
 date: 2026-09-27
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/IMG_5541.jpeg
 heroImageAlt: ''
 tags:
   - europe

@@ -35,14 +35,32 @@ But now here we were on the corner of Teddy Bear and Spar in Chirk and no taxi w
 
 So I tried the next entry on the list and our luck turned. The dispatcher and I seemed to understand each other, and she said that normally they don't have taxis near Chirk but one of theirs had just dropped off a fare near us, and hold on a few minutes. And sure enough, a helpful and cheerful driver drove up a few minutes later. On the way to the marina he gave us some great advice on booking the return trip from the marina, _use the app_. Music to my ears.
 
-There are marinas every ten or twenty miles along the canal, with a particular operator using a given marina as a base. Chirk marina was Black Prince's base for the Llangollen Canal, and when we arrived there were a raft of maybe a dozen boats lined up at the dock, a couple with their motors running. The front office told us to walk across the raft with our bags until we got to Celeste, motor running. We unpacked and checked out the boat, and then Kevin met us and gave a thorough tour. There was the diesel engine below the rear deck, the grease gun for the propeller shaft, the battery charger, the water tank, the fuel tank, the propane tank, the toilet, the stove, etc. And most importantly his phone number to call in a week when we returned, or before if we had any problems.
+There are marinas every ten or twenty miles along the canal, with a particular operator using a given marina as a base. Chirk marina was Black Prince's base for the Llangollen Canal, and when we arrived there was a raft of maybe a dozen boats lined up at the dock. The front office told us to walk across the raft with our bags until we got to Celeste, motor running. We unpacked and checked out the boat, and then Kevin met us and gave a thorough tour. There was the diesel engine below the rear deck, the grease gun for the propeller shaft, the battery charger, the water tank, the fuel tank, the propane tank, the toilet, the stove, etc. And most importantly his phone number to call in a week when we returned, or before if we had any problems.
 
-That all was as expected. Kevin asked me about my boating experience, and I let him know that I was comfortable with a sailboat but didn't have much experience with a 52 foot long six foot wide pencil shaped craft. I assumed there would now be a little lesson on driving this thing. 
+That all was as about expected. Kevin asked me about my boating experience, and I let him know that I was comfortable with a sailboat but didn't have much experience with a 52 foot long six foot wide pencil shaped narrowboat. I assumed there would now be a little lesson on driving this thing. 
 
 Kevin got us out of the marina, handed me the tiller and told me to aim for a spot on the canal bank. I thought "ok, we're going to learn mooring", but when we got to the bank he hopped off, cheerfully waved to us and wished us a great week. And so in a bit of a state of shock the two of us were off!
 
 ![](https://images.kenchinpurcell.com/IMG_3951.jpeg)
 
-Michele thought the canal starts out narrow, actually a nice wide section. Right into a one way tunnel, then the aqueduct. Pubs, highway. Found a quiet place to park, dinner on board.
+Kevin advised us first timers to head east, towards England, and then tackle the narrow bits on the Llangollen end later in the week, when we had a better feel for the boat. Here's a quick tour of our yurt-in-a-tube. It's very similar to RV living, most things run on twelve volt DC.
 
-Pretty much a yurt in a tube. Twelve-volt lifestyle. Diesel heater, hot water from the engine. Microwave and toaster when the engine is running, but didn’t need those. Stove on propane. Everything else twelve volt, pumps, toilet, lighting.
+{% youtube "[https://youtube.com/shorts/Jcw4Gn16gIs](https://youtube.com/shorts/Jcw4Gn16gIs?feature=share)" %}
+
+Right away Chirk tunnel came up, and we had our first confusion over who was doing what. There's only width for one boat in the tunnel, and a boat emerging told us that the boat we see way at the end is just moored there.
+
+{% youtube "[https://youtube.com/shorts/Ht0QQQBYNWA](https://youtube.com/shorts/Ht0QQQBYNWA?feature=share)" %}
+
+Nope, it was in fact a boat coming the other way. We had gone more than half way through, so they backed up.
+
+Right after the tunnel is Chirk aqueduct, which is the border between England and Wales.
+
+{% youtube "[https://youtube.com/shorts/UpAvheswXwQ](https://youtube.com/shorts/UpAvheswXwQ?feature=share)" %}
+
+When the neighboring train bridge was built next to the aqueduct there was a lot of worry that it would detract from the beauty of the aqueduct, but in fact they look great together.
+
+![](https://images.kenchinpurcell.com/IDG_20260926_170738_385.jpg)
+
+Once in England we started looking for a place to park for the night. First we went by a pub that seemed a little noisy, then under a highway, and finally a quiet spot. We tied up and heated up that pork pie for dinner.
+
+![](https://images.kenchinpurcell.com/IMG_5525.jpeg)

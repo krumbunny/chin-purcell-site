@@ -9,6 +9,7 @@ tags:
   - europe
   - wales
   - europe26
+  - narrowboat
 description: ''
 ---
 

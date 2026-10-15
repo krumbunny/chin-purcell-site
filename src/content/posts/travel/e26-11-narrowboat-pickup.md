@@ -3,7 +3,6 @@ title: E26-11 Narrowboat Pickup
 date: 2026-09-26
 category:
   - travel
-  - draft
 heroImage: https://images.kenchinpurcell.com/IMG_3948.jpeg
 heroImageAlt: ''
 tags:

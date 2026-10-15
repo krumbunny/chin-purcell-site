@@ -5,7 +5,9 @@ category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20260928_115009_905.jpg
 heroImageAlt: ''
-tags: []
+tags:
+  - europe
+  - europe26
 description: ''
 ---
 

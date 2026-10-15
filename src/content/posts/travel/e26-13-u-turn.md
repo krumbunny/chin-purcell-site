@@ -11,11 +11,11 @@ tags:
 description: ''
 ---
 
-From perusing our our trusty Pearson's Canal Companion it looked like more peaceful Shropshire countryside further east from Ellesmere, with the next major town, Whitchurch, at least a day away. Last winter a canal embankment gave way just east of Whitchurch, so that's as far as we can go. Normally the Llangollen Canal is connected to the Shropshire Union Canal and on to the rest of the UK, but for maybe another six months or so the boats on the Llangollen Canal are trapped in Wales and Shropshire.
+From perusing our our trusty _Pearson's Canal Companion_ it looked like more peaceful Shropshire countryside was in store east from Ellesmere, with the next major town, Whitchurch, at least a day away. Last winter a canal embankment gave way just east of Whitchurch, so that's as far as we can go. Normally the Llangollen Canal is connected to the Shropshire Union Canal and on to the rest of the UK, but for maybe another six months or so the boats on the Llangollen Canal are trapped in Wales and Shropshire.
 
-West of Chirk was the mighty Pontcysyllte aqueduct and Llangollen. I decided to change plans, head west, and spend an extra day moored at the city marina in Llangollen.
+Behind us, west of Chirk was the mighty Pontcysyllte aqueduct and Llangollen. We decided to change plans, head west, and spend an extra day moored at the city marina in Llangollen.
 
-First though I had to turn Celeste around. At the end of the canal arm into Ellesmere was a "winding hole", "wind" pronounced with a short i, like the breeze, not what you do to a clock spring. Supposedly in the horse drawn days you would use the wind to help you turn the boat. So here was my first winding hole, fairly spacious as they go.
+First though I had to turn Celeste around. At the end of the canal arm into Ellesmere was a "winding hole", "wind" pronounced with a short i, like a breeze, not what you do to a clock spring. Supposedly in the horse drawn days you would use the wind to help you turn the boat. So here was my first winding hole, fairly spacious as they go.
 
 ![](https://images.kenchinpurcell.com/IDG_20260928_090319_821.jpg)
 
@@ -35,7 +35,7 @@ And then squeezing through.
 
 ![](https://images.kenchinpurcell.com/IDG_20260928_115009_905.jpg)
 
-We tied up on the right side here, just past the turn, because this was where the Narrowboat Inn was, and we had had a nice lunch. The Swedes stopped also. Alas the kitchen was closed, so we moved on. The bar was open though, so the Swedes stopped for a pint.
+We tied up on the right side here, just past the turn, because this was where the Narrowboat Inn was, and we had had a nice lunch the day before. The Swedes also stopped. Alas the kitchen was closed, so we moved on. The bar was open though, and the Swedes stopped for a pint.
 
 We all met up again at New Marton locks. Here is Michele working the gates and doors.
 
@@ -45,6 +45,6 @@ We tied up for the evening just before the Chirk aqueduct.
 
 ![](https://images.kenchinpurcell.com/IDG_20260928_161812_063.jpg)
 
-The canal here is up on the hillside as it approached the aqueduct. Our plan was to walk down to the Bridge Inn for dinner, which has a nice view of the aqueduct and railroad bridge from below. Alas the kitchen at the Bridge Inn was also closed! Mondays are tough.
+The canal here is up on the hillside as it approached the aqueduct. Our plan was to walk down to the Bridge Inn for dinner, which has a nice view of the aqueduct and railroad bridge from below. Alas the kitchen at the Bridge Inn was also closed! Mondays are tough. But no worries, we had provisions on board.
 
 Maybe it doesn't sound that strange but to me it felt very strange to walk _downhill_ from your boat to the pub, and _uphill_ to get back to your boat.

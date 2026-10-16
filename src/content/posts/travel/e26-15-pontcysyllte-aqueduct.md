@@ -16,7 +16,7 @@ I shouldn't have worried about our spot, everything was perfectly chill overnigh
 
 We walked our boat forward 50 yards, tied off and filled our water tank. Then we joined a flotilla of three boats and it was off over River Dee on the Pontcysyllte aqueduct!
 
-{% youtube "[https://youtube.com/shorts/ylOsFcPwdQE](https://youtube.com/shorts/ylOsFcPwdQE?feature=share)" }
+{% youtube "https://youtube.com/shorts/ylOsFcPwdQE" %}
 
 ![](https://images.kenchinpurcell.com/IMG_3978.jpeg)
 
@@ -52,7 +52,7 @@ We walked upstream to the source of the canal, the Horseshoe Falls. This is anot
 
 I mean, _panache_, am I right?
 
-{% youtube "[https://youtu.be/GaFY7x47kFs](https://youtu.be/GaFY7x47kFs)" %}
+{% youtube "https://youtu.be/GaFY7x47kFs" %}
 
 Afterwards we walked _down_ into town and across River Dee, where we found some meat and veg pies for dinner.
 

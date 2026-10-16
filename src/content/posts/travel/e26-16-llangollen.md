@@ -12,7 +12,7 @@ tags:
 description: ''
 ---
 
-We decided to take a day off the water and stay on land. Our first adventure was the historic Llangollen Railway. The train running this Friday was a 1950's era motor coach, but in the summer on the weekends they pull out the steam engine.
+We decided to take a day off the water and stay on land. Our first adventure was the historic Llangollen Railway. The train running this Friday was a 1950's era motor coach, but in the summer on the weekends they bring out the steam engine.
 
 ![](https://images.kenchinpurcell.com/IDG_20261001_093910_578.jpg)
 
@@ -42,4 +42,4 @@ That evening we went to dinner at the Corn Mill, a really nice and friendly rest
 
 ![](https://images.kenchinpurcell.com/IMG_4014.jpeg)
 
-Up walks Peter and Margaret, who were seated next to us. We had a friendly chat, they were starting to sell me on the narrowboat life, at least as an alternative to something like a motorhome.
+Up walks Peter and Margaret, who were seated next to us. We had a friendly chat. They were starting to sell me on the narrowboat life, at least as an alternative to something like a motorhome.

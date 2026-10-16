@@ -32,7 +32,7 @@ Here at the Welsh border the geography changes from the rolling farmland of Engl
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_111649_976.jpg)
 
-Since [Chirk Castle](https://en.wikipedia.org/wiki/Chirk_Castle) has been occupied for over 600 years there are new bits and old bits. There's a nice old carriage house next to a much more recent squash court, built for a young Myddelton when they showed an interest in the game.
+Since [Chirk Castle](https://en.wikipedia.org/wiki/Chirk_Castle) has been occupied for over 600 years there are new parts and old parts. Here is a nice old carriage house, and next to it is a much more recent squash court, built for a young Myddelton when they showed an interest in the game.
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_112915_797.jpg)
 
@@ -42,11 +42,11 @@ Once inside there are volunteer docents to expound on all the history. One of th
 
 Michele thought "Hold on bucko, that's no shamrock, that's a kamon!". She politely suggested that it might be a Japanese family crest. Once we had phone service she looked it up and confirmed that it is was indeed the kamon of the Sakai clan, retainers of the Tokugawa shoguns. She mailed that off to the Chirk Castle curators, and they thanked her and said they will update their information. So that was our contribution to the National Trust!
 
-Meandering through this area and crossing the canal and several points is Offa’s Dyke, which King Offa build back in the 8th century as part of a very long history of trying to keep the Welsh in Wales (and visa versa I suppose). Stretches of the dyke are still visible, including this bit near that Michele is pointing to.
+Meandering through this area and crossing the canal at several points is Offa’s Dyke, which King Offa build back in the 8th century as part of the very long history of trying to keep the Welsh in Wales (and visa versa I suppose). Stretches of the dyke are still visible, including this bit that Michele is pointing to.
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_132614_145.jpg)
 
-After the castle it was back on the boat and on to Froncysyllte, a small village just before the canal crosses the River Dee on the Pontcysyllte aqueduct. Another boater said there were plenty of places to tie up "after the [lift bridge](https://maps.app.goo.gl/StPRmaPBvfR8G5rdA)", which was true but they were either long term moorings or the place where you get fresh water. I had pulled over in a long term spot and was in a dilemma. I wanted to stay on this side of the aqueduct in Froncysyllte but I couldn’t turn around, I was past the winding hole. I asked a passing boatman if my spot was OK, and he said "normally no, but that fellow is in dry dock". So we tied up and put a sign on the boat to call me if there were any problems. I was nervous about it though until nightfall, I hate breaking the rules.
+After the castle it was back on the boat and on to Froncysyllte, a small village just before the canal crosses the River Dee on the Pontcysyllte aqueduct. Another boater said there were plenty of places to tie up "after the [lift bridge](https://maps.app.goo.gl/StPRmaPBvfR8G5rdA)", which was true but they were either long term moorings or the place where you get fresh water. I had pulled over in a long term spot and was in a dilemma. I wanted to stay on this side of the aqueduct in Froncysyllte but I couldn’t turn around, I was past the winding hole. I asked a passing boatman if my spot was OK, and he said "normally no, but that fellow is in dry dock". So we tied up and put a sign on the boat to call me if there were any problems. I was nervous about it though, at least until nightfall. I hate breaking the rules.
 
 We walked up to [Dorothy Hartley](https://en.wikipedia.org/wiki/Dorothy_Hartley)’s grave. Hartley was the author of _Food in England_, a favorite book of Michele's, and lived in Froncysyllte overlooking the lift bridge on the canal. 
 
@@ -58,6 +58,6 @@ Afterwards we had a pub meal at the Aqueduct Inn, which had a nice view. Here yo
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_164924_156.jpg)
 
-We took an after-dinner stroll over to the aqueduct. It was built by Thomas Telford in 1805. Telford was a Scottish engineer who built a lot of infrastructure in the UK, some with bit of panache. Unlike the stone Chirk aqueduct the Pontcysyllte has relatively slender cast iron arches atop tall stone piers. It didn't seem to be leaking - good.
+After dinner we walked over to the aqueduct. It was built by Thomas Telford in 1805. Telford was a Scottish engineer who built a lot of infrastructure in the UK, much with bit of style. Unlike the stone Chirk aqueduct the Pontcysyllte has relatively slender cast iron arches atop tall stone piers. It didn't seem to be leaking - good.
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_181603_517.jpg)

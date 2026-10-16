@@ -12,7 +12,7 @@ tags:
 description: ''
 ---
 
-I shouldn't have worried about our spot, everything was perfectly chill overnight. The canal police did not come by to kick us out. I'm pretty sure there are no canal police, a lot of canal life depends on good will, cooperation and a little flexibility.
+I shouldn't have worried about our spot, everything was perfectly chill overnight. The canal police did not come by to kick us out. I'm pretty sure there are no canal police, I think a lot of canal life depends on good will, cooperation and a little flexibility.
 
 We walked our boat forward 50 yards, tied off and filled our water tank. Then we joined a flotilla of three boats and it was off over River Dee on the Pontcysyllte aqueduct!
 
@@ -24,7 +24,7 @@ Kevin (back at Chirk base) advised me to stand on the towpath side of the cockpi
 
 ![](https://images.kenchinpurcell.com/IMG_3979.jpeg)
 
-At the end of the aqueduct is Trevor Basin, which is a small marina and a place to turn your boat a very quick 90 degrees, because the canal heads directly off to the left, under a bridge and then hugging the hillside. It is a busy spot, with rafts of boats in the marina, tourists, boats waiting to cross the other way, and traveling like us trying to make the turn. I thought I had it but there were a couple of bumps getting through the bridge. No photos of Trevor Basin, we were both too frantic.
+At the end of the aqueduct is Trevor Basin, which is a small marina and a place to turn your boat a very quick 90 degrees, because the canal heads directly off to the left, under a bridge and then hugging the hillside. It is a busy spot, with rafts of boats in the marina, tourists, boats waiting to cross the other way, and travelers like us trying to make the turn. I thought I had it but there were a couple of loud bumps getting through the bridge. No photos of Trevor Basin, we were both too frantic. It's like old game Operation, you try to be careful and then "bzzzzt!"
 
 After Trevor Basin were several miles of some of the most beautiful scenery I’ve been along, as we made our way towards Llangollen.
 
@@ -42,11 +42,11 @@ Near Llangollen is a half kilometer section of the canal that was hewn from the 
 
 ![](https://images.kenchinpurcell.com/IDG_20260930_111928_854.jpg "Margaret and I navigate the last stretch")
 
-We moored in the basin outside Llangollen, which is the end of the navigable canal. Here we met a a couple from Lubbock Texas who were piloting "Champagne Charlie". They were wondering if we wanted to caravan with them the next day on the return. It was tempting to have "Don't Mess with Texas" in the lead going back through the narrows, but our plan was to stay an extra day in Llangollen. (I joke, they seemed like really nice people.)
+We moored in the basin outside Llangollen, which is the end of the navigable canal. Here we met a couple from Lubbock Texas who were piloting "Champagne Charlie". They were wondering if we wanted to caravan with them the next day on the return. It was tempting to have "Don't Mess with Texas" in the lead going back through the narrows, but our plan was to stay an extra day in Llangollen. (I joke, they seemed like really nice people.)
 
 ![](https://images.kenchinpurcell.com/IDG_20261001_084131_335.jpg)
 
-We walked upstream to the source of the canal, the Horseshoe Falls. This is another Thomas Telford marvel.
+We walked upstream to the source of the canal, Horseshoe Falls. This is another Thomas Telford marvel.
 
 ![](https://images.kenchinpurcell.com/IDG_20260930_151451_499.jpg)
 
@@ -54,6 +54,6 @@ I mean, _panache_, am I right?
 
 {% youtube "https://youtu.be/GaFY7x47kFs" %}
 
-Afterwards we walked _down_ into town and across River Dee, where we found some meat and veg pies for dinner.
+Afterwards we walked _down_ into town and across River Dee, where we found some meat and veggie pies for dinner.
 
 ![](https://images.kenchinpurcell.com/IDG_20260930_182518_983.jpg)

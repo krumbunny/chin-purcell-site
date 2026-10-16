@@ -35,6 +35,8 @@ It was kind of fun sinking into the English countryside as the water went down.
 
 ![](https://images.kenchinpurcell.com/IDG_20260927_110346_730.jpg) 
 
+I felt a little bad for Balto, he said they hadn't eaten since lunch the day before. I tried hard to give him some food but he said they were fine, Ellesmere wasn't too far away. They had arrived late at the marina and by the time they had gotten on the water all the stores were closed.
+
 The advice is to stay in the middle of the canal when underway, because the sides can be shallow and it’s easy to run aground. If I fell in I'm pretty sure I could stand up anywhere in the canal, it's not that deep. So Michele was always on the lookout for me for oncoming boats, and then I would veer to the right so we could pass port to port, like all boats do across the world. It's just the cars that are on the wrong side of the road. Sometime you run aground while hugging the bank, but a brief throttle in reverse gets you off and you're underway again.
 
 ![](https://images.kenchinpurcell.com/IMG_3959.jpeg) 
@@ -47,6 +49,6 @@ At Ellesmere there is a short arm of the canal that leads right into town, chock
 
 ![](https://images.kenchinpurcell.com/IMG_5541.jpeg)
 
-It was Sunday afternoon and most shops were closed, but we found some good soup at a local foods store. I walked to the mere of Ellesmere, one of the glacial lakes that dotted the area. 
+It was Sunday afternoon and most shops were closed, but we found some good soup at a local health food store. I walked to the mere of Ellesmere, one of the glacial lakes that dotted the area. 
 
 Dinner was the soup and grilled cheese sandwiches with Appenzeller cheese we brought from Switzerland.

@@ -8,6 +8,7 @@ heroImageAlt: ''
 tags:
   - europe
   - europe26
+  - england
 description: ''
 ---
 
@@ -44,6 +45,10 @@ We all met up again at New Marton locks. Here is Michele working the gates and d
 We tied up for the evening just before the Chirk aqueduct. 
 
 ![](https://images.kenchinpurcell.com/IDG_20260928_161812_063.jpg)
+
+We took a pre-diner stroll along the aqueduct. There's a surprising amount of waterfowl and fish in the canal. It was common to see fishermen along the towpath with long poles, which they would lift up at the last minute to let you pass. Here are some ducks using the aqueduct to travel from Wales to England.
+
+![](https://images.kenchinpurcell.com/IDG_20260928_164956_648.jpg)
 
 The canal here is up on the hillside as it approached the aqueduct. Our plan was to walk down to the Bridge Inn for dinner, which has a nice view of the aqueduct and railroad bridge from below. Alas the kitchen at the Bridge Inn was also closed! Mondays are tough. But no worries, we had provisions on board.
 

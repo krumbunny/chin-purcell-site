@@ -3,7 +3,7 @@ title: E26-15 Pontcysyllte Aqueduct
 date: 2026-09-30
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/IMG_3978.jpeg
 heroImageAlt: ''
 tags:
   - europe

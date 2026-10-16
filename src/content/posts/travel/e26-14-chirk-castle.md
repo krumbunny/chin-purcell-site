@@ -3,7 +3,7 @@ title: E26-14 Chirk Castle
 date: 2026-09-29
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/IDG_20260929_110324_571.jpg
 heroImageAlt: ''
 tags:
   - europe

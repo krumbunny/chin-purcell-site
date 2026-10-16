@@ -47,4 +47,4 @@ We tied up for the evening just before the Chirk aqueduct.
 
 The canal here is up on the hillside as it approached the aqueduct. Our plan was to walk down to the Bridge Inn for dinner, which has a nice view of the aqueduct and railroad bridge from below. Alas the kitchen at the Bridge Inn was also closed! Mondays are tough. But no worries, we had provisions on board.
 
-Maybe it doesn't sound that strange but to me it felt very strange to walk _downhill_ from your boat to the pub, and _uphill_ to get back to your boat.
+Maybe it doesn't sound that strange but to me it felt weird to walk _downhill_ from your boat to the pub, and _uphill_ to get back to your boat.

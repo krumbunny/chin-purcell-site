@@ -3,9 +3,12 @@ title: E26-17 Return to Chirk
 date: 2026-10-02
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/IMG_4016.jpeg
 heroImageAlt: ''
-tags: []
+tags:
+  - europe
+  - europe26
+  - wales
 description: ''
 ---
 

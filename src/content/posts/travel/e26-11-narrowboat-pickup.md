@@ -17,6 +17,8 @@ Our trip up until this point had been mostly driven by seeing family, with some 
 
 Our first job was to get from Manchester Airport to Chirk, Wales. I chose to go via Transport for Wales (TfW) which connected in Chester. This is a trip across the industrial north of England, and the train station at Chester on a drizzly morning definitely kept to the industrial vibe.
 
+![](https://images.kenchinpurcell.com/IDG_20260926_110109_992.jpg)
+
 Chester is a mid-sized city, but Chirk is a small town near the Welsh border, with a couple of small grocery stores, a few pubs and an old canal. It is also home to a factory that makes Cadbury hot chocolate mix. The marina where we were going to pick up our narrowboat was a mile and a half north of town, but our first job was to walk into town center from the train station, get some lunch and buy some supplies for the boat. We wound up eating at the Teddy Bear Cafe sandwich shop.
 
 ![](https://images.kenchinpurcell.com/IMG_3949.jpeg "Help")

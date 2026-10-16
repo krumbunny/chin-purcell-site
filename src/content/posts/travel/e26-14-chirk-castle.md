@@ -57,3 +57,7 @@ We discovered that she also wrote _Waters in England_, which it now seems we nee
 Afterwards we had a pub meal at the Aqueduct Inn, which had a nice view. Here you can see the canal leading to the aqueduct, which is behind the trees. Celeste is (illegally 😬) moored at the end of the boats on the left, just past the winding hole.
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_164924_156.jpg)
+
+We took an after-dinner stroll over to the aqueduct. It was built by Thomas Telford in 1805. Telford was a Scottish engineer who built a lot of infrastructure in the UK, some with bit of panache. Unlike the stone Chirk aqueduct the Pontcysyllte has relatively slender cast iron arches atop tall stone piers. It didn't seem to be leaking - good.
+
+![](https://images.kenchinpurcell.com/IDG_20260929_181603_517.jpg)

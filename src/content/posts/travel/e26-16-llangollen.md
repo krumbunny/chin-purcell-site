@@ -3,7 +3,7 @@ title: E26-16 Llangollen
 date: 2026-10-01
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/IDG_20261002_091436_561.jpg
 heroImageAlt: ''
 tags:
   - europe

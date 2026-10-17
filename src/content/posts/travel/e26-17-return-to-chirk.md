@@ -14,11 +14,11 @@ description: ''
 
 We ate breakfast in town at a fun cafe we had found, which that morning had three dogs that desperately wanted to check each other out while their owners sipped their tea. Then it was back on the boat and an easy cruise back to Chirk. We had to position the boat near the marina so we could make a quick drop off the next morning.
 
-Now once again I had was motoring with the current, so the engine was at an easy glide and I had the towpath on the right, which meant I wasn't in the brush when passing another boat. The canal looked just as scenic traveling eastward.
+Now once again I had the current behind me, so the engine was at an easy glide and I had the towpath on the right, which meant I wasn't in the brush when passing another boat. This was the easy direction. The canal looked just as scenic traveling eastward.
 
 ![](https://images.kenchinpurcell.com/IMG_4016.jpeg)
 
-After six days of steering the narrowboat I was feeling pretty good about myself. This morning I was threading the needle like a pro, no bumps or scrapes going under bridges or through the narrows. I was hot shit. It was a lovely day with a refreshing breeze from the north and non-threatening clouds. 
+After six days of steering the narrowboat I was feeling pretty good about my steering. This morning I was threading the needle like a pro, no bumps or scrapes going under bridges or through the narrows. I was hot shit. It was a lovely day with a refreshing breeze from the north and non-threatening clouds. 
 
 As we motored along I was cooked up a plan from when we got to Trevor Basin, and the sharp right turn to go over the aqueduct. After I got out of the tight spot under the bridge I was going to bring to the boat to a full stop, swing the tiller over and do a beautiful 90 degree swivel to the right, assess if I had right of way on the aqueduct, and then proceed. 
 

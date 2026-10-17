@@ -12,25 +12,25 @@ tags:
 description: ''
 ---
 
-I shouldn't have worried about our spot, everything was perfectly chill overnight. The canal police did not come by to kick us out. I'm pretty sure there are no canal police, I think a lot of canal life depends on good will, cooperation and a little flexibility.
+I shouldn't have worried about our spot, everything was perfectly chill overnight. The canal police did not come by and kick us out. I'm pretty sure there are no canal police. I think a lot of canal life depends on goodwill, cooperation and a little flexibility.
 
-We walked our boat forward 50 yards, tied off and filled our water tank. Then we joined a flotilla of three boats and it was off over River Dee on the Pontcysyllte aqueduct!
+We walked our boat forward 50 yards and filled our water tank. Then we joined a flotilla of three boats and it was off over River Dee on the Pontcysyllte aqueduct!
 
 {% youtube "https://youtube.com/shorts/ylOsFcPwdQE" %}
 
 ![](https://images.kenchinpurcell.com/IMG_3978.jpeg)
 
-Kevin (back at Chirk base) advised me to stand on the towpath side of the cockpit, although I'm pretty sure I would have scooted over to that side anyway. The deck level of the boat is just above that iron edge, so it feels like your boat is floating 120 ft in the air with no railing, and really not much of a lip holding you in. The views were spectacular.
+Kevin (back at Chirk base) advised me to stand on the towpath side of the cockpit, although I'm pretty sure I would have scooted over to that side on my own. The deck level of the boat is just above that iron edge, so your boat is floating 120 ft in the air with no railing, and really not much of a lip holding you in. The views were spectacular.
 
 ![](https://images.kenchinpurcell.com/IMG_3979.jpeg)
 
-At the end of the aqueduct is Trevor Basin, which is a small marina and a place to turn your boat a very quick 90 degrees, because the canal heads directly off to the left, under a bridge and then hugging the hillside. It is a busy spot, with rafts of boats in the marina, tourists, boats waiting to cross the other way, and travelers like us trying to make the turn. I thought I had it but there were a couple of loud bumps getting through the bridge. No photos of Trevor Basin, we were both too frantic. It's like old game Operation, you try to be careful and then "bzzzzt!"
+At the end of the aqueduct is Trevor Basin, which is a small marina and a place to turn your boat a very quick 90 degrees, because the canal heads directly off to the left, under a tight bridge and then hugging the hillside. It is a busy spot, with rafts of boats in the marina, tourists, boats waiting to cross the other way, and travelers like us trying to make the turn. I thought I had it but there were a couple of loud bumps getting through the bridge. No photos of Trevor Basin, we were both too frantic. It's like the old game Operation, you try to be careful and then "bzzzzt!"
 
 After Trevor Basin were several miles of some of the most beautiful scenery I’ve been along, as we made our way towards Llangollen.
 
 ![](https://images.kenchinpurcell.com/IMG_3998.jpeg)
 
-The canal is up on the hillside, and when they first restored the Llangollen canal for recreation use sections kept giving way. In the 1980's the Canal and River Trust mostly rebuilt this section with concrete. The slope is steep enough that you pass rooftops of houses on the downhill side.
+The canal is up on the hillside, and when they first restored the Llangollen canal for recreation the 1970's sections kept giving way. In the 1980's the Canal and River Trust rebuilt many sections section with concrete. The slope is steep enough that you pass rooftops of houses on the downhill side.
 
 ![](https://images.kenchinpurcell.com/IMG_3999.jpeg)
 
@@ -50,7 +50,7 @@ We walked upstream to the source of the canal, Horseshoe Falls. This is another 
 
 ![](https://images.kenchinpurcell.com/IDG_20260930_151451_499.jpg)
 
-I mean, _panache_, am I right?
+I mean, _panache_, right?
 
 {% youtube "https://youtu.be/GaFY7x47kFs" %}
 

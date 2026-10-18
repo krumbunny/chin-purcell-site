@@ -22,7 +22,7 @@ After six days of navigating the narrowboat I was feeling pretty good about my s
 
 The only tricky bit we had was trying not to run over several very novice canoeists coming the other way. There were a couple of us boats in a traffic jam trying to keep stopped and not drift into them as they bobbed and weaved around.
 
-As we motored along I cooked up a plan for when we got to Trevor Basin, with the sharp right turn to go over the aqueduct. When we came the other way two days ago it wasn't quite perfect, there were some bumps. I could do better. In my mind I was going to emerge from under he bridge, elegantly bring to the boat to a full stop, swing the tiller over and do a beautiful 90 degree swivel to the right, assess if I had right of way on the aqueduct, and then proceed. 
+As we motored along I cooked up a plan for when we got to Trevor Basin, with the sharp right turn to go over the aqueduct. When we came the other way two days ago it wasn't quite perfect, there were some bumps. I could do better. In my mind I was going to emerge from under the bridge, elegantly bring to the boat to a full stop, swing the tiller over and do a beautiful 90 degree swivel to the right, assess if I had right of way on the aqueduct, and then proceed. 
 
 So we got to that last bridge, squeezed under, and I was in Trevor Basin. To my immediate left was a raft of boats in the marina. Ahead was a concrete wall and a herd of tourists waiting to walk the bridge. To my right, the Pontcysyllte Aqueduct. I threw the boat into reverse, stopped... 
 

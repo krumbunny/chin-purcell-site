@@ -1,6 +1,6 @@
 ---
 title: E26 New Shoes
-date: 2026-09-21T12:00
+date: 2026-09-21T12:00:00Z
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/e26-5-shoes-2-01.jpg

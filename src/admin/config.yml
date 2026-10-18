@@ -27,7 +27,8 @@ collections:
           label: "Date",
           name: "date",
           widget: "datetime",
-          format: "YYYY-MM-DDTHH:mm",
+          format: "YYYY-MM-DDTHH:mm:ss[Z]",
+          picker_utc: true,
         }
       - label: "Category"
         name: "category"

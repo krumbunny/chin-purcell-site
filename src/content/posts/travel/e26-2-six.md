@@ -1,6 +1,6 @@
 ---
 title: E26 Six
-date: 2026-09-17T18:00
+date: 2026-09-17T18:00:00Z
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/E26-2-11.jpeg

@@ -50,21 +50,26 @@ module.exports = function (eleventyConfig) {
   // {{ heroImage | imageUrl(600) }} -> resized copy of an R2 photo
   eleventyConfig.addFilter("imageUrl", (src, width) => imageUrl(src, width));
 
+  // Front matter dates arrive as Date objects, but values YAML doesn't
+  // recognize as timestamps (e.g. "2026-09-17T18:00", no seconds) stay strings.
+  const toDateTime = (value) =>
+    value instanceof Date
+      ? DateTime.fromJSDate(value, { zone: "utc" })
+      : DateTime.fromISO(String(value), { zone: "utc" });
+
   // Human-friendly date filter, e.g. "April 25, 2025"
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "MMMM d, yyyy",
-    );
+    return toDateTime(dateObj).toFormat("MMMM d, yyyy");
   });
 
   // ISO date filter for <time datetime="">
   eleventyConfig.addFilter("isoDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate();
+    return toDateTime(dateObj).toISODate();
   });
 
   // Turns a Date into "2026/06/10" for WordPress-style permalinks
   eleventyConfig.addFilter("dateToPermalink", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy/MM/dd");
+    return toDateTime(dateObj).toFormat("yyyy/MM/dd");
   });
 
   // {% year %} -> current year, for footer copyright

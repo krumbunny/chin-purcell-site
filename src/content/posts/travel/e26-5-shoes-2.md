@@ -1,5 +1,5 @@
 ---
-title: E26-5 New Shoes
+title: E26-5b New Shoes
 date: 2026-09-21
 category:
   - travel

@@ -26,9 +26,9 @@ Renting the narrowboat was a great adventure. At it's core it's a mellow vacatio
 
 As another narrowboat traveler said back in Llangollen, “It _is_ addictive".
 
-We caught the train again back to Chester and then Manchester, except this time on a Saturday morning the train was packed. I would up standing for the Chirk to Chester leg, people just kept piling into our small 4 car countryside train.
+We caught the train again back to Chester and then Manchester, except this time on a Saturday morning the train was packed. I wound up standing for the Chirk to Chester leg, people just kept piling into our small 4 car countryside train.
 
-Manchester was bustling with people. Pubs were full, shops were busy, it was an active market day. Our plane back home to San Diego left Manchester the next morning, connecting through London Heathrow, so we had the day to kill. Manchester didn't have a lot of tourist attractions that jumped out at us as good for an afternoon, but it does have a very nice library, the [John Rylands Library](https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library). Here's John:
+Manchester was bustling with people. Pubs were full, shops were busy, it was an active market day. Our plane back home to San Diego left Manchester the next morning, connecting through London Heathrow, so we had time to kill. Manchester didn't have a lot of tourist attractions that jumped out at us as good for an afternoon, but it does have a very nice library, the [John Rylands Library](https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library). Here's John:
 
 ![](https://images.kenchinpurcell.com/IDG_20261003_150243_055.jpg)
 

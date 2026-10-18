@@ -1,15 +1,15 @@
 ---
-title: E26-9 Le Jardin du Souvenir
+title: E26 Le Jardin du Souvenir
 date: 2026-09-24
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IMG_5467.jpeg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - vevey
   - europe26
-description: ''
+description: ""
 ---
 
 My father died in December 2023. He had lived in the Vevey area for the last 25 years or so of his life. His ashes are in the Jardin du Souvenir at the eastern edge of St. Martin’s cemetery in Vevey.

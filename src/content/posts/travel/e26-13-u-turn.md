@@ -1,15 +1,15 @@
 ---
-title: E26-13 U-Turn
+title: E26 U-Turn
 date: 2026-09-28
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20260928_115009_905.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - europe26
   - england
-description: ''
+description: ""
 ---
 
 From perusing our our trusty _Pearson's Canal Companion_ it looked like more peaceful Shropshire countryside was in store east from Ellesmere, with the next major town, Whitchurch, at least a day away. Last winter a canal embankment gave way just east of Whitchurch, so that's as far as we can go. Normally the Llangollen Canal is connected to the Shropshire Union Canal and on to the rest of the UK, but for maybe another six months or so the boats on the Llangollen Canal are trapped in Wales and Shropshire.
@@ -24,7 +24,7 @@ It took me a couple of back and forth-s, but I managed to do it without bumping 
 
 The Llangollen Canal doubles as a water source and has a noticeable flow to it. It is fed by River Dee above Llangollen and supplies water to some of the towns along the way. We had been going downstream but now we were headed against the current. I bumped up the motor speed a bit.
 
-We fell in with another narrowboat with three men from Sweden, so of course they were the Swedes. I think they knew each other from working together at Saab. 
+We fell in with another narrowboat with three men from Sweden, so of course they were the Swedes. I think they knew each other from working together at Saab.
 
 The day started a little damp but brightened up pretty quickly. The way marks along the canal are stone bridges, all numbered. Ellesmere was at bridge 59, and as we went back towards Wales the numbers increased, topping out at 69 at Frankton Junction, where the Montgomery Canal splits off. Bridge numbers reset there to 1W, 2W and so on. The last bridge at Llangollen is 45W.
 
@@ -42,7 +42,7 @@ We all met up again at New Marton locks. Here is Michele working the gates and d
 
 {% youtube "[https://youtu.be/5ohv-GpeY3U](https://youtu.be/5ohv-GpeY3U)" %}
 
-We tied up for the evening just before the Chirk aqueduct. 
+We tied up for the evening just before the Chirk aqueduct.
 
 ![](https://images.kenchinpurcell.com/IDG_20260928_161812_063.jpg)
 

@@ -1,15 +1,15 @@
 ---
-title: E26-16 Llangollen
+title: E26 Llangollen
 date: 2026-10-01
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20261002_091436_561.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - europe26
   - wales
-description: ''
+description: ""
 ---
 
 We decided to spend a day off the water and stay on land. Our first adventure was the historic Llangollen Railway. The train running this fall Friday was a 1950's era motor coach. On summer weekends they bring out the steam engine.

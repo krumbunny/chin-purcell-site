@@ -1,15 +1,15 @@
 ---
-title: E26-5a Lund
+title: E26 Lund
 date: 2026-09-20
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/e26-5-lund-2-01.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - lund
   - europe26
-description: ''
+description: ""
 ---
 
 About an even 1000 years ago, in 1020, King Sweyn Forkbeard of Denmark looked around the large plain of what is now southern Sweden and decided that a good place for a defensible castle would be on a broad hill, thus founding Lund. Roll froward 400 years and the Academy of Lund was founded, then in 1666 the University of Lund. I think the university sits atop the hill now, with an observatory near the top.

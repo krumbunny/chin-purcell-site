@@ -1,15 +1,15 @@
 ---
-title: E26-15 Pontcysyllte Aqueduct
+title: E26 Pontcysyllte Aqueduct
 date: 2026-09-30
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IMG_3978.jpeg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - europe26
   - wales
-description: ''
+description: ""
 ---
 
 I shouldn't have worried about our spot, everything was perfectly chill overnight. The canal police did not come by and kick us out. I'm pretty sure there are no canal police. I think a lot of canal life depends on goodwill, cooperation and a little flexibility.

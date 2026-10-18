@@ -1,16 +1,16 @@
 ---
-title: E26-11 Narrowboat Pickup
+title: E26 Narrowboat Pickup
 date: 2026-09-26
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IMG_3948.jpeg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - wales
   - europe26
   - narrowboat
-description: ''
+description: ""
 ---
 
 Our trip up until this point had been mostly driven by seeing family, with some sightseeing bits along the way. Now things changed bit, the next week was an adventure just for us. We were going to travel the Llangollen canal in our own rented narrowboat.
@@ -37,7 +37,7 @@ So I tried the next entry on the list and our luck turned. The dispatcher and I 
 
 There are marinas every ten or twenty miles along the canal, with a particular operator using a given marina as a base. Chirk marina was Black Prince's base for the Llangollen Canal, and when we arrived there was a raft of maybe a dozen boats lined up at the dock. The front office told us to walk across the raft with our bags until we got to Celeste, motor running. We unpacked and checked out the boat, and then Kevin met us and gave a thorough tour. There was the diesel engine below the rear deck, the grease gun for the propeller shaft, the battery charger, the water tank, the fuel tank, the propane tank, the toilet, the stove, etc. And most importantly his phone number to call in a week when we returned, or before if we had any problems.
 
-That all was about as  expected. Kevin asked me about my boating experience, and I let him know that I was comfortable with a sailboat but didn't have much experience with a 52 foot long six foot wide pencil shaped narrowboat. I assumed there would now be a little lesson on driving this thing. 
+That all was about as expected. Kevin asked me about my boating experience, and I let him know that I was comfortable with a sailboat but didn't have much experience with a 52 foot long six foot wide pencil shaped narrowboat. I assumed there would now be a little lesson on driving this thing.
 
 Kevin got us out of the marina, handed me the tiller and told me to aim for a spot on the canal bank. I thought "ok, we're going to learn mooring", but when we got to the bank he hopped off, cheerfully waved to us and wished us a great week. And so in a bit of a state of shock the two of us were off!
 

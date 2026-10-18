@@ -1,15 +1,15 @@
 ---
-title: E26-14 Chirk Castle
+title: E26 Chirk Castle
 date: 2026-09-29
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20260929_110324_571.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - europe26
   - wales
-description: ''
+description: ""
 ---
 
 We continued upstream across the aqueduct and into Chirk Tunnel. Just past the exit of the tunnel here we tied up and went for a walk to Chirk Castle.
@@ -28,7 +28,7 @@ The grounds leading up the hill had enormous old oak trees.
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_104130_321.jpg)
 
-Here at the Welsh border the geography changes from the rolling farmland of England to the mountains of Wales, and more than 600 years ago Roger Mortimer de Chirk built a fortress, part of Edward I's scheme to protect the Ceiriog Valley. The Mortimers sold to the Myddeltons 300 years later (relation to Princess Kate?), and the Myddeltons lived there until 2004. Now it's a National Trust property. 
+Here at the Welsh border the geography changes from the rolling farmland of England to the mountains of Wales, and more than 600 years ago Roger Mortimer de Chirk built a fortress, part of Edward I's scheme to protect the Ceiriog Valley. The Mortimers sold to the Myddeltons 300 years later (relation to Princess Kate?), and the Myddeltons lived there until 2004. Now it's a National Trust property.
 
 ![](https://images.kenchinpurcell.com/IDG_20260929_111649_976.jpg)
 
@@ -48,7 +48,7 @@ Meandering through this area and crossing the canal at several points is Offa’
 
 After the castle it was back on the boat and on to Froncysyllte, a small village just before the canal crosses the River Dee on the Pontcysyllte aqueduct. Another boater said there were plenty of places to tie up "after the [lift bridge](https://maps.app.goo.gl/StPRmaPBvfR8G5rdA)", which was true but they were all either long term moorings or the place where you get fresh water. I had pulled over in a long term spot and was in a dilemma. I wanted to stay on this side of the aqueduct in Froncysyllte but I couldn’t turn around, I was past the winding hole. I asked a passing boatman if my spot was OK, and as he glided past he said "normally no, but that fellow is in dry dock". So we tied up and put a sign on the boat to call me if there were any problems. I was nervous about it though, at least until nightfall. I hate breaking the rules.
 
-We walked up to [Dorothy Hartley](https://en.wikipedia.org/wiki/Dorothy_Hartley)’s grave. Hartley was the author of _Food in England_, a favorite book of Michele's, and lived in Froncysyllte overlooking the lift bridge on the canal. 
+We walked up to [Dorothy Hartley](https://en.wikipedia.org/wiki/Dorothy_Hartley)’s grave. Hartley was the author of _Food in England_, a favorite book of Michele's, and lived in Froncysyllte overlooking the lift bridge on the canal.
 
 ![](https://images.kenchinpurcell.com/IMG_3972.jpeg)
 

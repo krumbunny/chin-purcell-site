@@ -1,12 +1,12 @@
 ---
-title: E26-8 Châteaux d’Oex
+title: E26 Châteaux d’Oex
 date: 2026-09-23
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20260923_111309_340.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags: []
-description: ''
+description: ""
 ---
 
 Tuesday was a travel day by train from Geneva to Vevey and visiting with my step-mother Sylvia.
@@ -39,6 +39,6 @@ Châteaux d’Oex is still looking good, I hope they find their footing as a yea
 
 ￼![](https://images.kenchinpurcell.com/IDG_20260923_153028_225.jpg)
 
-Another favorite of ours that has closed is Ze Fork down on the quay in Vevey. It has been replaced with a more beef focused restaurant. It looked like it was still a good restaurant but like a lot of people we're eating less red meat than we used to. We ate instead at a restaurant near the market square, which was highly rated on Google and recommended by some AI that I used but I would say wasn’t really what we were after. It was more flimsy outdoor tables and ashtrays than I was hoping for. 
+Another favorite of ours that has closed is Ze Fork down on the quay in Vevey. It has been replaced with a more beef focused restaurant. It looked like it was still a good restaurant but like a lot of people we're eating less red meat than we used to. We ate instead at a restaurant near the market square, which was highly rated on Google and recommended by some AI that I used but I would say wasn’t really what we were after. It was more flimsy outdoor tables and ashtrays than I was hoping for.
 
 I’m getting annoyed by online reviews, and the AI opinions built on them. I think I need to focus more on sizing things up in person. That crêperie we stumbled on in Châteaux d’Oex was great, no AI guidance needed.

@@ -1,15 +1,15 @@
 ---
-title: E26-20 Encore
+title: E26 Encore
 date: 2026-10-05
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20261004_173743_578.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - europe26
   - london
-description: ''
+description: ""
 ---
 
 Surprise! It's not the end of the trip!
@@ -24,9 +24,9 @@ Now normally a three-day delay would be a crisis, we would be fretting about wor
 
 It was _possible_ to get our bags, but a hassle. It would be easiest to just leave them to be put on our Wednesday flight. Now that we were Mr. & Mrs. flexible we said sure, no worries.
 
-So with our just our daypacks we found a cafe, relaxed and retooled. I found a hotel in Kensington. We stopped by Boots and got toothbrushes. Next stop Uniqlo for some underwear, a shirt and some socks. 
+So with our just our daypacks we found a cafe, relaxed and retooled. I found a hotel in Kensington. We stopped by Boots and got toothbrushes. Next stop Uniqlo for some underwear, a shirt and some socks.
 
-We ate at Indian restaurants, because the South Asian food in London is so much better than San Diego. 
+We ate at Indian restaurants, because the South Asian food in London is so much better than San Diego.
 
 ![](https://images.kenchinpurcell.com/IMG_4021.jpeg)
 

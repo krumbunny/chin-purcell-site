@@ -1,22 +1,22 @@
 ---
-title: E26-2b Six
-date: 2026-09-17
+title: E26 Six
+date: 2026-09-17T18:00
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/E26-2-11.jpeg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - london
   - europe
   - europe26
-description: ''
+description: ""
 ---
 
 We had dinner that night at Colonel Saab, which was right next door to our hotel. The space used to be the Holborn city hall, and I’m unclear if all the chandeliers are original to the city hall or that Saab liked dusting crystal.
 
 ![](https://images.kenchinpurcell.com/E26-1-24.jpeg)
 
-Colonel Saab was good food. Big props for Saab just serving dishes at a set heat level, no questions about 1-10 spiciness. 
+Colonel Saab was good food. Big props for Saab just serving dishes at a set heat level, no questions about 1-10 spiciness.
 
 ![](https://images.kenchinpurcell.com/E26-2-11.jpeg)
 

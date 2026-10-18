@@ -1,15 +1,15 @@
 ---
-title: E26-6 A Mediocre Museum
+title: E26 A Mediocre Museum
 date: 2026-09-22
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/e26-6-a-mediocre-museum-02.jpg
-heroImageAlt: ''
+heroImageAlt: ""
 tags:
   - europe
   - europe26
   - copenhagen
-description: ''
+description: ""
 ---
 
 In the morning we visited Lund’s oldest store with Evalena, then collected our bags and headed out. We had the afternoon to spend in Copenhagen, because our plane to Geneva wasn’t until the evening. It was a Monday, so many things were closed, but we decided to try the Nationalmuseet, since it was close to the train station and, well, it was open.

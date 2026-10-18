@@ -28,7 +28,7 @@ If you arrive at the right time you can see the procession of wise men paying ho
 
 {% youtube "[https://youtube.com/shorts/ChNg73MxMAM](https://youtube.com/shorts/ChNg73MxMAM)" %}
 
-There was a children’s choir practicing on the Saturday afternoon we arrived, and the was an adult singing group with an accompanying accordion on the outside plaza. Swedes like to sing! We headed for “Fisk and Kök” for a delicious bowl of fish soup. On the way were more Swedes dancing around.
+There was a children’s choir practicing on the Saturday afternoon we arrived, and there was an adult singing group with an accompanying accordion on the outside plaza. Swedes like to sing! We headed for “Fisk and Kök” for a delicious bowl of fish soup. On the way were more Swedes dancing around.
 
 {% youtube "[https://youtu.be/BZfyEG0sJK4](https://youtu.be/BZfyEG0sJK4)" %}
 
@@ -37,6 +37,6 @@ Lund isn’t large but being an old university town has endowed it with many int
 
 ![](https://images.kenchinpurcell.com/e26-5-lund-2-05.jpg)
 
-The main library had an exhibit displaying a copy of Copernicus’s De revolutionibus orbium coelestium that was discovered in the library’s holdings. Copernicus’s book was bound together with another old book, and the only card catalog entry was hand written. A recent scanning and transcribing of the card catalog, including the old hand written cards, using AI turned up the copy.
+The main library had an exhibit displaying a copy of Copernicus’s _De Revolutionibus Orbium Coelestium_ that was discovered in the library’s holdings. Copernicus’s book was bound together with another old book, and the only card catalog entry to find it was hand written. A recent scanning and transcribing of the card catalog using AI, including the old hand written cards, turned up the copy.
 
 Lund claims that their student led festival every four years is the second largest volunteer event in the world, after the Olympics. Hmmm 🤔, really? Not some Hindu festival in India? Not a huge matsuri in Japan? Not the Fête des Vignerons in Vevey?

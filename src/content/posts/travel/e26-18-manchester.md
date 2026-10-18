@@ -20,7 +20,7 @@ Then it was a whirlwind. Our taxi was there early and the driver was eager to ge
 
 ![](https://images.kenchinpurcell.com/IMG_5647.jpeg)
 
-We had only used about a quarter tank of fuel for the whole week. Displacement hull ships are pretty efficient. 
+We had only used a quarter tank of fuel for the whole week. Displacement hulls are pretty efficient. 
 
 Renting the narrowboat was a great adventure. At it's core it's a mellow vacation done at walking pace, but there's enough novelty and navigation to keep you engaged and on your toes. We're tempted to do it again sometime, especially now that we know what to expect.
 

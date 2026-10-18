@@ -1,5 +1,5 @@
 ---
-title: E26-5 Lund
+title: E26-5a Lund
 date: 2026-09-20
 category:
   - travel

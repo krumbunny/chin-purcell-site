@@ -20,7 +20,7 @@ First though I had to turn Celeste around. At the end of the canal arm into Elle
 
 ![](https://images.kenchinpurcell.com/IDG_20260928_090319_821.jpg)
 
-It took me a couple of back and forth-s, but I managed to do it without bumping anything. Another narrow boater watched from her rear deck with a cup of tea in her hand, and said something nice afterwards.
+It took me a couple of back and forth-s, but I managed to do it without bumping anything. Another narrow boater watched from her rear deck with a cup of tea in her hand. I think my novice piloting was her morning entertainment, but she said something nice afterwards. It was all very English.
 
 The Llangollen Canal doubles as a water source and has a noticeable flow to it. It is fed by River Dee above Llangollen and supplies water to some of the towns along the way. We had been going downstream but now we were headed against the current. I bumped up the motor speed a bit.
 

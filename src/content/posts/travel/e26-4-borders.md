@@ -26,4 +26,4 @@ How long until passports are obsolete? 🤔
 
 After landing in Copenhagen we took the train across the Öresundsbron to Malmö in Sweden. Evidently the Danish Copenhagen area and the Swedish Malmö region function more and more as one large metro. Sweden is a little cheaper to live in, so many live in Sweden and commute to Copenhagen acrross the Øresund bridge.
 
-Our destination was old university town of Lund, Sweden, where our niece Evalena goes to school.
+Our destination was the old university town of Lund, Sweden, where our niece Evalena goes to school.

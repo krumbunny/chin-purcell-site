@@ -1,15 +1,15 @@
 ---
 title: E26 New Shoes
-date: 2026-09-21
+date: 2026-09-21T12:00
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/e26-5-shoes-2-01.jpg
-heroImageAlt: ""
+heroImageAlt: ''
 tags:
   - europe
   - lund
   - europe26
-description: ""
+description: ''
 ---
 
 We’ve evolved a tradition of buying our niece Evalena a pair of shoes when we visit. It began in Albany and continues in Lund. On this trip we could only meet up late on Sunday or Monday morning, not the best times for shopping in Europe. I was kind of worried we wouldn’t have any place to go, but Evalena was waaaay ahead of us. We hopped on the train and went straight to a particular shop in a particular mall in big-city Malmö. ￼![](https://images.kenchinpurcell.com/e26-5-shoes-2-03.jpg)

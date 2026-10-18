@@ -38,7 +38,7 @@ There was a crowd of Scandinavians on the other side, many with phones out video
 
 Next was Froncysyllte again, with its adorable draw bridge.
 
-{% youtube "[https://youtube.com/shorts/OGb0TmpreJA](https://youtu.be/b7xkV87GHEQ)" %}
+{% youtube "[https://youtu.be/b7xkV87GHEQ](https://youtu.be/b7xkV87GHEQ)" %}
 
 We moored in the correct spot this time for Froncysyllte (_downstream_ of the bridge) and had lunch again at the Aqueduct Inn. For all the crowds down at the aqueduct the Inn was fairly quiet. The owner this time talked about Americans buying up English football teams, like Tom Brady's part ownership of Birmingham City. It must be a very mixed bag for these fans of tier 2 teams. They are proud of their team and probably aren't excited about outside ownership, but the teams need the money to compete.
 

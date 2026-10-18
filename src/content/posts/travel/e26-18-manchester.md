@@ -3,9 +3,12 @@ title: E26-18 Manchester
 date: 2026-10-03
 category:
   - travel
-heroImage: ''
+heroImage: https://images.kenchinpurcell.com/IDG_20261003_150315_886.jpg
 heroImageAlt: ''
-tags: []
+tags:
+  - europe
+  - europe26
+  - england
 description: ''
 ---
 

@@ -14,9 +14,9 @@ description: ''
 
 Surprise! It's not the end of the trip!
 
-The weather in Manchester that morning was sunny, but at Heathrow it was very foggy. The rate of planes that could land was cut in half, and long haul flights from all over the globe had precedence. British Airways loaded us onto the plane in Manchester in hopes that would improve our landing slot, but no joy. We sat there for three hours. By the time we landed at Heathrow the sun was out and our plane to San Diego was first in line to take off.
+The weather in Manchester that morning was sunny, but at Heathrow it was thick fog. The rate of planes that could land was cut in half, and the long haul flights coming in from all over the globe had precedence. British Airways loaded us onto the plane in Manchester in hopes that would improve our landing slot, but no joy. We sat there for three hours. By the time we landed at Heathrow the sun was out and our plane to San Diego was first in line to take off.
 
-Inside the terminal was chaos, lines a hundred people long with two agents at the front slowly rebooking. We got in a line that had snaked to a spot where an airport staffer was annoyed, because it blocked another queue they were managing. People were confused, cutting across our line to get to the other line, people were making up conflicting queues (you go here, they go there, no they go here, you go there...). Chaos.
+Inside the terminal was chaos, lines a hundred people long with two agents at the front slowly rebooking. We got in a line that had snaked to a spot where an airport staffer was annoyed, because it blocked another queue she was managing. People were confused, cutting across our line to get to the other line, people were making up conflicting queues (you go here, they go there, no they go here, you go there...). Chaos.
 
 A phone message came in. It was Sunday. We had been rebooked by the British Airways robot for the Wednesday San Diego flight, same seats.
 
@@ -36,7 +36,7 @@ Dishoom in particular was good.
 
 We revisited Kew gardens. The last time we were there Chihuly sculptures were on display, this time it was Moore.
 
-![](https://images.kenchinpurcell.com/IDG_20261005_113855_516.jpg)
+![](https://images.kenchinpurcell.com/IDG_20261005_113855_516.jpg "Michele being a Big Leaf")
 
 ![](https://images.kenchinpurcell.com/IMG_4026.jpeg "Ken being a Bonsai")
 

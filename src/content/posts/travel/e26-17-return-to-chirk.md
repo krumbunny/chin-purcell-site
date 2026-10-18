@@ -26,9 +26,9 @@ As we motored along I cooked up a plan for when we got to Trevor Basin, with the
 
 So we got to that last bridge, squeezed under, and I was in Trevor Basin. To my immediate left was a raft of boats in the marina. Ahead was a concrete wall and a herd of tourists waiting to walk the bridge. To my right, the Pontcysyllte Aqueduct. I threw the boat into reverse, stopped... 
 
-And then the stiff breeze from the aqueduct side promptly started pushing me sideways into the raft of boats. I swung the tiller over to no effect, I just kept going sideways. Tourists started to take interest. Desperate, I purposely ran the nose of the boat into the concrete wall ahead of me, with a loud clunk. More heads turned. There's a bumper at the bow just for this situation, but it was still pretty clumsy. Now at least I had leverage and could turn the nose into the wind. After some more back-and-forths I finally got the boat pointed at the aqueduct.
+And then the stiff breeze from the aqueduct side promptly started pushing me sideways into the raft of boats. I swung the tiller over to no effect, I just kept going sideways. Tourists started to take interest. I had to wave off the boat behind us, they patiently stopped under the bridge and watched me flail around. Desperate, I purposely ran the nose of the boat into the concrete wall ahead of me, with a loud clunk. More heads turned. There's a bumper at the bow just for this situation, but it was still pretty clumsy. Now at least I had leverage and could turn the nose into the wind. After some more back-and-forths I finally got the boat pointed at the aqueduct.
 
-My brief hot shit skipper phase was over.
+My hot shit skipper phase was over.
 
 It was super busy with pedestrians that morning on the aqueduct. Fortunately there were two volunteers at either end, with yellow vests on, directing foot and boat traffic. We got the go-ahead and proceeded across. I was still calming down from Trevor Basin, but then I was captured by the thrill of the aqueduct.
 

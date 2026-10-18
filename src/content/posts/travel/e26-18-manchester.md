@@ -14,15 +14,17 @@ description: ''
 
 In the morning we packed up our duffel bags and tidied up the boat. We left our hard sided luggage at the marina office, since there wasn't a good spot for them aboard, so we would need to repack. We motored over to the marina nice and early, 8:30am, half an hour before we were supposed to be there. There were already two boats in line! 
 
-It all went pretty fast though, in about ten minutes Kevin was free to meet us on the bank that we had set him off at a week before. I managed to glide in to where he was standing pretty smoothly, a slight redemption for the bumper boats at Trevor Basin. Kevin took the helm and slotted Celeste back into the raft of boats.
+It all went pretty fast though, in about ten minutes Kevin was free to meet us on the bank that we had set him off at a week before. I managed to glide in to where he was standing pretty smoothly, a slight redemption for the bumper boats at Trevor Basin. Kevin took the helm and slotted Celeste back into the raft.
 
-Then it was a whirlwind. Our taxi was there early and the driver was eager to get going. We still had to repack into our luggage, but we just tossed the whole thing into the taxi and took off for the station. We had only used about a quarter tank of fuel for the whole week. Displacement hull ships are pretty efficient. Fortunately the weather was good and we had plenty of time to get things back into the luggage at the train station. Chirk station is right next to the hot chocolate factory.
+Then it was a whirlwind. Our taxi was there early and the driver was eager to get going. We still had to repack into our luggage, but we just tossed the whole thing into the taxi and took off for the station. Fortunately the weather was good and we had plenty of time to get things back into the luggage at the train station. Chirk station is right next to the hot chocolate factory.
 
 ![](https://images.kenchinpurcell.com/IMG_5647.jpeg)
 
+We had only used about a quarter tank of fuel for the whole week. Displacement hull ships are pretty efficient. 
+
 Renting the narrowboat was a great adventure. At it's core it's a mellow vacation done at walking pace, but there's enough novelty and navigation to keep you engaged and on your toes. We're tempted to do it again sometime, especially now that we know what to expect.
 
-As another narrowboat traveler said back in Llangollen, “It is addictive".
+As another narrowboat traveler said back in Llangollen, “It _is_ addictive".
 
 We caught the train again back to Chester and then Manchester, except this time on a Saturday morning the train was packed. I would up standing for the Chirk to Chester leg, people just kept piling into our small 4 car countryside train.
 

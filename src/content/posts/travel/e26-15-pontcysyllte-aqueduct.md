@@ -36,7 +36,7 @@ The canal is up on the hillside, and when they first restored the Llangollen can
 
 Some sections were neat enough to feel like a city park.
 
-![](https://images.kenchinpurcell.com/IDG_20260930_100209_290.jpg)
+![](https://images.kenchinpurcell.com/IDG_20260930_100209_290.jpg "Michele on the lookout")
 
 Near Llangollen is a half kilometer section of the canal that was hewn from the rock, and is understandably only wide enough for one boat. There is thankfully signage advising you to stop and send someone ahead to make sure the way is clear. Pearson’s guide says to send your most diplomatic crew member. So myself and another boat tied off and Michele and another fellow went ahead. I soon got the text message to forge ahead, and the gal on the other boat did the same. Meanwhile Michele and Peter got to know each other a little bit. Peter and his wife Margaret are from Ellesmere and have taken their narrowboat all over the UK, including a month-long post-retirement voyage to London.
 

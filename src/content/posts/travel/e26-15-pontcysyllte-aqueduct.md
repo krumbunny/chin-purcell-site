@@ -24,13 +24,13 @@ Kevin (back at Chirk base) advised me to stand on the towpath side of the cockpi
 
 ![](https://images.kenchinpurcell.com/IMG_3979.jpeg)
 
-At the end of the aqueduct is Trevor Basin, which is a small marina and a place to turn your boat a very quick 90 degrees, because the canal heads directly off to the left, under a tight bridge and then hugging the hillside. It is a busy spot, with rafts of boats in the marina, tourists, boats waiting to cross the other way, and travelers like us trying to make the turn. I thought I had it but there were a couple of loud bumps getting through the bridge. No photos of Trevor Basin, we were both too frantic. It's like the old game Operation, you try to be careful and then "bzzzzt!"
+At the end of the aqueduct is Trevor Basin, which is a small marina and a place to turn your boat a very quick 90 degrees, because the canal heads directly off to the left, under a tight bridge and then hugging the hillside. It is a busy spot, with rafts of boats in the marina, tourists, boats waiting to cross the other way, and travelers like us trying to make the turn. I thought I had Celeste turned but there were a couple of loud bumps getting under the bridge. No photos of Trevor Basin, we were both too frantic. It's like the old game Operation, you try to be careful and then "bzzzzt!"
 
-After Trevor Basin were several miles of some of the most beautiful scenery I’ve been along, as we made our way towards Llangollen.
+After Trevor Basin were several miles of some of the most beautiful scenery I’ve been along, as we made our way towards Llangollen. From Pontcysyllte aqueduct to Llangollen is a UNESCO World Heritage Site, and I agree.
 
 ![](https://images.kenchinpurcell.com/IMG_3998.jpeg)
 
-The canal is up on the hillside, and when they first restored the Llangollen canal for recreation the 1970's sections kept giving way. In the 1980's the Canal and River Trust rebuilt many sections section with concrete. The slope is steep enough that you pass rooftops of houses on the downhill side.
+The canal is up on the hillside, and when they first restored the Llangollen canal in the 1970's sections kept giving way. In the 1980's the Canal and River Trust reconstructed many parts with concrete. The slope is steep enough that you pass rooftops of houses on the downhill side.
 
 ![](https://images.kenchinpurcell.com/IMG_3999.jpeg)
 

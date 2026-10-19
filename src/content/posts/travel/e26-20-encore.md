@@ -48,4 +48,4 @@ We went to the main V&A museum. Here I am on the 4th floor with the ceramics stu
 
 We walked Portobello Road and bought a cookbook at Books for Cooks. It was a fun couple of days! It also gave us a chance to transition from canal life back to city life.
 
-Our Wednesday flight to San Diego was on time and uneventful, which was good. We were both now ready to come back home.
+Our Wednesday flight to San Diego was on time and uneventful, which was good. We were both ready to come back home.

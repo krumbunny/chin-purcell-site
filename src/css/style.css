@@ -254,3 +254,24 @@ h1, h2, h3 {
   font-size: 0.85rem;
   margin-top: 3rem;
 }
+
+.site-footer .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.footer-feed {
+  display: inline-flex;
+  color: var(--color-muted);
+}
+
+.footer-feed:hover,
+.footer-feed:focus-visible {
+  color: var(--color-accent);
+}

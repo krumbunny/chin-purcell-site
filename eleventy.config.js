@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const pluginRss = require("@11ty/eleventy-plugin-rss").default;
 const tagCollections = require("./src/_data/tagCollections.js");
 
 // Photos in R2 are full-size originals. Cloudflare Image Transformations
@@ -41,6 +42,9 @@ function photo(src, alt, caption) {
 }
 
 module.exports = function (eleventyConfig) {
+  // Feed filters (absoluteUrl, htmlToAbsoluteUrls, dateToRfc3339, ...) for feed.njk
+  eleventyConfig.addPlugin(pluginRss);
+
   // Static passthroughs
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/images");

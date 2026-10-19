@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-plugin-rss": "^3.1.0",
     "glightbox": "^3.3.1",
     "luxon": "^3.7.2",
     "pagefind": "^1.5.2"

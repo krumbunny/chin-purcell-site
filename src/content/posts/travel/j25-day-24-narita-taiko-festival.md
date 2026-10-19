@@ -28,11 +28,11 @@ We were on our way to see Yuko play with her Miyake taiko group. We grabbed some
 
 ![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2046.jpeg)
 
-https://videopress.com/v/5Ybq27ph?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2F5Ybq27ph%2Fimg\_2050\_mov\_std.original.jpg&preloadContent=metadata&useAverageColor=true
+{% videopress "5Ybq27ph" %}
 
 As the playing progressed they set up a drum right in front of us. I'm glad I had some hearing protection! That's the youngest Tsumura dancing around with the mask on,
 
-https://videopress.com/v/yPu2Zyys?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2FyPu2Zyys%2Fimg\_2051\_mov\_std.original.jpg&preloadContent=metadata&useAverageColor=true
+{% videopress "yPu2Zyys" %}
 
 Miyake is a bit meditative, and sessions can go on for a while. Yuko did great. Not only is she a marvelous connector of people in the taiko community but she's also a strong player.
 
@@ -42,11 +42,11 @@ Despite the sun Yuko and Chie encouraged us to keep our seats, given the crowd. 
 
 Then there was a group that were very good at twirling their bachi. This move could seem a little hokey in the wrong hands, but they were also good players, so I thought it worked.
 
-https://videopress.com/v/M0mdq0JW?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2FM0mdq0JW%2Fimg\_2059\_mov\_std.original.jpg&preloadContent=metadata&useAverageColor=true
+{% videopress "M0mdq0JW" %}
 
 And after that was a rather raucous troupe with two men on either side of a drum with locked arms, doing a kind of taiko battle, while the gals danced around with okedo. They were in constant motion.
 
-https://videopress.com/v/l0LJG3XV?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2Fl0LJG3XV%2Fimg\_2061\_mov\_std.original.jpg&preloadContent=metadata&useAverageColor=true
+{% videopress "l0LJG3XV" %}
 
 By this time Michele and I were sun baked and we gave up our seats to find some shade and a cool drink.Next we strolled down the street past several other stages and an old eel restaurant where two guys were filleting eels all day.
 
@@ -64,7 +64,7 @@ Demons?
 
 The high quality of playing was such that afterwards my main comment was "I'm ruined".
 
-https://videopress.com/v/jf3z2EyB?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2Fjf3z2EyB%2Fimg\_2072\_mov\_std.original.jpg&preloadContent=metadata&useAverageColor=true
+{% videopress "jf3z2EyB" %}
 
 Afterwards Michele was encouraged to say hi to her workshop teacher Machiko.
 

@@ -121,17 +121,17 @@ They ate it! Yoshio even had seconds! Phew.
 
 After dinner Yoshio, Kaori and daughter played for us on the lodge taiko drum.
 
-https://videopress.com/v/0VwNeqCQ?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+{% videopress "0VwNeqCQ" %}
 
 Yoshio and Kaori
 
-https://videopress.com/v/fS6cwxDU?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+{% videopress "fS6cwxDU" %}
 
 Yoshio and daughter
 
 They finished with a lovely duet about a Hachijo woman who misses her lover. Hachijo used to be a prison island, and the local woman fell in love with a prisoner. When he finished his time he went back to Honshu and she was left looking at the ocean.
 
-https://videopress.com/v/bidiLF2i?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+{% videopress "bidiLF2i" %}
 
 Hachijo gal misses her guy
 

@@ -28,7 +28,7 @@ Stalls
 
 The dancers were masked. This one is ... ?
 
-https://videopress.com/v/2bqp7wzo?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+{% videopress "2bqp7wzo" %}
 
 No Japanese festival would be complete without Men (mostly) Doing Dangerous Things. At some festivals they hoist the floats on their shoulders and joust with each other, or at one they run tall yatai around a corner fast so they tip over half the time, sending riders flying. Here the feats of bravery happened on a tall hand made ladder.
 
@@ -90,7 +90,7 @@ After that Michele held the lantern for a bit and also sang some. Here's a longi
 
 The girl has form!
 
-https://videopress.com/v/yDeIwmoH?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fvideos.files.wordpress.com%2FyDeIwmoH%2Fimg_2155-1_mov_std.original.jpg&preloadContent=metadata&useAverageColor=true
+{% videopress "yDeIwmoH" %}
 
 We ended up back at the 7-Eleven end. It was a hard four hours of playing for Michele. I kept her supplied with water between sets but she skipped lunch. By the end of the afternoon everyone was ready to grab a bite and watch the yatai floats.
 

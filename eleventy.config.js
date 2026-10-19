@@ -97,38 +97,20 @@ module.exports = function (eleventyConfig) {
     return `<iframe class="video-embed${vertical ? " video-embed--vertical" : ""}" src="https://www.youtube-nocookie.com/embed/${id}" title="${label}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   });
 
-  // {% videopress "5Ybq27ph", "Title" %} -> responsive VideoPress embed. Takes
-  // a video ID or any videopress.com/v/ or /embed/ link.
-  eleventyConfig.addShortcode("videopress", (idOrUrl, title) => {
-    const input = String(idOrUrl).trim();
-    const match = input.match(/videopress\.com\/(?:v|embed)\/(\w+)/);
-    const id = match ? match[1] : input;
-    const label = String(title || "Video").replace(/"/g, "&quot;");
-    return `<iframe class="video-embed" src="https://videopress.com/embed/${id}?preloadContent=metadata&amp;useAverageColor=true" title="${label}" loading="lazy" allow="autoplay; clipboard-write; fullscreen; picture-in-picture" allowfullscreen></iframe>`;
-  });
-
-  // {{ content | feedVideos }} -> swaps video embeds for links. Feed readers
-  // like Feedly strip the Referer header from iframes, which YouTube rejects
-  // with "Error 153", and many drop iframes entirely.
+  // {{ content | feedVideos }} -> swaps YouTube embeds for a thumbnail that
+  // links to the video. Feed readers like Feedly strip the Referer header
+  // from iframes, which YouTube rejects with "Error 153".
   eleventyConfig.addFilter("feedVideos", (html) =>
-    String(html ?? "")
-      .replace(
-        /<iframe class="video-embed( video-embed--vertical)?" src="https:\/\/www\.youtube-nocookie\.com\/embed\/([\w-]{11})" title="([^"]*)"[^>]*><\/iframe>/g,
-        (_, vertical, id, title) => {
-          const watchUrl = vertical
-            ? `https://www.youtube.com/shorts/${id}`
-            : `https://www.youtube.com/watch?v=${id}`;
-          const label = title && title !== "YouTube video" ? `: ${title}` : "";
-          return `<p><a href="${watchUrl}"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="${title}" width="480" height="360"></a><br><a href="${watchUrl}">▶ Watch on YouTube${label}</a></p>`;
-        },
-      )
-      .replace(
-        /<iframe class="video-embed" src="https:\/\/videopress\.com\/embed\/(\w+)[^"]*" title="([^"]*)"[^>]*><\/iframe>/g,
-        (_, id, title) => {
-          const label = title && title !== "Video" ? `: ${title}` : "";
-          return `<p><a href="https://videopress.com/v/${id}">▶ Watch video${label}</a></p>`;
-        },
-      ),
+    String(html ?? "").replace(
+      /<iframe class="video-embed( video-embed--vertical)?" src="https:\/\/www\.youtube-nocookie\.com\/embed\/([\w-]{11})" title="([^"]*)"[^>]*><\/iframe>/g,
+      (_, vertical, id, title) => {
+        const watchUrl = vertical
+          ? `https://www.youtube.com/shorts/${id}`
+          : `https://www.youtube.com/watch?v=${id}`;
+        const label = title && title !== "YouTube video" ? `: ${title}` : "";
+        return `<p><a href="${watchUrl}"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="${title}" width="480" height="360"></a><br><a href="${watchUrl}">▶ Watch on YouTube${label}</a></p>`;
+      },
+    ),
   );
 
   // Markdown images render as lightbox photos (see photo() above). A title

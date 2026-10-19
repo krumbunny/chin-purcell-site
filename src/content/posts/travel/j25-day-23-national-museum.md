@@ -23,7 +23,7 @@ Usually Shishi is part of Shinto and hangs out at Shinto shrines guarding the en
 
 Outside of the museum a pop band was performing a free concert in the main square.
 
-{% videopress "fcu63V0f" %}
+{% youtube "https://youtu.be/BSITTU45yO0", "Ueno Park party" %}
 
 Walking through Ueno park again made me feel like we’ve been in Japan through a change of seasons. When we arrived in Nagasaki we had some brisk days where I was wearing gloves and a knit hat. In Okawachiyama the cherry trees were in full bloom and a light jacket was perfect. Last week we strolled this same stretch in Ueno park and there were still picnics going in full swing under the sakura blossoms. A week later and Sakura is over, it’s getting warm and the crowds are gone.
 

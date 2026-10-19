@@ -13,7 +13,7 @@ description: We spent the weekend with Bill and Pam in Tokyo. Saturday was a fai
 
 We spent the weekend with Bill and Pam in Tokyo. Saturday was a fairly straightforward day seeing some Tokyo sights, like the Meiji Shrine and Ueno park. But first Bill needed a replacement suitcase, so we dived into a Don Quixote near the hotel. It was first thing in the morning, so not as crazy as my previous experience, but just to give you a taste…
 
-{% videopress "1G2ljIlB" %}
+{% youtube "https://youtu.be/YZ6GJ_PPV_U", "Donki" %}
 
 There’s a lot packed into a Donki
 

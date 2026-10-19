@@ -28,11 +28,11 @@ We were on our way to see Yuko play with her Miyake taiko group. We grabbed some
 
 ![](https://images.kenchinpurcell.com/j24-day-24-narita-taiko-festival-img_2046.jpeg)
 
-{% videopress "5Ybq27ph" %}
+{% youtube "https://youtu.be/EHW7x9lAFEE", "Miyake at the 2025 Narita Taiko Festival" %}
 
 As the playing progressed they set up a drum right in front of us. I'm glad I had some hearing protection! That's the youngest Tsumura dancing around with the mask on,
 
-{% videopress "yPu2Zyys" %}
+{% youtube "https://youtu.be/kZnOHh-0wzU", "Miyake at the 2025 Narita Taiko Festival" %}
 
 Miyake is a bit meditative, and sessions can go on for a while. Yuko did great. Not only is she a marvelous connector of people in the taiko community but she's also a strong player.
 
@@ -42,11 +42,11 @@ Despite the sun Yuko and Chie encouraged us to keep our seats, given the crowd. 
 
 Then there was a group that were very good at twirling their bachi. This move could seem a little hokey in the wrong hands, but they were also good players, so I thought it worked.
 
-{% videopress "M0mdq0JW" %}
+{% youtube "https://youtu.be/MHGyT92nuNo", "Spinning bachi at the 2025 Narita Taiko Festival" %}
 
 And after that was a rather raucous troupe with two men on either side of a drum with locked arms, doing a kind of taiko battle, while the gals danced around with okedo. They were in constant motion.
 
-{% videopress "l0LJG3XV" %}
+{% youtube "https://youtu.be/RCNhWJ1oU48", "Dual drums at the 2025 Narita Taiko Festival" %}
 
 By this time Michele and I were sun baked and we gave up our seats to find some shade and a cool drink.Next we strolled down the street past several other stages and an old eel restaurant where two guys were filleting eels all day.
 
@@ -64,7 +64,7 @@ Demons?
 
 The high quality of playing was such that afterwards my main comment was "I'm ruined".
 
-{% videopress "jf3z2EyB" %}
+{% youtube "https://youtu.be/iouyiV5kHcM", "Temple performance at the 2025 Narita Taiko Festival" %}
 
 Afterwards Michele was encouraged to say hi to her workshop teacher Machiko.
 

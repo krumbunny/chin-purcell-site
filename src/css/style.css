@@ -157,10 +157,8 @@ h1, h2, h3 {
    otherwise show it at a fraction of its size). */
 .post-body a.glightbox img { width: 100%; }
 
-/* Video embeds — from the {% youtube %} / {% videopress %} shortcodes, or a
-   pasted YouTube iframe */
-.post-body iframe[src*="youtube"],
-.post-body iframe.video-embed {
+/* YouTube embeds — from the {% youtube %} shortcode, or a pasted iframe */
+.post-body iframe[src*="youtube"] {
   display: block;
   width: 100%;
   height: auto;

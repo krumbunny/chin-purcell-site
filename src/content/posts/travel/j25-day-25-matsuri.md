@@ -28,7 +28,7 @@ Stalls
 
 The dancers were masked. This one is ... ?
 
-{% videopress "2bqp7wzo" %}
+{% youtube "https://youtu.be/1H50tHORXlo", "Festival floats at the 2025 Iruma Matsuri" %}
 
 No Japanese festival would be complete without Men (mostly) Doing Dangerous Things. At some festivals they hoist the floats on their shoulders and joust with each other, or at one they run tall yatai around a corner fast so they tip over half the time, sending riders flying. Here the feats of bravery happened on a tall hand made ladder.
 
@@ -90,7 +90,7 @@ After that Michele held the lantern for a bit and also sang some. Here's a longi
 
 The girl has form!
 
-{% videopress "yDeIwmoH" %}
+{% youtube "https://youtu.be/Z9jrQpURv8c", "Miyake taiko at the 2025 Iruma Matsuri" %}
 
 We ended up back at the 7-Eleven end. It was a hard four hours of playing for Michele. I kept her supplied with water between sets but she skipped lunch. By the end of the afternoon everyone was ready to grab a bite and watch the yatai floats.
 

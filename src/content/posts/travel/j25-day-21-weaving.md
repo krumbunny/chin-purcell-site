@@ -21,7 +21,7 @@ While we waited for the performance Michele and Yuko started playing on a drum o
 
 ![](https://images.kenchinpurcell.com/j25-day-21-weaving-img_1862.jpg)
 
-{% videopress "LRZgzwe5" %}
+{% youtube "https://youtu.be/thVf7NLMc8I", "Michele and Yuko warming up" %}
 
 The performers did about a dozen dances for us. They were dressed in the local fabric, dyed a natural yellow from an island plant.
 
@@ -29,7 +29,7 @@ The performers did about a dozen dances for us. They were dressed in the local f
 
 They then did a little taiko.
 
-{% videopress "lXjhmva5" %}
+{% youtube "https://youtu.be/70_7eNdBkhE", "Hachijo performance" %}
 
 The finale involved cajoling the front row of the audience (us!), and definitely the two tall and awkward gaijin, up onto the stage for a little dance number. Mr. Tokyo-tour-group behind us made *sure* Bill and I got up there. I have pointedly not tried to figure out if anyone took video of that one.
 

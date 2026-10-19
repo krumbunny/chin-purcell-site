@@ -1,14 +1,14 @@
 ---
-title: "J25 Day 20: Hachijo Style"
-date: 2025-04-18
+title: 'J25 Day 20: Hachijo Style'
+date: 2025-04-18T12:00
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/j25-day-20-hachijo-style-k1001249-1.jpg
-heroImageAlt: "J25 Day 20: Hachijo Style"
+heroImageAlt: 'J25 Day 20: Hachijo Style'
 tags:
-  - "japan"
-  - "japan25"
-description: "Michele and Ryoko had a taiko lesson scheduled for 2 pm at the lodge, so we all had the morning free. Yuko loaded us back into the van and we went down…"
+  - japan
+  - japan25
+description: Michele and Ryoko had a taiko lesson scheduled for 2 pm at the lodge, so we all had the morning free. Yuko loaded us back into the van and we went down…
 ---
 
 Michele and Ryoko had a taiko lesson scheduled for 2 pm at the lodge, so we all had the morning free. Yuko loaded us back into the van and we went down lonely streets and an unpaved lane to arrive unexpectedly at a lovely café with a great view. Hachijo seems to have its treasures tucked away.

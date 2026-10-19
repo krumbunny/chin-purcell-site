@@ -23,7 +23,7 @@ eleventyExcludeFromCollections: true
     {%- if post.data.description %}
     <summary>{{ post.data.description }}</summary>
     {%- endif %}
-    <content type="html">{{ post.content | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+    <content type="html">{{ post.content | feedVideos | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>
   {%- endfor %}
 </feed>

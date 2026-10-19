@@ -97,6 +97,22 @@ module.exports = function (eleventyConfig) {
     return `<iframe class="video-embed${vertical ? " video-embed--vertical" : ""}" src="https://www.youtube-nocookie.com/embed/${id}" title="${label}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   });
 
+  // {{ content | feedVideos }} -> swaps YouTube embeds for a thumbnail that
+  // links to the video. Feed readers like Feedly strip the Referer header
+  // from iframes, which YouTube rejects with "Error 153".
+  eleventyConfig.addFilter("feedVideos", (html) =>
+    String(html ?? "").replace(
+      /<iframe class="video-embed( video-embed--vertical)?" src="https:\/\/www\.youtube-nocookie\.com\/embed\/([\w-]{11})" title="([^"]*)"[^>]*><\/iframe>/g,
+      (_, vertical, id, title) => {
+        const watchUrl = vertical
+          ? `https://www.youtube.com/shorts/${id}`
+          : `https://www.youtube.com/watch?v=${id}`;
+        const label = title && title !== "YouTube video" ? `: ${title}` : "";
+        return `<p><a href="${watchUrl}"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="${title}" width="480" height="360"></a><br><a href="${watchUrl}">▶ Watch on YouTube${label}</a></p>`;
+      },
+    ),
+  );
+
   // Markdown images render as lightbox photos (see photo() above). A title
   // (`![alt](url "Caption")`) becomes a figure-overlay caption instead of a
   // native title tooltip, so authors can add an overlay caption without

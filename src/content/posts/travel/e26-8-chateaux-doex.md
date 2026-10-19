@@ -4,9 +4,12 @@ date: 2026-09-23
 category:
   - travel
 heroImage: https://images.kenchinpurcell.com/IDG_20260923_111309_340.jpg
-heroImageAlt: ""
-tags: []
-description: ""
+heroImageAlt: ''
+tags:
+  - europe
+  - europe26
+  - vaud
+description: ''
 ---
 
 Tuesday was a travel day by train from Geneva to Vevey and visiting with my step-mother Sylvia.

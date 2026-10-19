@@ -26,11 +26,11 @@ The most obvious landmark isn’t the dumpling shop, it’s the central cathedra
 
 If you arrive at the right time you can see the procession of wise men paying homage to baby Jesus.
 
-{% youtube "[https://youtube.com/shorts/ChNg73MxMAM](https://youtube.com/shorts/ChNg73MxMAM)" %}
+{% youtube "https://youtube.com/shorts/ChNg73MxMAM" "Astronomical Clock" %}
 
 There was a children’s choir practicing on the Saturday afternoon we arrived, and there was an adult singing group with an accompanying accordion on the outside plaza. Swedes like to sing! We headed for “Fisk and Kök” for a delicious bowl of fish soup. On the way were more Swedes dancing around.
 
-{% youtube "[https://youtu.be/BZfyEG0sJK4](https://youtu.be/BZfyEG0sJK4)" %}
+{% youtube "https://youtu.be/BZfyEG0sJK4" "Folk Dancing in Lund" %}
 
 Lund isn’t large but being an old university town has endowed it with many interesting buildings, museums, gardens, sculpture and so on.
 ￼![](https://images.kenchinpurcell.com/e26-5-lund-2-04.jpg)
